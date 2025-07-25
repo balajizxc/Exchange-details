@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "VANRY",
+        "name": "VANRY",
+        "networkDetails": {
+            "coin": "VANRY",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "VANRY",
+            "network": "Vanar",
+            "withdrawEnable": true,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "0.02",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VANRY"
+        }
+    }
+]

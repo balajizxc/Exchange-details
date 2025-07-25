@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "REDLC",
+        "name": "Redlight Chain",
+        "networkDetails": {
+            "coin": "REDLC",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Redlight Chain",
+            "network": "REDLC",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "REDLC"
+        }
+    }
+]

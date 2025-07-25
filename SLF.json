@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SLF",
+        "name": "SLF",
+        "networkDetails": {
+            "coin": "SLF",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "SLF",
+            "network": "SLF",
+            "withdrawEnable": true,
+            "withdrawFee": "0.2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "700000",
+            "withdrawMin": "0.5",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SLF"
+        }
+    }
+]

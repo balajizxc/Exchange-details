@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ACA",
+        "name": "Acala Token",
+        "networkDetails": {
+            "coin": "ACA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "Acala Token",
+            "network": "ACALA",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1700000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ACALA"
+        }
+    }
+]

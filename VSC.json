@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "VSC",
+        "name": "VSC",
+        "networkDetails": {
+            "coin": "VSC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "VSC",
+            "network": "VSC",
+            "withdrawEnable": true,
+            "withdrawFee": "8",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5555555.555555",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VSC"
+        }
+    }
+]

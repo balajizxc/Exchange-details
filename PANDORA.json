@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PDA1",
+        "name": "PandoraChain",
+        "networkDetails": {
+            "coin": "PDA1",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "PandoraChain",
+            "network": "PANDORA",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PANDORA"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ETHW",
+        "name": "ETHW",
+        "networkDetails": {
+            "coin": "ETHW",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 1500,
+            "name": "ETHW",
+            "network": "ETHW",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "60000",
+            "withdrawMin": "0.5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "Due to network congestion, estimated deposit time will be 8 hours.",
+            "netWork": "ETHW"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SAMAOLD",
+        "name": "Moonsama",
+        "networkDetails": {
+            "coin": "SAMAOLD",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "Moonsama",
+            "network": "SAMA",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40165279",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SAMA"
+        }
+    }
+]

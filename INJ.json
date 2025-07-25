@@ -1,0 +1,90 @@
+[
+    {
+        "coin": "HDRO",
+        "name": "HDRO",
+        "networkDetails": {
+            "coin": "HDRO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 100,
+            "name": "HDRO",
+            "network": "INJ",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "800000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "factory/inj1etz0laas6h7vemg3qtd67jpr6lh8v7xz7gfzqw/hdro",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "INJ"
+        }
+    },
+    {
+        "coin": "BLACK",
+        "name": "Black Panther",
+        "networkDetails": {
+            "coin": "BLACK",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "Black Panther",
+            "network": "INJ",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "factory/inj16eckaf75gcu9uxdglyvmh63k9t0l7chd0qmu85/black",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "INJ"
+        }
+    },
+    {
+        "coin": "INJ",
+        "name": "INJ",
+        "networkDetails": {
+            "coin": "INJ",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 100,
+            "name": "INJ",
+            "network": "INJ",
+            "withdrawEnable": true,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000",
+            "withdrawMin": "0.015",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "INJ"
+        }
+    },
+    {
+        "coin": "INJX",
+        "name": "Injex Finance",
+        "networkDetails": {
+            "coin": "INJX",
+            "depositDesc": "Deposit suspended as project integration is in progress",
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "Injex Finance",
+            "network": "INJ",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1600001",
+            "withdrawMin": "1600000",
+            "sameAddress": false,
+            "contract": "factory/inj104h3hchl7ws8lp78zpvrunvsjdwfjc02r5d0fp/injx",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "INJ"
+        }
+    }
+]

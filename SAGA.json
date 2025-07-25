@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SAGA",
+        "name": "SAGA",
+        "networkDetails": {
+            "coin": "SAGA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "SAGA",
+            "network": "SAGA",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "500000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SAGA"
+        }
+    }
+]

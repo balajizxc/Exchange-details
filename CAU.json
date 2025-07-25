@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CAU",
+        "name": "Canxium",
+        "networkDetails": {
+            "coin": "CAU",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Canxium",
+            "network": "CAU",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "50000",
+            "withdrawMin": "0.4",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CAU"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "OORT",
+        "name": "OORT",
+        "networkDetails": {
+            "coin": "OORT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "OORT",
+            "network": "OORT",
+            "withdrawEnable": true,
+            "withdrawFee": "0.3",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "500000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OORT"
+        }
+    }
+]

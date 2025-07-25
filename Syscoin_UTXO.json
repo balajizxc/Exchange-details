@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SYS",
+        "name": "Syscoin Rollux",
+        "networkDetails": {
+            "coin": "SYS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 120,
+            "name": "Syscoin",
+            "network": "Syscoin UTXO",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SYS"
+        }
+    }
+]

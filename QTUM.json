@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "QI",
+        "name": "QiSwap",
+        "networkDetails": {
+            "coin": "QI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 10,
+            "name": "QiSwap",
+            "network": "QTUM",
+            "withdrawEnable": true,
+            "withdrawFee": "0.2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "17000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "54fefdb5b31164f66ddb68becd7bdd864cacd65b",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "QTUM"
+        }
+    },
+    {
+        "coin": "QTUM",
+        "name": "Qtum",
+        "networkDetails": {
+            "coin": "QTUM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 10,
+            "name": "Qtum",
+            "network": "QTUM",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000",
+            "withdrawMin": "0.45",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "QTUM"
+        }
+    }
+]

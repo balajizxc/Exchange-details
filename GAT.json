@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "GAT",
+        "name": "Gather",
+        "networkDetails": {
+            "coin": "GAT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 1,
+            "name": "Gather",
+            "network": "GAT",
+            "withdrawEnable": true,
+            "withdrawFee": "0.15",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "6000",
+            "withdrawMin": "0.3",
+            "sameAddress": false,
+            "contract": "16",
+            "withdrawTips": null,
+            "depositTips": "Please ensure your transferred assets originate from the GAT instance, otherwise the deposit won't be credited.",
+            "netWork": "GAT"
+        }
+    }
+]

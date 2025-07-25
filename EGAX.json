@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "EGAX",
+        "name": "Egochain",
+        "networkDetails": {
+            "coin": "EGAX",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 40,
+            "name": "Egochain",
+            "network": "EGAX",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "50000",
+            "withdrawMin": "0.5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "EGAX"
+        }
+    }
+]

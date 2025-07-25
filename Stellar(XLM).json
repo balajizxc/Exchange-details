@@ -1,0 +1,178 @@
+[
+    {
+        "coin": "SHX",
+        "name": "SHX",
+        "networkDetails": {
+            "coin": "SHX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 15,
+            "name": "SHX",
+            "network": "Stellar(XLM)",
+            "withdrawEnable": true,
+            "withdrawFee": "20",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "40",
+            "sameAddress": true,
+            "contract": "GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH@SHX",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XLM"
+        }
+    },
+    {
+        "coin": "XLM",
+        "name": "Stellar",
+        "networkDetails": {
+            "coin": "XLM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 15,
+            "name": "Stellar",
+            "network": "Stellar(XLM)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "XLM"
+        }
+    },
+    {
+        "coin": "AQUARIUS",
+        "name": "Aquarius",
+        "networkDetails": {
+            "coin": "AQUARIUS",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 15,
+            "name": "Aquarius",
+            "network": "Stellar(XLM)",
+            "withdrawEnable": false,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "180000000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "GBNZILSTVQZ4R7IKQDGHYGY2QXL5QOFJYQMXPKWRRM5PAV7Y4M67AQUA@AQUA",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XLM"
+        }
+    },
+    {
+        "coin": "AIDOGEXLM",
+        "name": "AIDOGEXLM",
+        "networkDetails": {
+            "coin": "AIDOGEXLM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 15,
+            "name": "AIDOGEXLM",
+            "network": "Stellar(XLM)",
+            "withdrawEnable": true,
+            "withdrawFee": "100",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1700000000",
+            "withdrawMin": "200",
+            "sameAddress": true,
+            "contract": "GBO6DKJYFBG7UEUSAOI3MD2SF7FJWEZBRICUAILXWGJINVL7SKAKQ7X7@AIDOGE",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XLM"
+        }
+    },
+    {
+        "coin": "RBTOLD",
+        "name": "Rabet",
+        "networkDetails": {
+            "coin": "RBTOLD",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 15,
+            "name": "Rabet",
+            "network": "Stellar(XLM)",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "200",
+            "sameAddress": true,
+            "contract": "GCMSCRWZ3QBOI6AF75B5ZWDBXOSMIRW4FSBZH5OI65Y4H4GVH7LPSOYS@RBT",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XLM"
+        }
+    },
+    {
+        "coin": "VELO",
+        "name": "VELO-XLM",
+        "networkDetails": {
+            "coin": "VELO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 15,
+            "name": "VELO-XLM",
+            "network": "Stellar(XLM)",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "50000000",
+            "withdrawMin": "20",
+            "sameAddress": true,
+            "contract": "GDM4RQUQQUVSKQA7S6EM7XBZP3FCGH4Q7CL6TABQ7B2BEJ5ERARM2M5M@VELO",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "XLM"
+        }
+    },
+    {
+        "coin": "LSP",
+        "name": "Lumenswap",
+        "networkDetails": {
+            "coin": "LSP",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 15,
+            "name": "Lumenswap",
+            "network": "Stellar(XLM)",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "GAB7STHVD5BDH3EEYXPI3OM7PCS4V443PYB5FNT6CFGJVPDLMKDM24WK@LSP",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XLM"
+        }
+    },
+    {
+        "coin": "NWC",
+        "name": "Newscrypto",
+        "networkDetails": {
+            "coin": "NWC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 15,
+            "name": "Newscrypto",
+            "network": "Stellar(XLM)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3700000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "GAAPUOQWOZAG3PENRN7FEPYWXVGJBJVBL6EUE2ZHN5TSY7WBXQDO7AY2@NWC",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XLM"
+        }
+    }
+]

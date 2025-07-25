@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PUNDIAI",
+        "name": "PUNDIAI",
+        "networkDetails": {
+            "coin": "PUNDIAI",
+            "depositDesc": "Deposit suspended upon project party's request",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "PUNDIAI",
+            "network": "FXEVM",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "FXEVM"
+        }
+    }
+]

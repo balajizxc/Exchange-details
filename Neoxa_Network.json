@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NEOX",
+        "name": "Neoxa",
+        "networkDetails": {
+            "coin": "NEOX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 200,
+            "name": "Neoxa",
+            "network": "Neoxa Network",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "21000000",
+            "withdrawMin": "1500",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NEOX"
+        }
+    }
+]

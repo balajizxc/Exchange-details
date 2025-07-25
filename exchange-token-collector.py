@@ -3,11 +3,7 @@ import json
 import os
 
 # MEXC API Endpoint (no authentication required)
-url = "https://api.mexc.com/api/v3/capital/config/getall"
-
-# Make the request
-response = requests.get(url)
-response.raise_for_status()  # Raise an error if API fails
+url = "https://apionse.raise_for_status()  # Raise an error if API fails
 data = response.json()
 
 eth_tokens = []

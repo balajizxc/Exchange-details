@@ -1,0 +1,90 @@
+[
+    {
+        "coin": "ORAIX",
+        "name": "OraiDEX",
+        "networkDetails": {
+            "coin": "ORAIX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "OraiDEX",
+            "network": "ORAI",
+            "withdrawEnable": true,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "14000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "orai1lus0f0rhx8s03gdllx2n6vhkmf0536dv57wfge",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ORAI"
+        }
+    },
+    {
+        "coin": "ORAI",
+        "name": "Oraichain",
+        "networkDetails": {
+            "coin": "ORAI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Oraichain",
+            "network": "ORAI",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "14000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ORAI"
+        }
+    },
+    {
+        "coin": "AIRI",
+        "name": "AiRight",
+        "networkDetails": {
+            "coin": "AIRI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "AiRight",
+            "network": "ORAI",
+            "withdrawEnable": true,
+            "withdrawFee": "20",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "33000000",
+            "withdrawMin": "40",
+            "sameAddress": true,
+            "contract": "orai10ldgzued6zjp0mkqwsv2mux3ml50l97c74x8sg",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ORAI"
+        }
+    },
+    {
+        "coin": "OCH",
+        "name": "Orchai",
+        "networkDetails": {
+            "coin": "OCH",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Orchai",
+            "network": "ORAI",
+            "withdrawEnable": true,
+            "withdrawFee": "0.2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "125000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "orai1hn8w33cqvysun2aujk5sv33tku4pgcxhhnsxmvnkfvdxagcx0p8qa4l98q",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ORAI"
+        }
+    }
+]

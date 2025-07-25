@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "LUCYAI",
+        "name": "Pitch Lucy Ai",
+        "networkDetails": {
+            "coin": "LUCYAI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Pitch Lucy Ai",
+            "network": "ZETA",
+            "withdrawEnable": true,
+            "withdrawFee": "600",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000000",
+            "withdrawMin": "1200",
+            "sameAddress": false,
+            "contract": "0xe102f20347D601C08E9f998475b7c9998b498deE",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZETA"
+        }
+    },
+    {
+        "coin": "ZETA",
+        "name": "ZETA",
+        "networkDetails": {
+            "coin": "ZETA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "ZETA",
+            "network": "ZETA",
+            "withdrawEnable": true,
+            "withdrawFee": "0.3",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZETA"
+        }
+    },
+    {
+        "coin": "SBX",
+        "name": "SOBAX",
+        "networkDetails": {
+            "coin": "SBX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "SOBAX",
+            "network": "ZETA",
+            "withdrawEnable": true,
+            "withdrawFee": "1.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "600000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0xb36377F643F67e5F9775f62B624e8907C214de3c",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZETA"
+        }
+    }
+]

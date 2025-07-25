@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "AJUN",
+        "name": "Ajuna Network",
+        "networkDetails": {
+            "coin": "AJUN",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 10,
+            "name": "Ajuna Network",
+            "network": "AJUN",
+            "withdrawEnable": true,
+            "withdrawFee": "1.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "3",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "AJUN"
+        }
+    }
+]

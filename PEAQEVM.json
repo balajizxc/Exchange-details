@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SLC",
+        "name": "Silencio",
+        "networkDetails": {
+            "coin": "SLC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 10,
+            "name": "Silencio",
+            "network": "PEAQEVM",
+            "withdrawEnable": true,
+            "withdrawFee": "1000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "400000000",
+            "withdrawMin": "2000",
+            "sameAddress": false,
+            "contract": "0x5c3126bfb9a68a7021d461230127470b3824886b",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PEAQEVM"
+        }
+    }
+]

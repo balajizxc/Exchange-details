@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MMUI",
+        "name": "MetaMUI",
+        "networkDetails": {
+            "coin": "MMUI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "MetaMUI",
+            "network": "MMUI",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "MMUI"
+        }
+    }
+]

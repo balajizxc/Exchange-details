@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ZVC",
+        "name": "ZVChain",
+        "networkDetails": {
+            "coin": "ZVC",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "ZVChain",
+            "network": "ZVC",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "400000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZVC"
+        }
+    }
+]

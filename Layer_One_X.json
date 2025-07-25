@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "L1X",
+        "name": "LAYER ONE X",
+        "networkDetails": {
+            "coin": "L1X",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "LAYER ONE X",
+            "network": "Layer One X",
+            "withdrawEnable": false,
+            "withdrawFee": "3",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "6000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "L1X"
+        }
+    }
+]

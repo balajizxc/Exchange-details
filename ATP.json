@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ATP",
+        "name": "Alaya",
+        "networkDetails": {
+            "coin": "ATP",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "Alaya",
+            "network": "ATP",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4500000",
+            "withdrawMin": "0.5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ATP"
+        }
+    }
+]

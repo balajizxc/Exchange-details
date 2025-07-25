@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SUPOLD",
+        "name": "SUP",
+        "networkDetails": {
+            "coin": "SUPOLD",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "SUP",
+            "network": "BTM2",
+            "withdrawEnable": false,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "47fcd4d7c22d1d38931a6cd7767156babbd5f05bbbb3f7d3900635b56eb1b67e",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BTM2"
+        }
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "coin": "S",
+        "name": "S",
+        "networkDetails": {
+            "coin": "S",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "S",
+            "network": "SONIC",
+            "withdrawEnable": true,
+            "withdrawFee": "0.6",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "270000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SONIC"
+        }
+    },
+    {
+        "coin": "BOO",
+        "name": "Spookyswap",
+        "networkDetails": {
+            "coin": "BOO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Spookyswap",
+            "network": "SONIC",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x7A0C53F7eb34C5BC8B01691723669adA9D6CB384",
+            "withdrawTips": "",
+            "depositTips": "",
+            "netWork": "SONIC"
+        }
+    },
+    {
+        "coin": "GOGLZ",
+        "name": "GOGGLES",
+        "networkDetails": {
+            "coin": "GOGLZ",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "GOGGLES",
+            "network": "SONIC",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SONIC"
+        }
+    },
+    {
+        "coin": "LUMOS",
+        "name": "Lumos",
+        "networkDetails": {
+            "coin": "LUMOS",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "Lumos",
+            "network": "SONIC",
+            "withdrawEnable": true,
+            "withdrawFee": "400000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "400000000000",
+            "withdrawMin": "800000",
+            "sameAddress": false,
+            "contract": "0xC0dA8629599b364eb0A8921A477Fb80440a68BD4",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SONIC"
+        }
+    },
+    {
+        "coin": "FLY",
+        "name": "Fly Trade",
+        "networkDetails": {
+            "coin": "FLY",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Fly Trade",
+            "network": "SONIC",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0x6c9B3A74ae4779da5Ca999371eE8950e8DB3407f",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SONIC"
+        }
+    },
+    {
+        "coin": "USDC",
+        "name": "USDC",
+        "networkDetails": {
+            "coin": "USDC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "USDC",
+            "network": "SONIC",
+            "withdrawEnable": true,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SONIC"
+        }
+    },
+    {
+        "coin": "EGGS",
+        "name": "Eggs",
+        "networkDetails": {
+            "coin": "EGGS",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "Eggs",
+            "network": "SONIC",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "250000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0xf26Ff70573ddc8a90Bd7865AF8d7d70B8Ff019bC",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SONIC"
+        }
+    },
+    {
+        "coin": "BEETS",
+        "name": "Beets",
+        "networkDetails": {
+            "coin": "BEETS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Beets",
+            "network": "SONIC",
+            "withdrawEnable": true,
+            "withdrawFee": "7",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "0x2D0E0814E62D80056181F5cd932274405966e4f0",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SONIC"
+        }
+    },
+    {
+        "coin": "ANON",
+        "name": "HeyAnon",
+        "networkDetails": {
+            "coin": "ANON",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "HeyAnon",
+            "network": "SONIC",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SONIC"
+        }
+    },
+    {
+        "coin": "SHADOW",
+        "name": "Shadow",
+        "networkDetails": {
+            "coin": "SHADOW",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Shadow",
+            "network": "SONIC",
+            "withdrawEnable": true,
+            "withdrawFee": "0.0015",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1250",
+            "withdrawMin": "0.01",
+            "sameAddress": false,
+            "contract": "0x3333b97138D4b086720b5aE8A7844b1345a33333",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SONIC"
+        }
+    }
+]

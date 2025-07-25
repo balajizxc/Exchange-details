@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "SVL",
+        "name": "Slash Vision Labs",
+        "networkDetails": {
+            "coin": "SVL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Slash Vision Labs",
+            "network": "Mantle(MNT)",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "0xabBeED1d173541e0546B38b1C0394975be200000",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MNT"
+        }
+    },
+    {
+        "coin": "COOK",
+        "name": "mETHProtocol",
+        "networkDetails": {
+            "coin": "COOK",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "mETHProtocol",
+            "network": "Mantle(MNT)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x9F0C013016E8656bC256f948CD4B79ab25c7b94D",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MNT"
+        }
+    },
+    {
+        "coin": "MNT",
+        "name": "Mantle",
+        "networkDetails": {
+            "coin": "MNT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Mantle",
+            "network": "Mantle(MNT)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.8",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "400000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MNT"
+        }
+    }
+]

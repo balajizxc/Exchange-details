@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "JOYSTREAM",
+        "name": "JOYSTREAM",
+        "networkDetails": {
+            "coin": "JOYSTREAM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "JOYSTREAM",
+            "network": "JOY",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3300000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "The token name of Joystream (JOY) is JOYSTREAM in MEXC; please make sure they're correct before taking action.",
+            "depositTips": "The token name of Joystream (JOY) is JOYSTREAM in MEXC; please make sure they're correct before taking action.",
+            "netWork": "JOY"
+        }
+    }
+]

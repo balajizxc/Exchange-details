@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CVN",
+        "name": "CVN",
+        "networkDetails": {
+            "coin": "CVN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "CVN",
+            "network": "CVN",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "0.5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CVN"
+        }
+    }
+]

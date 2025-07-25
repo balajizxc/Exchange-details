@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TLOS",
+        "name": "TLOS",
+        "networkDetails": {
+            "coin": "TLOS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 120,
+            "name": "TLOS",
+            "network": "TLOSEVM",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "TLOSEVM"
+        }
+    }
+]

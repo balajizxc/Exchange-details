@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NAM",
+        "name": "NAM",
+        "networkDetails": {
+            "coin": "NAM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 3500,
+            "name": "NAM",
+            "network": "NAMADA",
+            "withdrawEnable": true,
+            "withdrawFee": "15",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "50",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "Please do not use the [PRIVATE,Shielded / Shielding / Unshielding] method to deposit NAM, or it will be lost.",
+            "netWork": "NAMADA"
+        }
+    }
+]

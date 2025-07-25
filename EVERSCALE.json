@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "EVER",
+        "name": "Everscale",
+        "networkDetails": {
+            "coin": "EVER",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Everscale",
+            "network": "EVERSCALE",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "8000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "FREETON"
+        }
+    }
+]

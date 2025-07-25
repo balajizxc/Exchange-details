@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "HELI",
+        "name": "HeliChain",
+        "networkDetails": {
+            "coin": "HELI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "HeliChain",
+            "network": "HELI",
+            "withdrawEnable": true,
+            "withdrawFee": "800",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1500000000",
+            "withdrawMin": "1600",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "HELI"
+        }
+    }
+]

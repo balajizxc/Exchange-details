@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "QKC",
+        "name": "QuarkChain",
+        "networkDetails": {
+            "coin": "QKC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 50,
+            "name": "QuarkChain",
+            "network": "QKC",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "300",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "",
+            "depositTips": "",
+            "netWork": "QKC"
+        }
+    }
+]

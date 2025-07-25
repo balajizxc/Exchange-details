@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "MANGO",
+        "name": "Mango Markets",
+        "networkDetails": {
+            "coin": "MANGO",
+            "depositDesc": "Due to block scanning delay, the wallet is under maintenance, and deposit is suspended. It is expected to reopen at 2022-01-21 22:00 (UTC+8).",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "Mango Markets",
+            "network": "SOL",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "750000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "Due to block scanning delay on SOL, deposits may be slightly delayed.",
+            "netWork": "NONE"
+        }
+    },
+    {
+        "coin": "SHIB",
+        "name": "SHIB-BSC",
+        "networkDetails": {
+            "coin": "SHIB",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "SHIB-SOL",
+            "network": "SOL",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "90000000",
+            "withdrawMin": "0",
+            "sameAddress": false,
+            "contract": "CiKu4eHsVrc1eueVQeHn7qhXTcVu95gSQmBpX4utjL9z",
+            "withdrawTips": null,
+            "depositTips": "Due to block scanning delay on SOL, deposits may be slightly delayed.",
+            "netWork": "NONE"
+        }
+    }
+]

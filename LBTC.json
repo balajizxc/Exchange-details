@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "LBTC",
+        "name": "LightningBitcoin",
+        "networkDetails": {
+            "coin": "LBTC",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "LightningBitcoin",
+            "network": "LBTC",
+            "withdrawEnable": false,
+            "withdrawFee": "0.2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "600000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "LBTC"
+        }
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "KAI1",
+        "name": "Kinetix Finance",
+        "networkDetails": {
+            "coin": "KAI1",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "Kinetix Finance",
+            "network": "KAVAEVM",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "8000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x52369B1539EA8F4e1eadEEF18D85462Dcf9a3658",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KAVAEVM"
+        }
+    },
+    {
+        "coin": "HOV",
+        "name": "HOV",
+        "networkDetails": {
+            "coin": "HOV",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "HOV",
+            "network": "KAVAEVM",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "15000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0xCe82db637A2D750380ef27063518eAa263fbe10E",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KAVAEVM"
+        }
+    },
+    {
+        "coin": "WAGMI",
+        "name": "Wagmi",
+        "networkDetails": {
+            "coin": "WAGMI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "Wagmi",
+            "network": "KAVAEVM",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KAVAEVM"
+        }
+    }
+]

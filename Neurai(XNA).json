@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XNA",
+        "name": "Neurai",
+        "networkDetails": {
+            "coin": "XNA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 300,
+            "name": "Neurai",
+            "network": "Neurai(XNA)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "21000000",
+            "withdrawMin": "0.5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XNA"
+        }
+    }
+]

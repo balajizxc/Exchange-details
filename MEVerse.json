@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MEV",
+        "name": "MEVerse",
+        "networkDetails": {
+            "coin": "MEV",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "MEVerse",
+            "network": "MEVerse",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "22000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MEV"
+        }
+    }
+]

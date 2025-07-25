@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "VSYS",
+        "name": "V Systems",
+        "networkDetails": {
+            "coin": "VSYS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 32,
+            "name": "V Systems",
+            "network": "VSYS",
+            "withdrawEnable": true,
+            "withdrawFee": "9",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000000",
+            "withdrawMin": "50",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VSYS"
+        }
+    }
+]

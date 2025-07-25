@@ -1,0 +1,178 @@
+[
+    {
+        "coin": "TNS",
+        "name": "TNS",
+        "networkDetails": {
+            "coin": "TNS",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "TNS",
+            "network": "LUNC",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "60000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "LUNA"
+        }
+    },
+    {
+        "coin": "LUNC",
+        "name": "Terra Classic",
+        "networkDetails": {
+            "coin": "LUNC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Terra Classic",
+            "network": "LUNC",
+            "withdrawEnable": true,
+            "withdrawFee": "9000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000000",
+            "withdrawMin": "10000",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": "The LUNC address has been changed to Memo format.",
+            "depositTips": "Please note that LUNC will charge a 1% fee for each deposit (including 0.5% for transfer to official smart contracts and 0.5% for funds pooling on the platform).",
+            "netWork": "LUNA"
+        }
+    },
+    {
+        "coin": "TERRA",
+        "name": "Terraport",
+        "networkDetails": {
+            "coin": "TERRA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Terraport",
+            "network": "LUNC",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "20",
+            "sameAddress": true,
+            "contract": "terra1ex0hjv3wurhj4wgup4jzlzaqj4av6xqd8le4etml7rg9rs207y4s8cdvrp",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "LUNA"
+        }
+    },
+    {
+        "coin": "KUJIOLD",
+        "name": "Kujira",
+        "networkDetails": {
+            "coin": "KUJIOLD",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Kujira",
+            "network": "LUNC",
+            "withdrawEnable": true,
+            "withdrawFee": "0.07",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "80000",
+            "withdrawMin": "0.3",
+            "sameAddress": true,
+            "contract": "terra1xfsdgcemqwxp4hhnyk4rle6wr22sseq7j07dnn",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "LUNA"
+        }
+    },
+    {
+        "coin": "USTC",
+        "name": "USTC-LUNC",
+        "networkDetails": {
+            "coin": "USTC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "USTC-LUNC",
+            "network": "LUNC",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "5",
+            "sameAddress": true,
+            "contract": "uusd",
+            "withdrawTips": "",
+            "depositTips": "Please note that USTC-LUNC will charge a 1% fee for each deposit (including 0.5% for transfer to official smart contracts and 0.5% for funds pooling on the platform).",
+            "netWork": "LUNA"
+        }
+    },
+    {
+        "coin": "VKRC",
+        "name": "Valkyrie Protocol",
+        "networkDetails": {
+            "coin": "VKRC",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Valkyrie Protocol",
+            "network": "LUNC",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "terra1dy9kmlm4anr92e42mrkjwzyvfqwz66un00rwr5",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "LUNA"
+        }
+    },
+    {
+        "coin": "ASTRO",
+        "name": "Astroport Classic",
+        "networkDetails": {
+            "coin": "ASTRO",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Astroport Classic",
+            "network": "LUNC",
+            "withdrawEnable": true,
+            "withdrawFee": "0.2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "78000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3",
+            "withdrawTips": "The token name of Astroport Classic is ASTRO in MEXC ; Current contract address: terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3, please confirm before proceeding.",
+            "depositTips": "The token name of Astroport Classic is ASTRO in MEXC; Current futures address: terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3, please confirm before deposit.",
+            "netWork": "LUNA"
+        }
+    },
+    {
+        "coin": "ANC",
+        "name": "ANC-LUNA",
+        "networkDetails": {
+            "coin": "ANC",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "ANC-LUNA",
+            "network": "LUNC",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "LUNA"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ART",
+        "name": "ART",
+        "networkDetails": {
+            "coin": "ART",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 80,
+            "name": "ART",
+            "network": "ARTELA",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ARTELA"
+        }
+    }
+]

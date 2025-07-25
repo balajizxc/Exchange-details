@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NAV",
+        "name": "Navcoin",
+        "networkDetails": {
+            "coin": "NAV",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 15,
+            "name": "Navcoin",
+            "network": "NAV",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3400000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NAV"
+        }
+    }
+]

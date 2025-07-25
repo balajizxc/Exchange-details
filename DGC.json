@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "DGC",
+        "name": "DANGNN DAYA COIN",
+        "networkDetails": {
+            "coin": "DGC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "DANGNN DAYA COIN",
+            "network": "DGC",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "680000000",
+            "withdrawMin": "5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DGC"
+        }
+    },
+    {
+        "coin": "HRT",
+        "name": "HIRO",
+        "networkDetails": {
+            "coin": "HRT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "HIRO",
+            "network": "DGC",
+            "withdrawEnable": true,
+            "withdrawFee": "1000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "400000000",
+            "withdrawMin": "2000",
+            "sameAddress": false,
+            "contract": "0x206493b423F54DCDfD9abE6AA86F6CC1Da0029De",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DGC"
+        }
+    }
+]

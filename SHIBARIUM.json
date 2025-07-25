@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BONE",
+        "name": "BONE",
+        "networkDetails": {
+            "coin": "BONE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "BONE",
+            "network": "SHIBARIUM",
+            "withdrawEnable": false,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SHIBARIUM"
+        }
+    }
+]

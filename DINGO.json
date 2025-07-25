@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DINGO",
+        "name": "Dingocoin",
+        "networkDetails": {
+            "coin": "DINGO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 150,
+            "name": "Dingocoin",
+            "network": "DINGO",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "7000000000",
+            "withdrawMin": "5000",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DINGO"
+        }
+    }
+]

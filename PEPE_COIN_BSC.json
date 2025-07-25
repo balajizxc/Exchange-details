@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PPCOLD",
+        "name": "PEPE COIN BSC",
+        "networkDetails": {
+            "coin": "PPCOLD",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 61,
+            "name": "PEPE COIN BSC",
+            "network": "PEPE COIN BSC",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000000000000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x9498c4383406A5bDD9100cFF3fE0B550A111dD3D",
+            "withdrawTips": "Please note that there will be an additional 10% fee for each transfer of PPC to the official smart contract.",
+            "depositTips": "Please note that PPC will charge a 20% fee for each deposit (including 10% for transfer to official smart contracts and 10% for funds pooling on the platform).",
+            "netWork": "BSC"
+        }
+    }
+]

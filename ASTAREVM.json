@@ -1,0 +1,134 @@
+[
+    {
+        "coin": "SRS",
+        "name": "Sirius Finance",
+        "networkDetails": {
+            "coin": "SRS",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "Sirius Finance",
+            "network": "ASTAREVM",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "400000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x9448610696659de8F72e1831d392214aE1ca4838",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ASTAREVM"
+        }
+    },
+    {
+        "coin": "ARSW",
+        "name": "ArthSwap",
+        "networkDetails": {
+            "coin": "ARSW",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "ArthSwap",
+            "network": "ASTAREVM",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "80000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ASTAREVM"
+        }
+    },
+    {
+        "coin": "ASTR",
+        "name": "Astar",
+        "networkDetails": {
+            "coin": "ASTR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 50,
+            "name": "Astar",
+            "network": "ASTAREVM",
+            "withdrawEnable": true,
+            "withdrawFee": "7",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1500000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ASTAREVM"
+        }
+    },
+    {
+        "coin": "NIKA",
+        "name": "Nika",
+        "networkDetails": {
+            "coin": "NIKA",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "Nika",
+            "network": "ASTAREVM",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1500000",
+            "withdrawMin": "0",
+            "sameAddress": false,
+            "contract": "0x6Df98E5fBfF3041105cB986B9D44c572a43Fcd22",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ASTAREVM"
+        }
+    },
+    {
+        "coin": "ATID",
+        "name": "AstridDAO",
+        "networkDetails": {
+            "coin": "ATID",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "AstridDAO",
+            "network": "ASTAREVM",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "82000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x5271D85CE4241b310C0B34b7C2f1f036686A6d7C",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ASTAREVM"
+        }
+    },
+    {
+        "coin": "ASTAR",
+        "name": "Astar",
+        "networkDetails": {
+            "coin": "ASTAR",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "Astar",
+            "network": "ASTAREVM",
+            "withdrawEnable": false,
+            "withdrawFee": "15",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1500000",
+            "withdrawMin": "30",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NONE"
+        }
+    }
+]

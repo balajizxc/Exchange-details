@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NOM",
+        "name": "Onomy Protocol",
+        "networkDetails": {
+            "coin": "NOM",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "Onomy Protocol",
+            "network": "NOM",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NOM"
+        }
+    }
+]

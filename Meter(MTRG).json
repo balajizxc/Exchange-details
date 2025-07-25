@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "MTRG",
+        "name": "Meter Governance",
+        "networkDetails": {
+            "coin": "MTRG",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Meter Governance",
+            "network": "Meter(MTRG)",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "MTRG",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MTRG"
+        }
+    },
+    {
+        "coin": "MTR",
+        "name": "Meter MetaStable",
+        "networkDetails": {
+            "coin": "MTR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Meter MetaStable",
+            "network": "Meter(MTRG)",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "300000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "MTR",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MTRG"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ROSE",
+        "name": "ROSE",
+        "networkDetails": {
+            "coin": "ROSE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 40,
+            "name": "Oasis",
+            "network": "ROSE",
+            "withdrawEnable": true,
+            "withdrawFee": "6",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5500000",
+            "withdrawMin": "50",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ROSE"
+        }
+    }
+]

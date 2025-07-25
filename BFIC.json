@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BFIC",
+        "name": "BFIC",
+        "networkDetails": {
+            "coin": "BFIC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "BFIC",
+            "network": "BFIC",
+            "withdrawEnable": true,
+            "withdrawFee": "0.05",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "70000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BFIC"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NEBL",
+        "name": "NEBL",
+        "networkDetails": {
+            "coin": "NEBL",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "NEBL",
+            "network": "NEBL",
+            "withdrawEnable": false,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "150000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NEBL"
+        }
+    }
+]

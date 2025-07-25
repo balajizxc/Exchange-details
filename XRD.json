@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XRD",
+        "name": "Radix",
+        "networkDetails": {
+            "coin": "XRD",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 500,
+            "name": "Radix",
+            "network": "XRD",
+            "withdrawEnable": true,
+            "withdrawFee": "6",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "6000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XRD"
+        }
+    }
+]

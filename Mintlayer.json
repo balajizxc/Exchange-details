@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ML",
+        "name": "ML",
+        "networkDetails": {
+            "coin": "ML",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 6,
+            "name": "ML",
+            "network": "Mintlayer",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ML"
+        }
+    }
+]

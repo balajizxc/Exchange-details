@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "IMX",
+        "name": "IMX",
+        "networkDetails": {
+            "coin": "IMX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 300,
+            "name": "IMX",
+            "network": "Immutable zkEVM",
+            "withdrawEnable": false,
+            "withdrawFee": "0.00252",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "133333.333333333333333333333333333333",
+            "withdrawMin": "0.005",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "IMMUTABLE"
+        }
+    }
+]

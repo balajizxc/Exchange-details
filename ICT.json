@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ICT",
+        "name": "ICT",
+        "networkDetails": {
+            "coin": "ICT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "ICT",
+            "network": "ICT",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "400000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ICT"
+        }
+    }
+]

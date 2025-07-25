@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "HNS",
+        "name": "Handshake",
+        "networkDetails": {
+            "coin": "HNS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 8,
+            "name": "Handshake",
+            "network": "HNS",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "8000000",
+            "withdrawMin": "25",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "HNS"
+        }
+    }
+]

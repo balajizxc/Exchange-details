@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CELOTESTTOKEN",
+        "name": "CELOTESTTOKEN",
+        "networkDetails": {
+            "coin": "CELOTESTTOKEN",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "CELOTESTTOKEN",
+            "network": "CELOTEST",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "0",
+            "sameAddress": false,
+            "contract": "0x779877a7b0d9e8603169ddbd7836e478b4624789",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CELO_TEST"
+        }
+    }
+]

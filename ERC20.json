@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "XLS",
+        "name": "ELIS",
+        "networkDetails": {
+            "coin": "XLS",
+            "depositDesc": "Deposit suspended upon project party's request",
+            "depositEnable": false,
+            "minConfirm": 64,
+            "name": "ELIS",
+            "network": "ERC20",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "11238257.778",
+            "withdrawMin": "11238250",
+            "sameAddress": false,
+            "contract": "0x6c862f803ff42a97d4a483ab761256ad8c90f4f8",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NONE"
+        }
+    },
+    {
+        "coin": "BUYOLD",
+        "name": "BURENCY",
+        "networkDetails": {
+            "coin": "BUYOLD",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 18,
+            "name": "BURENCY",
+            "network": "ERC20",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "78000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x31fdd1c6607f47c14a2821f599211c67ac20fa96",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NONE"
+        }
+    },
+    {
+        "coin": "CAIOLD",
+        "name": "CAI",
+        "networkDetails": {
+            "coin": "CAIOLD",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "CAI",
+            "network": "ERC20",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x4FE9f52Ec23f6805F2Fd0332a34Da4F1c135b024",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NONE"
+        }
+    }
+]

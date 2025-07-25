@@ -1,0 +1,90 @@
+[
+    {
+        "coin": "WING",
+        "name": "WING",
+        "networkDetails": {
+            "coin": "WING",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 15,
+            "name": "WING",
+            "network": "ONT",
+            "withdrawEnable": true,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "500000",
+            "withdrawMin": "0.02",
+            "sameAddress": false,
+            "contract": "00c59fcd27a562d6397883eab1f2fff56e58ef80",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ONT"
+        }
+    },
+    {
+        "coin": "MBL",
+        "name": "Moviebloc",
+        "networkDetails": {
+            "coin": "MBL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 15,
+            "name": "Moviebloc",
+            "network": "ONT",
+            "withdrawEnable": true,
+            "withdrawFee": "900",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "85000000",
+            "withdrawMin": "1000",
+            "sameAddress": false,
+            "contract": "e5a49d7fd57e7178e189d3965d1ee64368a1036d",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ONT"
+        }
+    },
+    {
+        "coin": "ONG",
+        "name": "Ontology Gas",
+        "networkDetails": {
+            "coin": "ONG",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 15,
+            "name": "Ontology Gas",
+            "network": "ONT",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "900000",
+            "withdrawMin": "15",
+            "sameAddress": false,
+            "contract": "0200000000000000000000000000000000000000",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ONT"
+        }
+    },
+    {
+        "coin": "ONT",
+        "name": "Ontology Token",
+        "networkDetails": {
+            "coin": "ONT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 15,
+            "name": "Ontology Token",
+            "network": "ONT",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1200000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0100000000000000000000000000000000000000",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ONT"
+        }
+    }
+]

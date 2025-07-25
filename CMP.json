@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CMP",
+        "name": "Caduceus Metaverse",
+        "networkDetails": {
+            "coin": "CMP",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Caduceus Metaverse",
+            "network": "CMP",
+            "withdrawEnable": false,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CMP"
+        }
+    }
+]

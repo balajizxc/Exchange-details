@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MNTL",
+        "name": "AssetMantle",
+        "networkDetails": {
+            "coin": "MNTL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "AssetMantle",
+            "network": "MNTL",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "24000000",
+            "withdrawMin": "5",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MNTL"
+        }
+    }
+]

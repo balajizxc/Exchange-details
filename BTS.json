@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BTS",
+        "name": "BitShares",
+        "networkDetails": {
+            "coin": "BTS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "BitShares",
+            "network": "BTS",
+            "withdrawEnable": true,
+            "withdrawFee": "30",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "70000000",
+            "withdrawMin": "200",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BTS"
+        }
+    }
+]

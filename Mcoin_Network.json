@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MCOIN",
+        "name": "mCoin",
+        "networkDetails": {
+            "coin": "MCOIN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "mCoin",
+            "network": "Mcoin Network",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "80000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MCOIN"
+        }
+    }
+]

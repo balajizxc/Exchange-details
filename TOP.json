@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TOP",
+        "name": "TOP Network",
+        "networkDetails": {
+            "coin": "TOP",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 3,
+            "name": "TOP Network",
+            "network": "TOP",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "470000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "TOP"
+        }
+    }
+]

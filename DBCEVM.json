@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "DBC",
+        "name": "DBC",
+        "networkDetails": {
+            "coin": "DBC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "DBC",
+            "network": "DBCEVM",
+            "withdrawEnable": true,
+            "withdrawFee": "0.03",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "150000000",
+            "withdrawMin": "0.05",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DBCEVM"
+        }
+    },
+    {
+        "coin": "DLC",
+        "name": "DLC",
+        "networkDetails": {
+            "coin": "DLC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "DLC",
+            "network": "DBCEVM",
+            "withdrawEnable": true,
+            "withdrawFee": "500",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "400000000",
+            "withdrawMin": "1000",
+            "sameAddress": false,
+            "contract": "0x6f8F70C74FE7d7a61C8EAC0f35A4Ba39a51E1BEe",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DBCEVM"
+        }
+    }
+]

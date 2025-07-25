@@ -1,0 +1,90 @@
+[
+    {
+        "coin": "SRX",
+        "name": "StorX Network",
+        "networkDetails": {
+            "coin": "SRX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 100,
+            "name": "StorX Network",
+            "network": "XDC",
+            "withdrawEnable": true,
+            "withdrawFee": "4",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "xdc5d5f074837f5d4618b3916ba74de1bf9662a3fed",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XDC"
+        }
+    },
+    {
+        "coin": "WTK",
+        "name": "WadzPay Token",
+        "networkDetails": {
+            "coin": "WTK",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "WadzPay Token",
+            "network": "XDC",
+            "withdrawEnable": false,
+            "withdrawFee": "71.428571428571428571428571428571",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "14285714.285714285714285714285714285714",
+            "withdrawMin": "142.857142857142857142857142857142",
+            "sameAddress": false,
+            "contract": "xdcb3f18b584263191a33169f6393487e43e9586329",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NONE"
+        }
+    },
+    {
+        "coin": "XDC",
+        "name": "XDC Network",
+        "networkDetails": {
+            "coin": "XDC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 100,
+            "name": "XDC Network",
+            "network": "XDC",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XDC"
+        }
+    },
+    {
+        "coin": "PRNT",
+        "name": "Prime Numbers Labs",
+        "networkDetails": {
+            "coin": "PRNT",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "Prime Numbers Labs",
+            "network": "XDC",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "xdc0e11710aad67e7427cfbc12c353284c2e335f62c",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XDC"
+        }
+    }
+]

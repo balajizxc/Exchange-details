@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "KINT",
+        "name": "Kintsugi",
+        "networkDetails": {
+            "coin": "KINT",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Kintsugi",
+            "network": "KINT",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "280000",
+            "withdrawMin": "0.5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KINT"
+        }
+    }
+]

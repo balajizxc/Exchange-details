@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BEBE",
+        "name": "BEBE",
+        "networkDetails": {
+            "coin": "BEBE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "BEBE",
+            "network": "BECHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "4000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000000",
+            "withdrawMin": "8000",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BECHAIN"
+        }
+    }
+]

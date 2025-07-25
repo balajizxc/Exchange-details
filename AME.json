@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "AME",
+        "name": "AME Chain",
+        "networkDetails": {
+            "coin": "AME",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 35,
+            "name": "AME Chain",
+            "network": "AME",
+            "withdrawEnable": true,
+            "withdrawFee": "500",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000000",
+            "withdrawMin": "1000",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "AME tokens have been migrated to the AME chain. Deposits via other chains are not supported. You will lose your assets if you make AME deposits via other chains.",
+            "netWork": "AME"
+        }
+    }
+]

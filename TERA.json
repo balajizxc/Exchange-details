@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TERA1",
+        "name": "TERA",
+        "networkDetails": {
+            "coin": "TERA1",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 1500,
+            "name": "TERA",
+            "network": "TERA",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "100",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "TERA"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BNC",
+        "name": "BIFROST-POLKADOT",
+        "networkDetails": {
+            "coin": "BNC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "BIFROST-POLKADOT",
+            "network": "BNCPOLKA",
+            "withdrawEnable": true,
+            "withdrawFee": "0.4",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "900000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BNCPOLKA"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "FB",
+        "name": "Fractal Bitcoin",
+        "networkDetails": {
+            "coin": "FB",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 120,
+            "name": "Fractal Bitcoin",
+            "network": "FRACTAL",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "FRACTAL"
+        }
+    }
+]

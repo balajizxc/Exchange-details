@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BBDC",
+        "name": "Block Beat Network",
+        "networkDetails": {
+            "coin": "BBDC",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "Block Beat Network",
+            "network": "BDCC",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0x2C8590005a07F4386D2A5473171D4E65243c41A8",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BDCC"
+        }
+    }
+]

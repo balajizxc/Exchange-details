@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BROCK",
+        "name": "BROCK",
+        "networkDetails": {
+            "coin": "BROCK",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "BROCK",
+            "network": "BROCK",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "0.5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BROCK"
+        }
+    }
+]

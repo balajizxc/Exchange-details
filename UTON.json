@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DRN",
+        "name": "Doran",
+        "networkDetails": {
+            "coin": "DRN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Doran",
+            "network": "UTON",
+            "withdrawEnable": true,
+            "withdrawFee": "0.05",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "0xda34bDc898267493e4E8659df435E097c11f4Cb4",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "UTON"
+        }
+    }
+]

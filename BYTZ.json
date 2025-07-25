@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BYTZ",
+        "name": "BYTZ",
+        "networkDetails": {
+            "coin": "BYTZ",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 35,
+            "name": "BYTZ",
+            "network": "BYTZ",
+            "withdrawEnable": false,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "564000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BYTZ"
+        }
+    }
+]

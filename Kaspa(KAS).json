@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "KAS",
+        "name": "Kaspa",
+        "networkDetails": {
+            "coin": "KAS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 10000,
+            "name": "Kaspa",
+            "network": "Kaspa(KAS)",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "25",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "",
+            "depositTips": null,
+            "netWork": "KASPA"
+        }
+    }
+]

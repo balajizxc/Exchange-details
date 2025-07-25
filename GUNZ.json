@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "GUN",
+        "name": "GUNZ",
+        "networkDetails": {
+            "coin": "GUN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 5,
+            "name": "GUNZ",
+            "network": "GUNZ",
+            "withdrawEnable": true,
+            "withdrawFee": "0.05",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "GUNZ"
+        }
+    }
+]

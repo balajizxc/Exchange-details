@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "AO",
+        "name": "AO",
+        "networkDetails": {
+            "coin": "AO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "AO",
+            "network": "AO",
+            "withdrawEnable": true,
+            "withdrawFee": "0.02",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "Due to blockchain network limitations, each deposit and withdrawal is expected to take approximately 60 minutes.",
+            "depositTips": "Due to blockchain network limitations, each deposit and withdrawal is expected to take approximately 60 minutes.",
+            "netWork": "AO"
+        }
+    }
+]

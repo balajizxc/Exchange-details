@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "AYIN",
+        "name": "AYIN",
+        "networkDetails": {
+            "coin": "AYIN",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 110,
+            "name": "AYIN",
+            "network": "Alephium(ALPH)",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "50000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "1a281053ba8601a658368594da034c2e99a0fb951b86498d05e76aedfe666800",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ALPH"
+        }
+    },
+    {
+        "coin": "ALPH",
+        "name": "Alephium",
+        "networkDetails": {
+            "coin": "ALPH",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 110,
+            "name": "Alephium",
+            "network": "Alephium(ALPH)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "MEXC doesn't support any kind of mining service, please don't use deposit address as your mining address to avoid asset loss.",
+            "netWork": "ALPH"
+        }
+    },
+    {
+        "coin": "ABX",
+        "name": "AlphBanX",
+        "networkDetails": {
+            "coin": "ABX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 110,
+            "name": "AlphBanX",
+            "network": "Alephium(ALPH)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "400000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "9b3070a93fd5127d8c39561870432fdbc79f598ca8dbf2a3398fc100dfd45f00",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ALPH"
+        }
+    }
+]

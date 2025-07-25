@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "STEEM",
+        "name": "STEEM",
+        "networkDetails": {
+            "coin": "STEEM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "STEEM",
+            "network": "STEEM",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1350000",
+            "withdrawMin": "30",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "STEEM"
+        }
+    }
+]

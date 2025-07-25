@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "EOSC",
+        "name": "EOS FORCE",
+        "networkDetails": {
+            "coin": "EOSC",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "EOS FORCE",
+            "network": "EOSC",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "16463615.409944",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "eosio",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "EOSC"
+        }
+    }
+]

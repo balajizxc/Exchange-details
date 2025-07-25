@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DOT",
+        "name": "Polkadot",
+        "networkDetails": {
+            "coin": "DOT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Polkadot",
+            "network": "Polkadot(DOT)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "50000",
+            "withdrawMin": "1.1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DOT"
+        }
+    }
+]

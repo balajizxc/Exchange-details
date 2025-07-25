@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TRN",
+        "name": "TRN",
+        "networkDetails": {
+            "coin": "TRN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 400,
+            "name": "TRN",
+            "network": "T3RN",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "T3RN"
+        }
+    }
+]

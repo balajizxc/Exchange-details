@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PMG",
+        "name": "PMG",
+        "networkDetails": {
+            "coin": "PMG",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "PMG",
+            "network": "PMG",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "300000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PMG"
+        }
+    }
+]

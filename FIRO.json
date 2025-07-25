@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "FIRO",
+        "name": "Firo",
+        "networkDetails": {
+            "coin": "FIRO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "FIRO",
+            "network": "FIRO",
+            "withdrawEnable": true,
+            "withdrawFee": "0.2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "XZC"
+        }
+    }
+]

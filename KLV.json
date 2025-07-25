@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "KFI",
+        "name": "Klever Finance",
+        "networkDetails": {
+            "coin": "KFI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Klever Finance",
+            "network": "KLV",
+            "withdrawEnable": true,
+            "withdrawFee": "0.02",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "KFI",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KLV"
+        }
+    },
+    {
+        "coin": "KLV",
+        "name": "KLV",
+        "networkDetails": {
+            "coin": "KLV",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "KLV",
+            "network": "KLV",
+            "withdrawEnable": true,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "120000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KLV"
+        }
+    }
+]

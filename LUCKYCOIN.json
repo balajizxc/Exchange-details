@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "LKY",
+        "name": "Luckycoin",
+        "networkDetails": {
+            "coin": "LKY",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 100,
+            "name": "Luckycoin",
+            "network": "LUCKYCOIN",
+            "withdrawEnable": true,
+            "withdrawFee": "0.15",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "70000",
+            "withdrawMin": "0.3",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "LUCKYCOIN"
+        }
+    }
+]

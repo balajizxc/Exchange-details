@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "FUEL",
+        "name": "Fuel",
+        "networkDetails": {
+            "coin": "FUEL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 600,
+            "name": "Fuel",
+            "network": "FUEL",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "0x1d5d97005e41cae2187a895fd8eab0506111e0e2f3331cd3912c15c24e3c1d82",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "FUEL"
+        }
+    }
+]

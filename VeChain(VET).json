@@ -1,0 +1,134 @@
+[
+    {
+        "coin": "TIC",
+        "name": "TicTalk",
+        "networkDetails": {
+            "coin": "TIC",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 32,
+            "name": "TicTalk",
+            "network": "VeChain(VET)",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000000",
+            "withdrawMin": "40000",
+            "sameAddress": false,
+            "contract": "0xa94A33f776073423E163088a5078feac31373990",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VET"
+        }
+    },
+    {
+        "coin": "B3TR",
+        "name": "B3TR",
+        "networkDetails": {
+            "coin": "B3TR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 32,
+            "name": "B3TR",
+            "network": "VeChain(VET)",
+            "withdrawEnable": true,
+            "withdrawFee": "15",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "50",
+            "sameAddress": false,
+            "contract": "0x5ef79995fe8a89e0812330e4378eb2660cede699",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VET"
+        }
+    },
+    {
+        "coin": "VET",
+        "name": "VeChain",
+        "networkDetails": {
+            "coin": "VET",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 32,
+            "name": "VeChain",
+            "network": "VeChain(VET)",
+            "withdrawEnable": true,
+            "withdrawFee": "25",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000000",
+            "withdrawMin": "35",
+            "sameAddress": false,
+            "contract": "VET",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VET"
+        }
+    },
+    {
+        "coin": "HAI",
+        "name": "HAI",
+        "networkDetails": {
+            "coin": "HAI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 32,
+            "name": "HAI",
+            "network": "VeChain(VET)",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "14000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0xaCc280010B2EE0efc770BCE34774376656D8cE14",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VET"
+        }
+    },
+    {
+        "coin": "VTHO",
+        "name": "VeThor Token",
+        "networkDetails": {
+            "coin": "VTHO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 32,
+            "name": "VeThor Token",
+            "network": "VeChain(VET)",
+            "withdrawEnable": true,
+            "withdrawFee": "100",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000000",
+            "withdrawMin": "150",
+            "sameAddress": false,
+            "contract": "0x0000000000000000000000000000456e65726779",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VET"
+        }
+    },
+    {
+        "coin": "VEED",
+        "name": "VIMworld",
+        "networkDetails": {
+            "coin": "VEED",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 32,
+            "name": "VIMworld",
+            "network": "VeChain(VET)",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "170000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x67fD63f6068962937EC81AB3Ae3bF9871E524FC9",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VET"
+        }
+    }
+]

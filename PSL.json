@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PSL",
+        "name": "Pastel",
+        "networkDetails": {
+            "coin": "PSL",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "Pastel",
+            "network": "PSL",
+            "withdrawEnable": false,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PSL"
+        }
+    }
+]

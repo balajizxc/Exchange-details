@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XDB",
+        "name": "XDB CHAIN",
+        "networkDetails": {
+            "coin": "XDB",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "XDB CHAIN",
+            "network": "XDB",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "95000000",
+            "withdrawMin": "2000",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XDB"
+        }
+    }
+]

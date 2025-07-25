@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "ZEL",
+        "name": "ZelCash",
+        "networkDetails": {
+            "coin": "ZEL",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 200,
+            "name": "ZelCash",
+            "network": "ZEL",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "250000000",
+            "withdrawMin": "25",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZEL"
+        }
+    },
+    {
+        "coin": "FLUX",
+        "name": "FLUX",
+        "networkDetails": {
+            "coin": "FLUX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 200,
+            "name": "Flux",
+            "network": "ZEL",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "400000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZEL"
+        }
+    }
+]

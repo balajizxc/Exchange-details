@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DEPC",
+        "name": "DePINC",
+        "networkDetails": {
+            "coin": "DEPC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 6,
+            "name": "DePINC",
+            "network": "DEPC",
+            "withdrawEnable": true,
+            "withdrawFee": "20",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5700000",
+            "withdrawMin": "40",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BHD"
+        }
+    }
+]

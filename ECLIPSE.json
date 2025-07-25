@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "ES",
+        "name": "Eclipse",
+        "networkDetails": {
+            "coin": "ES",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Eclipse",
+            "network": "ECLIPSE",
+            "withdrawEnable": false,
+            "withdrawFee": "100",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "200",
+            "sameAddress": false,
+            "contract": "GnBAskb2SQjrLgpTjtgatz4hEugUsYV7XrWU1idV3oqW",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ECLIPSE"
+        }
+    },
+    {
+        "coin": "SOLAR",
+        "name": "Solar Studios",
+        "networkDetails": {
+            "coin": "SOLAR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Solar Studios",
+            "network": "ECLIPSE",
+            "withdrawEnable": true,
+            "withdrawFee": "25",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "60",
+            "sameAddress": false,
+            "contract": "CwrZKtPiZJrAK3tTjNPP22rD9VzeoxQv8iHd6EeyNoze",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ECLIPSE"
+        }
+    }
+]

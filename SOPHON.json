@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SOPH",
+        "name": "SOPHON",
+        "networkDetails": {
+            "coin": "SOPH",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 10800,
+            "name": "SOPH",
+            "network": "SOPHON",
+            "withdrawEnable": true,
+            "withdrawFee": "3",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SOPHON"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "AZERO",
+        "name": "AZERO",
+        "networkDetails": {
+            "coin": "AZERO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 300,
+            "name": "AZERO",
+            "network": "Aleph Zero EVM",
+            "withdrawEnable": true,
+            "withdrawFee": "0.25",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "500000",
+            "withdrawMin": "0.5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "AZEROZKEVM"
+        }
+    }
+]

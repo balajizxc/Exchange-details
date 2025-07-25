@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "POINT",
+        "name": "POINT",
+        "networkDetails": {
+            "coin": "POINT",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "POINT",
+            "network": "POINTEVM",
+            "withdrawEnable": false,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "6500000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "POINTEVM"
+        }
+    }
+]

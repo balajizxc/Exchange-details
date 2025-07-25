@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NIL",
+        "name": "Nil Token",
+        "networkDetails": {
+            "coin": "NIL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 24,
+            "name": "Nil Token",
+            "network": "Nillion",
+            "withdrawEnable": true,
+            "withdrawFee": "0.4",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "400000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NILLION"
+        }
+    }
+]

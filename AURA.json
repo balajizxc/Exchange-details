@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "AURA",
+        "name": "Aura Network",
+        "networkDetails": {
+            "coin": "AURA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Aura Network",
+            "network": "AURA",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "AURA"
+        }
+    }
+]

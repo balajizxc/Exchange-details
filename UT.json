@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "UT",
+        "name": "Ulord",
+        "networkDetails": {
+            "coin": "UT",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "Ulord",
+            "network": "UT",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "350000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "UT"
+        }
+    }
+]

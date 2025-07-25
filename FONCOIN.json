@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "FONCOIN",
+        "name": "FONSmartChain",
+        "networkDetails": {
+            "coin": "FONCOIN",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "FONSmartChain",
+            "network": "FONCOIN",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "58000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "The token name of FonSmartChain (FON) is FONCOIN in MEXC, please make sure they're correct before taking action.",
+            "depositTips": "The token name of FonSmartChain (FON) is FONCOIN in MEXC, please make sure they're correct before taking action.",
+            "netWork": "FONCOIN"
+        }
+    }
+]

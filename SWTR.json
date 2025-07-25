@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SWTR",
+        "name": "SWTR",
+        "networkDetails": {
+            "coin": "SWTR",
+            "depositDesc": "Deposit suspended as project integration is in progress",
+            "depositEnable": false,
+            "minConfirm": 1200,
+            "name": "SWTR",
+            "network": "SWTR",
+            "withdrawEnable": false,
+            "withdrawFee": "0.001",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "0.002",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SWTR"
+        }
+    }
+]

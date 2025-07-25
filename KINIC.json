@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "KINIC",
+        "name": "KINIC",
+        "networkDetails": {
+            "coin": "KINIC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 1,
+            "name": "KINIC",
+            "network": "KINIC",
+            "withdrawEnable": true,
+            "withdrawFee": "0.25",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "0.5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KINIC"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "KOII",
+        "name": "KOII",
+        "networkDetails": {
+            "coin": "KOII",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 100,
+            "name": "KOII",
+            "network": "KOII",
+            "withdrawEnable": true,
+            "withdrawFee": "20",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "25000000",
+            "withdrawMin": "40",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KOII"
+        }
+    }
+]

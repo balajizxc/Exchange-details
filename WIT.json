@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "WIT",
+        "name": "Witnet",
+        "networkDetails": {
+            "coin": "WIT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Witnet",
+            "network": "WIT",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "66000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "WIT"
+        }
+    }
+]

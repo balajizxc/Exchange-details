@@ -1,0 +1,90 @@
+[
+    {
+        "coin": "UMEE",
+        "name": "UMEE",
+        "networkDetails": {
+            "coin": "UMEE",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Umee",
+            "network": "OSMO",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1500000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "ibc/67795E528DF67C5606FC20F824EA39A6EF55BA133F4DC79C90A8C47A0901E17C",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OSMO"
+        }
+    },
+    {
+        "coin": "HUAHUA",
+        "name": "Chihuahua",
+        "networkDetails": {
+            "coin": "HUAHUA",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Chihuahua",
+            "network": "OSMO",
+            "withdrawEnable": false,
+            "withdrawFee": "0.0001",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2750000000",
+            "withdrawMin": "0.001",
+            "sameAddress": true,
+            "contract": "ibc/B9E0A1A524E98BB407D3CED8720EFEFD186002F90C1B1B7964811DD0CCC12228",
+            "withdrawTips": null,
+            "depositTips": "Address and Memo/Tag need to fill up at the same time to deposit HUAHUA successfully.",
+            "netWork": "OSMO"
+        }
+    },
+    {
+        "coin": "OSMO",
+        "name": "Osmosis",
+        "networkDetails": {
+            "coin": "OSMO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Osmosis",
+            "network": "OSMO",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "270000",
+            "withdrawMin": "0.5",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "OSMO"
+        }
+    },
+    {
+        "coin": "HAVA",
+        "name": "HAVA",
+        "networkDetails": {
+            "coin": "HAVA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "HAVA",
+            "network": "OSMO",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "445000000000",
+            "withdrawMin": "100",
+            "sameAddress": true,
+            "contract": "ibc/884EBC228DFCE8F1304D917A712AA9611427A6C1ECC3179B2E91D7468FB091A2",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OSMO"
+        }
+    }
+]

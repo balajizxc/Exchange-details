@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "QRL",
+        "name": "Quantum R. Ledger",
+        "networkDetails": {
+            "coin": "QRL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 300,
+            "name": "Quantum R. Ledger",
+            "network": "QRL",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "6",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "QRL"
+        }
+    }
+]

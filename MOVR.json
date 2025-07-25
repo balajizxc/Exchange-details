@@ -1,0 +1,112 @@
+[
+    {
+        "coin": "MARAOLD",
+        "name": "Amara Finance",
+        "networkDetails": {
+            "coin": "MARAOLD",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "Amara Finance",
+            "network": "MOVR",
+            "withdrawEnable": false,
+            "withdrawFee": "100",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "200",
+            "sameAddress": false,
+            "contract": "0x0d2faA2064129ecBfAccD45be33DEA3bCD3F8863",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MOVR"
+        }
+    },
+    {
+        "coin": "MFAM",
+        "name": "Moonwell Apollo",
+        "networkDetails": {
+            "coin": "MFAM",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "Moonwell Apollo",
+            "network": "MOVR",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "150000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0xBb8d88bcD9749636BC4D2bE22aaC4Bb3B01A58F1",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MOVR"
+        }
+    },
+    {
+        "coin": "MOVR",
+        "name": "Moonriver",
+        "networkDetails": {
+            "coin": "MOVR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "Moonriver",
+            "network": "MOVR",
+            "withdrawEnable": true,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "30000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MOVR"
+        }
+    },
+    {
+        "coin": "ROAR",
+        "name": "AlphaDEX",
+        "networkDetails": {
+            "coin": "ROAR",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "AlphaDEX",
+            "network": "MOVR",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "30000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x8e7cd893d8f371051a39aa65976bca22d7b02a60",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MOVR"
+        }
+    },
+    {
+        "coin": "ROME",
+        "name": "Rome",
+        "networkDetails": {
+            "coin": "ROME",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "Rome",
+            "network": "MOVR",
+            "withdrawEnable": false,
+            "withdrawFee": "0.001",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000",
+            "withdrawMin": "0.01",
+            "sameAddress": false,
+            "contract": "0x4a436073552044d5f2f49b176853ad3ad473d9d6",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MOVR"
+        }
+    }
+]

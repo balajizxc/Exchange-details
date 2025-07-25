@@ -1,0 +1,90 @@
+[
+    {
+        "coin": "WAXP",
+        "name": "WAX",
+        "networkDetails": {
+            "coin": "WAXP",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 35,
+            "name": "WAX",
+            "network": "WAX",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "7",
+            "sameAddress": true,
+            "contract": "eosio.token#WAX",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "WAX"
+        }
+    },
+    {
+        "coin": "FWF",
+        "name": "Farmers World Food",
+        "networkDetails": {
+            "coin": "FWF",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 35,
+            "name": "Farmers World Food",
+            "network": "WAX",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "farmerstoken#FWF",
+            "withdrawTips": null,
+            "depositTips": "Please enter both Address and MEMO to deposit FWF.",
+            "netWork": "WAX"
+        }
+    },
+    {
+        "coin": "FWG",
+        "name": "Farmers World Gold",
+        "networkDetails": {
+            "coin": "FWG",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 35,
+            "name": "Farmers World Gold",
+            "network": "WAX",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "farmerstoken#FWG",
+            "withdrawTips": null,
+            "depositTips": "Both the address and the memo must be filled in to deposit FWG successfully.",
+            "netWork": "WAX"
+        }
+    },
+    {
+        "coin": "FWW",
+        "name": "Farmers World Wood",
+        "networkDetails": {
+            "coin": "FWW",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 35,
+            "name": "Farmers World Wood",
+            "network": "WAX",
+            "withdrawEnable": true,
+            "withdrawFee": "500",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000000000",
+            "withdrawMin": "1000",
+            "sameAddress": true,
+            "contract": "farmerstoken#FWW",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "WAX"
+        }
+    }
+]

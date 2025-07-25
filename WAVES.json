@@ -1,0 +1,90 @@
+[
+    {
+        "coin": "WX",
+        "name": "WX Network",
+        "networkDetails": {
+            "coin": "WX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "WX Network",
+            "network": "WAVES",
+            "withdrawEnable": true,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "8000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "Atqv59EYzjFGuitKVnMRk6H8FukjoV3ktPorbEys25on",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "WAVES"
+        }
+    },
+    {
+        "coin": "WAVES",
+        "name": "Waves",
+        "networkDetails": {
+            "coin": "WAVES",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "Waves",
+            "network": "WAVES",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "3",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "WAVES"
+        }
+    },
+    {
+        "coin": "UNIT0",
+        "name": "UNIT0-UNIT0",
+        "networkDetails": {
+            "coin": "UNIT0",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "Units.Network",
+            "network": "WAVES",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "340000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "GjwAHMjqWzYR4LgoNy91CxUKAGJN79h2hseZoae4nU8t",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "WAVES"
+        }
+    },
+    {
+        "coin": "USDN",
+        "name": "USDN",
+        "networkDetails": {
+            "coin": "USDN",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "USDN",
+            "network": "WAVES",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "470000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "DG2xFkPdDwKUoBkzGAhQtLpSGzfXLiCYPEzeKH2Ad24p",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "WAVES"
+        }
+    }
+]

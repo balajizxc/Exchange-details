@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "COMAI",
+        "name": "COMAI",
+        "networkDetails": {
+            "coin": "COMAI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 40,
+            "name": "COMAI",
+            "network": "COMAI",
+            "withdrawEnable": true,
+            "withdrawFee": "0.8",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "COMAI"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NEER",
+        "name": "MNet Pioneer",
+        "networkDetails": {
+            "coin": "NEER",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 10,
+            "name": "MNet Pioneer",
+            "network": "NEER",
+            "withdrawEnable": false,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "660000",
+            "withdrawMin": "5",
+            "sameAddress": false,
+            "contract": null,
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NEER"
+        }
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "coin": "CELO",
+        "name": "CELO",
+        "networkDetails": {
+            "coin": "CELO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 24,
+            "name": "CELO",
+            "network": "CELO",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "",
+            "depositTips": "",
+            "netWork": "CELO"
+        }
+    },
+    {
+        "coin": "CLA",
+        "name": "CeloLaunch",
+        "networkDetails": {
+            "coin": "CLA",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 24,
+            "name": "CeloLaunch",
+            "network": "CELO",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2600000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "0x5927fd244E11dB1c7b1215619144d2aAbAc80a4F",
+            "withdrawTips": "There will be an additional 3% fee for each transfer of CLA to the official smart futures, please confirm before proceeding.",
+            "depositTips": "Each CLA transfer will be charged an additional 3% fee by the official smart contract. Please confirm before depositing.",
+            "netWork": "CELO"
+        }
+    },
+    {
+        "coin": "PLASTIK",
+        "name": "Plastiks",
+        "networkDetails": {
+            "coin": "PLASTIK",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 24,
+            "name": "Plastiks",
+            "network": "CELO",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4200000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x27cd006548dF7C8c8e9fdc4A67fa05C2E3CA5CF9",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CELO"
+        }
+    },
+    {
+        "coin": "USDT",
+        "name": "USDT",
+        "networkDetails": {
+            "coin": "USDT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 24,
+            "name": "USDT",
+            "network": "CELO",
+            "withdrawEnable": true,
+            "withdrawFee": "0.49",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CELO"
+        }
+    }
+]

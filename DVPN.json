@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DVPN",
+        "name": "Sentinel ",
+        "networkDetails": {
+            "coin": "DVPN",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Sentinel ",
+            "network": "DVPN",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "240000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "Both the address and the MEMO must be filled in to deposit DVPN successfully.",
+            "netWork": "DVPN"
+        }
+    }
+]

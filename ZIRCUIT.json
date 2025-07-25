@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ZRC",
+        "name": "Zircuit",
+        "networkDetails": {
+            "coin": "ZRC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Zircuit",
+            "network": "ZIRCUIT",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "0xfd418e42783382E86Ae91e445406600Ba144D162",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZIRCUIT"
+        }
+    }
+]

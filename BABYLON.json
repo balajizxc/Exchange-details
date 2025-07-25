@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BABY",
+        "name": "Babylon",
+        "networkDetails": {
+            "coin": "BABY",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "Babylon",
+            "network": "BABYLON",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2500000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BABYLON"
+        }
+    }
+]

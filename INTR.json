@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "INTR",
+        "name": "Interlay",
+        "networkDetails": {
+            "coin": "INTR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Interlay",
+            "network": "INTR",
+            "withdrawEnable": true,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "INTR"
+        }
+    }
+]

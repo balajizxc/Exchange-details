@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BDTC",
+        "name": "BDTCOIN",
+        "networkDetails": {
+            "coin": "BDTC",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "BDTCOIN",
+            "network": "BDTC",
+            "withdrawEnable": true,
+            "withdrawFee": "0.005",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000",
+            "withdrawMin": "0.008",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BDTC"
+        }
+    }
+]

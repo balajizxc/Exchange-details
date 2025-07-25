@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PACOLD",
+        "name": "PAC Protocol",
+        "networkDetails": {
+            "coin": "PACOLD",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 15,
+            "name": "PAC Protocol",
+            "network": "PAC",
+            "withdrawEnable": false,
+            "withdrawFee": "100",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1300000000",
+            "withdrawMin": "200",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PAC"
+        }
+    }
+]

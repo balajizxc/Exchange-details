@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BITICA",
+        "name": "BITICA",
+        "networkDetails": {
+            "coin": "BITICA",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "BITICA",
+            "network": "BITICA",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BITICA"
+        }
+    }
+]

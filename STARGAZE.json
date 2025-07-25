@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "STARS",
+        "name": "Stargaze",
+        "networkDetails": {
+            "coin": "STARS",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "Stargaze",
+            "network": "STARGAZE",
+            "withdrawEnable": true,
+            "withdrawFee": "85",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "34000000",
+            "withdrawMin": "200",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "STARGAZE"
+        }
+    }
+]

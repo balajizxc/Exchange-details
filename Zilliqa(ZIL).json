@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "ZYRO",
+        "name": "ZYRO",
+        "networkDetails": {
+            "coin": "ZYRO",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 15,
+            "name": "ZYRO",
+            "network": "Zilliqa(ZIL)",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "58000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "zil1ucvrn22x8366vzpw5t7su6eyml2auczu6wnqqg",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZIL"
+        }
+    },
+    {
+        "coin": "ZIL",
+        "name": "Zilliqa",
+        "networkDetails": {
+            "coin": "ZIL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 15,
+            "name": "Zilliqa",
+            "network": "Zilliqa(ZIL)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.05",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZIL"
+        }
+    },
+    {
+        "coin": "HRSE",
+        "name": "The Winners Circle",
+        "networkDetails": {
+            "coin": "HRSE",
+            "depositDesc": "Deposit suspended upon project party's request",
+            "depositEnable": false,
+            "minConfirm": 15,
+            "name": "The Winners Circle",
+            "network": "Zilliqa(ZIL)",
+            "withdrawEnable": true,
+            "withdrawFee": "2.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "6000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "zil17602zlur3yfsc7zl9tmuug85w2tf9je6n8sh28",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZIL"
+        }
+    }
+]

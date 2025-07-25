@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "OZONECHAIN",
+        "name": "Ozone Chain",
+        "networkDetails": {
+            "coin": "OZONECHAIN",
+            "depositDesc": "Deposit suspended as project integration is in progress",
+            "depositEnable": false,
+            "minConfirm": 180,
+            "name": "Ozone Chain",
+            "network": "OZONECHAIN",
+            "withdrawEnable": false,
+            "withdrawFee": "0.001",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000",
+            "withdrawMin": "0.002",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OZONECHAIN"
+        }
+    }
+]

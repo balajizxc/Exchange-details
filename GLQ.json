@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "GLQ",
+        "name": "GLQ",
+        "networkDetails": {
+            "coin": "GLQ",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "GLQ",
+            "network": "GLQ",
+            "withdrawEnable": true,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "GLQ"
+        }
+    }
+]

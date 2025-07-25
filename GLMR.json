@@ -1,0 +1,112 @@
+[
+    {
+        "coin": "WELLOLD",
+        "name": "Moonwell Artemis",
+        "networkDetails": {
+            "coin": "WELLOLD",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "Moonwell Artemis",
+            "network": "GLMR",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "8000000",
+            "withdrawMin": "50",
+            "sameAddress": false,
+            "contract": "0x511aB53F793683763E5a8829738301368a2411E3",
+            "withdrawTips": "The token name of Moonwell Artemis (WELL) is WELL in MEXC Global; Current contract address: 0x511aB53F793683763E5a8829738301368a2411E3, please confirm before proceeding",
+            "depositTips": "The token name of Moonwell Artemis (WELL) is WELL in MEXC Global; Current contract address: 0x511aB53F793683763E5a8829738301368a2411E3, please confirm before proceeding",
+            "netWork": "GLMR"
+        }
+    },
+    {
+        "coin": "ATHOLD",
+        "name": "Athos Finance",
+        "networkDetails": {
+            "coin": "ATHOLD",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "Athos Finance",
+            "network": "GLMR",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0xCBABEe0658725b5B21e1512244734A5D5C6B51D6",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "GLMR"
+        }
+    },
+    {
+        "coin": "GLINT",
+        "name": "Beamswap Token",
+        "networkDetails": {
+            "coin": "GLINT",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "Beamswap Token",
+            "network": "GLMR",
+            "withdrawEnable": true,
+            "withdrawFee": "460",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000000",
+            "withdrawMin": "800",
+            "sameAddress": false,
+            "contract": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "GLMR"
+        }
+    },
+    {
+        "coin": "GLMR",
+        "name": "Moonbeam",
+        "networkDetails": {
+            "coin": "GLMR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "Moonbeam",
+            "network": "GLMR",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "600000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "GLMR"
+        }
+    },
+    {
+        "coin": "NCTR",
+        "name": "Apillon",
+        "networkDetails": {
+            "coin": "NCTR",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "Apillon",
+            "network": "GLMR",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0xFfFFfFfF8A9736B44EbF188972725bED67BF694E",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "GLMR"
+        }
+    }
+]

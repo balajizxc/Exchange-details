@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "IUS",
+        "name": "Iustitia Coin",
+        "networkDetails": {
+            "coin": "IUS",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Iustitia Coin",
+            "network": "IUS",
+            "withdrawEnable": false,
+            "withdrawFee": "700",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1400000000",
+            "withdrawMin": "1400",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "IUS"
+        }
+    }
+]

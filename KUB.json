@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "KUB",
+        "name": "Bitkub Coin",
+        "networkDetails": {
+            "coin": "KUB",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 40,
+            "name": "Bitkub Coin",
+            "network": "KUB",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "120000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KUB"
+        }
+    }
+]

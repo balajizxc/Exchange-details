@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TICS",
+        "name": "TICS",
+        "networkDetails": {
+            "coin": "TICS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12000,
+            "name": "TICS",
+            "network": "QUBETICS",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "QUBETICS"
+        }
+    }
+]

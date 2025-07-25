@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XCH",
+        "name": "Chia Network",
+        "networkDetails": {
+            "coin": "XCH",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 32,
+            "name": "Chia Network",
+            "network": "Chia(XCH)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.0005",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "7000",
+            "withdrawMin": "0.05",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CHIA"
+        }
+    }
+]

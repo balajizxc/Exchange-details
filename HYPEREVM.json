@@ -1,0 +1,90 @@
+[
+    {
+        "coin": "HYPE",
+        "name": "Hyperliquid",
+        "networkDetails": {
+            "coin": "HYPE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Hyperliquid",
+            "network": "HYPEREVM",
+            "withdrawEnable": true,
+            "withdrawFee": "0.0001",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000",
+            "withdrawMin": "0.0002",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "HYPE on MEXC is based on HYPEEVM chain and block explorer is: https://www.hyperscan.com/. Deposit via other chain will cause loss of assets, please be careful to distinguish.",
+            "depositTips": "HYPE on MEXC is based on HYPEEVM chain and block explorer is: https://www.hyperscan.com/. Deposit via other chain will cause loss of assets, please be careful to distinguish.",
+            "netWork": "HYPEREVM"
+        }
+    },
+    {
+        "coin": "PURR",
+        "name": "Purr",
+        "networkDetails": {
+            "coin": "PURR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Purr",
+            "network": "HYPEREVM",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0x9b498C3c8A0b8CD8BA1D9851d40D186F1872b44E",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "HYPEREVM"
+        }
+    },
+    {
+        "coin": "LIQD",
+        "name": "LiquidLaunch",
+        "networkDetails": {
+            "coin": "LIQD",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "LiquidLaunch",
+            "network": "HYPEREVM",
+            "withdrawEnable": true,
+            "withdrawFee": "25",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "50",
+            "sameAddress": false,
+            "contract": "0x1Ecd15865D7F8019D546f76d095d9c93cc34eDFa",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "HYPEREVM"
+        }
+    },
+    {
+        "coin": "LICKO",
+        "name": "LICKO",
+        "networkDetails": {
+            "coin": "LICKO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "LICKO",
+            "network": "HYPEREVM",
+            "withdrawEnable": true,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "200",
+            "sameAddress": false,
+            "contract": "0xBf7F2B530c073e21EA0627F36DeEaec21A6adfec",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "HYPEREVM"
+        }
+    }
+]

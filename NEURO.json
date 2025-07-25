@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NEURO",
+        "name": "NeuroWeb AI",
+        "networkDetails": {
+            "coin": "NEURO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "NeuroWeb AI",
+            "network": "NEURO",
+            "withdrawEnable": true,
+            "withdrawFee": "80",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "160",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NEURO"
+        }
+    }
+]

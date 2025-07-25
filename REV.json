@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "REV",
+        "name": "REV",
+        "networkDetails": {
+            "coin": "REV",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "REV",
+            "network": "REV",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "66000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "REV"
+        }
+    }
+]

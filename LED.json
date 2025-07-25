@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "LED",
+        "name": "LEDGIS",
+        "networkDetails": {
+            "coin": "LED",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 175,
+            "name": "LEDGIS",
+            "network": "LED",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "6000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "led.token",
+            "withdrawTips": null,
+            "depositTips": "Address and Memo/Tag need to fill up at the same time to deposit LED successfully.",
+            "netWork": "LED"
+        }
+    }
+]

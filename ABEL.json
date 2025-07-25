@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ABEL",
+        "name": "Abelian",
+        "networkDetails": {
+            "coin": "ABEL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "Abelian",
+            "network": "ABEL",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "MEXC doesn't support any kind of mining service, please don't use deposit address as your mining address to avoid asset loss.",
+            "netWork": "ABEL"
+        }
+    }
+]

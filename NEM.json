@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XEM",
+        "name": "NEM",
+        "networkDetails": {
+            "coin": "XEM",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 25,
+            "name": "NEM",
+            "network": "NEM",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1500000",
+            "withdrawMin": "8",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XEM"
+        }
+    }
+]

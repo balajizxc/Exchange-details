@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "QGOV",
+        "name": "Q Protocol",
+        "networkDetails": {
+            "coin": "QGOV",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 101,
+            "name": "Q Protocol",
+            "network": "QGOV",
+            "withdrawEnable": true,
+            "withdrawFee": "8",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "QGOV"
+        }
+    }
+]

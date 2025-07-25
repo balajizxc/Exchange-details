@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XDAG",
+        "name": "XDAG",
+        "networkDetails": {
+            "coin": "XDAG",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 10,
+            "name": "XDAG",
+            "network": "XDAG",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XDAG"
+        }
+    }
+]

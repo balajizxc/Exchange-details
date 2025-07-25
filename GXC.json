@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "GXC",
+        "name": "GXChain",
+        "networkDetails": {
+            "coin": "GXC",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "GXChain",
+            "network": "GXC",
+            "withdrawEnable": false,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "150000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "1.3.1",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "GXC"
+        }
+    }
+]

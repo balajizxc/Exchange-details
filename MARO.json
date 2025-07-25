@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "ACN",
+        "name": "ACN",
+        "networkDetails": {
+            "coin": "ACN",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "ACN",
+            "network": "MARO",
+            "withdrawEnable": false,
+            "withdrawFee": "0.05",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "0xae029c56741d9500c04400489c47d144bcc50e39",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MARO"
+        }
+    },
+    {
+        "coin": "MARO",
+        "name": "MARO",
+        "networkDetails": {
+            "coin": "MARO",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "MARO",
+            "network": "MARO",
+            "withdrawEnable": false,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MARO"
+        }
+    }
+]

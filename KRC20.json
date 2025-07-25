@@ -1,0 +1,90 @@
+[
+    {
+        "coin": "KANGO",
+        "name": "KANGO",
+        "networkDetails": {
+            "coin": "KANGO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 2000,
+            "name": "KANGO",
+            "network": "KRC20",
+            "withdrawEnable": true,
+            "withdrawFee": "31250",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "6250000000",
+            "withdrawMin": "61250",
+            "sameAddress": false,
+            "contract": "KANGO",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KRC20"
+        }
+    },
+    {
+        "coin": "DOGK",
+        "name": "DOGK",
+        "networkDetails": {
+            "coin": "DOGK",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 2000,
+            "name": "DOGK",
+            "network": "KRC20",
+            "withdrawEnable": true,
+            "withdrawFee": "200",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000000",
+            "withdrawMin": "600",
+            "sameAddress": false,
+            "contract": "DOGK",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KRC20"
+        }
+    },
+    {
+        "coin": "GHOAD",
+        "name": "GHOAD",
+        "networkDetails": {
+            "coin": "GHOAD",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 2000,
+            "name": "GHOAD",
+            "network": "KRC20",
+            "withdrawEnable": true,
+            "withdrawFee": "200",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "50000000",
+            "withdrawMin": "500",
+            "sameAddress": false,
+            "contract": "GHOAD",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KRC20"
+        }
+    },
+    {
+        "coin": "KASPY",
+        "name": "KASPY",
+        "networkDetails": {
+            "coin": "KASPY",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 2000,
+            "name": "KASPY",
+            "network": "KRC20",
+            "withdrawEnable": true,
+            "withdrawFee": "10000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000000",
+            "withdrawMin": "20000",
+            "sameAddress": false,
+            "contract": "KASPY",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KRC20"
+        }
+    }
+]

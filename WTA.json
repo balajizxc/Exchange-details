@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "WTA",
+        "name": "Waltonchain Autonomy",
+        "networkDetails": {
+            "coin": "WTA",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Waltonchain Autonomy",
+            "network": "WTA",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "24000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "WTA"
+        }
+    }
+]

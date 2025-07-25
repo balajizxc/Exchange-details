@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CRU",
+        "name": "Crust Network",
+        "networkDetails": {
+            "coin": "CRU",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 35,
+            "name": "Crust Network",
+            "network": "CRUST",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "270000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CRUST"
+        }
+    }
+]

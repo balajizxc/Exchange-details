@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XEL",
+        "name": "XELIS",
+        "networkDetails": {
+            "coin": "XEL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 300,
+            "name": "XELIS",
+            "network": "XELIS",
+            "withdrawEnable": true,
+            "withdrawFee": "0.04",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XELIS"
+        }
+    }
+]

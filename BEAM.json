@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BEAM",
+        "name": "BEAM",
+        "networkDetails": {
+            "coin": "BEAM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 400,
+            "name": "BEAM",
+            "network": "BEAM",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BEAM"
+        }
+    }
+]

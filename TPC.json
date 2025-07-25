@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TPC",
+        "name": "Techpay",
+        "networkDetails": {
+            "coin": "TPC",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "Techpay",
+            "network": "TPC",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "33000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "TPC"
+        }
+    }
+]

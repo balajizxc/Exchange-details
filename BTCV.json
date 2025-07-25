@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BTCV",
+        "name": "Bitcoin Vault",
+        "networkDetails": {
+            "coin": "BTCV",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 6,
+            "name": "Bitcoin Vault",
+            "network": "BTCV",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40000",
+            "withdrawMin": "0.01",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "Please only deposit BTCV by standard transaction. Secure or Secure Fast transaction is not supported by now",
+            "netWork": "BTCV"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "RBTC",
+        "name": "SmartBitcoin",
+        "networkDetails": {
+            "coin": "RBTC",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 6,
+            "name": "SmartBitcoin",
+            "network": "RBTC",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "50",
+            "withdrawMin": "0.0005",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "RBTC"
+        }
+    },
+    {
+        "coin": "RIF",
+        "name": "RIF",
+        "networkDetails": {
+            "coin": "RIF",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 6,
+            "name": "RIF",
+            "network": "RBTC",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "30",
+            "sameAddress": false,
+            "contract": "0x2acc95758f8b5f583470ba265eb685a8f45fc9d5",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "RBTC"
+        }
+    }
+]

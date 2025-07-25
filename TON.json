@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TON1",
+        "name": "TomaInfo",
+        "networkDetails": {
+            "coin": "TON1",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 300,
+            "name": "TomaInfo",
+            "network": "TON",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "6000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "eosio.token",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "TON"
+        }
+    }
+]

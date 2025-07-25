@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "RWN",
+        "name": "Rowan Coin",
+        "networkDetails": {
+            "coin": "RWN",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "Rowan Coin",
+            "network": "Rowan Blockchain",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1250000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0x3d3f6cede89a048cfc3f6ecebacca97684202317",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "RWN"
+        }
+    }
+]

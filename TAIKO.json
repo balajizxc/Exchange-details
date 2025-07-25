@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TAIKO",
+        "name": "Taiko",
+        "networkDetails": {
+            "coin": "TAIKO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Taiko",
+            "network": "TAIKO",
+            "withdrawEnable": true,
+            "withdrawFee": "0.666666",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "133333.333333",
+            "withdrawMin": "1.333332",
+            "sameAddress": false,
+            "contract": "0xA9d23408b9bA935c230493c40C73824Df71A0975",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "TAIKO"
+        }
+    }
+]

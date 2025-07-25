@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "PLEX",
+        "name": "PLEX",
+        "networkDetails": {
+            "coin": "PLEX",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 10,
+            "name": "PLEX",
+            "network": "PLEX",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "PLEX",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PLEX"
+        }
+    },
+    {
+        "coin": "MINE",
+        "name": "MINE",
+        "networkDetails": {
+            "coin": "MINE",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 10,
+            "name": "MINE",
+            "network": "PLEX",
+            "withdrawEnable": false,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PLEX"
+        }
+    }
+]

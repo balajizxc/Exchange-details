@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "FUSE",
+        "name": "Fuse Network",
+        "networkDetails": {
+            "coin": "FUSE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "Fuse Network",
+            "network": "FUSE",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "40",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "FUSE-FUSE does not support the deposit method of contract transfer, please confirm before proceeding.",
+            "netWork": "FUSE"
+        }
+    },
+    {
+        "coin": "VOLTAGE",
+        "name": "Voltage Finance",
+        "networkDetails": {
+            "coin": "VOLTAGE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "Voltage Finance",
+            "network": "FUSE",
+            "withdrawEnable": true,
+            "withdrawFee": "1500",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "740000000",
+            "withdrawMin": "3000",
+            "sameAddress": false,
+            "contract": "0x34Ef2Cc892a88415e9f02b91BfA9c91fC0bE6bD4",
+            "withdrawTips": "The token name of Voltage Finance (VOLT) is VOLTAGE in MEXC Global; The last digits of the token's contract address are 6bD4, please make sure they're correct before taking action.",
+            "depositTips": "The token name of Voltage Finance (VOLT) is VOLTAGE in MEXC Global; The last digits of the token's contract address are 6bD4, please make sure they're correct before taking action.",
+            "netWork": "FUSE"
+        }
+    }
+]

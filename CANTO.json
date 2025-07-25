@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CANTO",
+        "name": "CANTO",
+        "networkDetails": {
+            "coin": "CANTO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "CANTO",
+            "network": "CANTO",
+            "withdrawEnable": false,
+            "withdrawFee": "25",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "50",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CANTO"
+        }
+    }
+]

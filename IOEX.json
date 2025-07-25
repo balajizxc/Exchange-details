@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "IOEX",
+        "name": "ioeX",
+        "networkDetails": {
+            "coin": "IOEX",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "ioeX",
+            "network": "IOEX",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "83000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "IOEX"
+        }
+    }
+]

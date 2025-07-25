@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BDX",
+        "name": "Beldex",
+        "networkDetails": {
+            "coin": "BDX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 11,
+            "name": "Beldex",
+            "network": "BDX",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "625000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BDX"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TFIOLD",
+        "name": "TomoFinance",
+        "networkDetails": {
+            "coin": "TFIOLD",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "TomoFinance",
+            "network": "TOMO",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "0xaf95193df0e67b3f49c2820d0d86f5e6b8e1770f",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "TOMO"
+        }
+    }
+]

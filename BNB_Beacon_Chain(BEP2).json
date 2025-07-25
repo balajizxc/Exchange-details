@@ -1,0 +1,134 @@
+[
+    {
+        "coin": "AVAOLD",
+        "name": "Travala",
+        "networkDetails": {
+            "coin": "AVAOLD",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "Travala",
+            "network": "BNB Beacon Chain(BEP2)",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "165310",
+            "withdrawMin": "165308",
+            "sameAddress": true,
+            "contract": "AVA-645",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BNB"
+        }
+    },
+    {
+        "coin": "WRX",
+        "name": "WazirX",
+        "networkDetails": {
+            "coin": "WRX",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "WazirX",
+            "network": "BNB Beacon Chain(BEP2)",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "WRX-ED1",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BNB"
+        }
+    },
+    {
+        "coin": "COSOLD",
+        "name": "Contentos",
+        "networkDetails": {
+            "coin": "COSOLD",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "Contentos",
+            "network": "BNB Beacon Chain(BEP2)",
+            "withdrawEnable": false,
+            "withdrawFee": "100",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "200",
+            "sameAddress": true,
+            "contract": "COS-2E4",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BNB"
+        }
+    },
+    {
+        "coin": "TRUE",
+        "name": "TrueChain",
+        "networkDetails": {
+            "coin": "TRUE",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "TrueChain",
+            "network": "BNB Beacon Chain(BEP2)",
+            "withdrawEnable": false,
+            "withdrawFee": "16",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "8000000",
+            "withdrawMin": "50",
+            "sameAddress": true,
+            "contract": "TRUE-D84",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BNB"
+        }
+    },
+    {
+        "coin": "BPRO",
+        "name": "BitCloud",
+        "networkDetails": {
+            "coin": "BPRO",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "BitCloud",
+            "network": "BNB Beacon Chain(BEP2)",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "7000000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "BPRO-5A6",
+            "withdrawTips": "BPRO is BNB chain token, please check if your withdrawal address is correct.",
+            "depositTips": null,
+            "netWork": "BNB"
+        }
+    },
+    {
+        "coin": "AWC",
+        "name": "Atomic Wallet",
+        "networkDetails": {
+            "coin": "AWC",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "Atomic Wallet",
+            "network": "BNB Beacon Chain(BEP2)",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000",
+            "withdrawMin": "1.5",
+            "sameAddress": true,
+            "contract": "AWC-986",
+            "withdrawTips": "",
+            "depositTips": "",
+            "netWork": "BNB"
+        }
+    }
+]

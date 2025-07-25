@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ATOM",
+        "name": "COSMOS",
+        "networkDetails": {
+            "coin": "ATOM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "COSMOS",
+            "network": "Cosmos(ATOM)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.05",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "70000",
+            "withdrawMin": "0.5",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "ATOM"
+        }
+    }
+]

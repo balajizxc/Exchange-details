@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "WLD",
+        "name": "Worldcoin",
+        "networkDetails": {
+            "coin": "WLD",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "Worldcoin",
+            "network": "WORLDCHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "0.285714285714285714285714285714",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "57142.857142857142857142857142857142",
+            "withdrawMin": "0.571428571428571428571428571428",
+            "sameAddress": false,
+            "contract": "0x2cFc85d8E48F8EAB294be644d9E25C3030863003",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "WORLDCHAIN"
+        }
+    }
+]

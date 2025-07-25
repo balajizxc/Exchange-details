@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "IP",
+        "name": "Story",
+        "networkDetails": {
+            "coin": "IP",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "Story",
+            "network": "STORY",
+            "withdrawEnable": true,
+            "withdrawFee": "0.05",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "STORY"
+        }
+    },
+    {
+        "coin": "BENJI",
+        "name": "Benjamin",
+        "networkDetails": {
+            "coin": "BENJI",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "Benjamin",
+            "network": "STORY",
+            "withdrawEnable": true,
+            "withdrawFee": "100",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000000",
+            "withdrawMin": "200",
+            "sameAddress": false,
+            "contract": "0x25F9c9715d1D700A50B2a9A06D80FE9f98CcB549",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "STORY"
+        }
+    }
+]

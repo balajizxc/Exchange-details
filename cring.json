@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CRAB",
+        "name": "CRAB",
+        "networkDetails": {
+            "coin": "CRAB",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "CRAB",
+            "network": "cring",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "39412307.622",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CRING"
+        }
+    }
+]

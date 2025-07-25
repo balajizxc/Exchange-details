@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "QDT",
+        "name": "QChain",
+        "networkDetails": {
+            "coin": "QDT",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 4,
+            "name": "QChain",
+            "network": "QDT",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "77000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "QDT"
+        }
+    }
+]

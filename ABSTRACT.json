@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BIG",
+        "name": "Bigcoin",
+        "networkDetails": {
+            "coin": "BIG",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 11000,
+            "name": "Bigcoin",
+            "network": "ABSTRACT",
+            "withdrawEnable": true,
+            "withdrawFee": "0.0125",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "25000",
+            "withdrawMin": "0.03",
+            "sameAddress": false,
+            "contract": "0xDf70075737E9F96B078ab4461EeE3e055E061223",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ABSTRACT"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BB",
+        "name": "BounceBit",
+        "networkDetails": {
+            "coin": "BB",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "BounceBit",
+            "network": "BOUNCEBIT",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "400000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BOUNCEBIT"
+        }
+    }
+]

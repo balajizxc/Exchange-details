@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "FNCY",
+        "name": "FNCY",
+        "networkDetails": {
+            "coin": "FNCY",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "FNCY",
+            "network": "FNCY",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "FNCY"
+        }
+    }
+]

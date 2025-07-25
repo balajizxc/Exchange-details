@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XYM",
+        "name": "Symbol",
+        "networkDetails": {
+            "coin": "XYM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 3,
+            "name": "Symbol",
+            "network": "XYM",
+            "withdrawEnable": true,
+            "withdrawFee": "20",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "6500000",
+            "withdrawMin": "40",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "You will not need to fill in the memo to deposit to this address. Please top up without any worry.",
+            "netWork": "XYM"
+        }
+    }
+]

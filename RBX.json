@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "RBX1",
+        "name": "ReserveBlock",
+        "networkDetails": {
+            "coin": "RBX1",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "ReserveBlock",
+            "network": "RBX",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "12000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "RBX"
+        }
+    }
+]

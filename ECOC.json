@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "EFG",
+        "name": "EFG",
+        "networkDetails": {
+            "coin": "EFG",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "EFG",
+            "network": "ECOC",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000000",
+            "withdrawMin": "0.0001",
+            "sameAddress": false,
+            "contract": "0c10a9b7322c31c4a1946df174402a36e0588c1c",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ECOC"
+        }
+    },
+    {
+        "coin": "ECOC",
+        "name": "Ecochain",
+        "networkDetails": {
+            "coin": "ECOC",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "Ecochain",
+            "network": "ECOC",
+            "withdrawEnable": false,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ECOC"
+        }
+    },
+    {
+        "coin": "GPTOLD",
+        "name": "GracePeriodToken",
+        "networkDetails": {
+            "coin": "GPTOLD",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "GracePeriodToken",
+            "network": "ECOC",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "1c6415621c603ef258c184d85a55d2c0b3570167",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ECOC"
+        }
+    }
+]

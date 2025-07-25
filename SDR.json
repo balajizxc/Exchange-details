@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SDR",
+        "name": "SedraCoin",
+        "networkDetails": {
+            "coin": "SDR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "SedraCoin",
+            "network": "SDR",
+            "withdrawEnable": true,
+            "withdrawFee": "170",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "330000000",
+            "withdrawMin": "300",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SDR"
+        }
+    }
+]

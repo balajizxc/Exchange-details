@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BLOCX",
+        "name": "BLOCX",
+        "networkDetails": {
+            "coin": "BLOCX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 80,
+            "name": "BLOCX",
+            "network": "BLOCX. Mainnet",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BLOCXEVM"
+        }
+    }
+]

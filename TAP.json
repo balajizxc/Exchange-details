@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "TAP",
+        "name": "TAP Protocol",
+        "networkDetails": {
+            "coin": "TAP",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 3,
+            "name": "TAP Protocol",
+            "network": "TAP",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "35000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "tap",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "TAP"
+        }
+    },
+    {
+        "coin": "SPKY",
+        "name": "GhostyCash",
+        "networkDetails": {
+            "coin": "SPKY",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 3,
+            "name": "GhostyCash",
+            "network": "TAP",
+            "withdrawEnable": true,
+            "withdrawFee": "0.3",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "50000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "$spky",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "TAP"
+        }
+    }
+]

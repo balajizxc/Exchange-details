@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TANSSI",
+        "name": "TANSSI",
+        "networkDetails": {
+            "coin": "TANSSI",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "TANSSI",
+            "network": "TANSSI",
+            "withdrawEnable": false,
+            "withdrawFee": "15",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "30",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "TANSSI"
+        }
+    }
+]

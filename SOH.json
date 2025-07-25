@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SOH",
+        "name": "Stohn Coin",
+        "networkDetails": {
+            "coin": "SOH",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 50,
+            "name": "Stohn Coin",
+            "network": "SOH",
+            "withdrawEnable": true,
+            "withdrawFee": "20",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "17000000",
+            "withdrawMin": "50",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SOH"
+        }
+    }
+]

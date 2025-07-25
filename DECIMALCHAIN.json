@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DEL",
+        "name": "DECIMALCHAIN",
+        "networkDetails": {
+            "coin": "DEL",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "DECIMALCHAIN",
+            "network": "DECIMALCHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "83333333.333333333333333333333333333333",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DECIMALCHAIN"
+        }
+    }
+]

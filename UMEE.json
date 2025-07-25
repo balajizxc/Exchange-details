@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "UMEE",
+        "name": "UMEE",
+        "networkDetails": {
+            "coin": "UMEE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "UMEE",
+            "network": "UMEE",
+            "withdrawEnable": true,
+            "withdrawFee": "0.4",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "28000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "UMEE"
+        }
+    }
+]

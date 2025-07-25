@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "OVER",
+        "name": "OVER",
+        "networkDetails": {
+            "coin": "OVER",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 96,
+            "name": "OVER",
+            "network": "OverProtocol",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OVERPROTOCOL"
+        }
+    }
+]

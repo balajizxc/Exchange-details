@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "STRK",
+        "name": "STRK",
+        "networkDetails": {
+            "coin": "STRK",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 40,
+            "name": "STRK",
+            "network": "Starknet(STARK)",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "500000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "STARK"
+        }
+    },
+    {
+        "coin": "ETH",
+        "name": "ETH",
+        "networkDetails": {
+            "coin": "ETH",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 40,
+            "name": "ETH",
+            "network": "Starknet(STARK)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.000094",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "0.0002",
+            "sameAddress": false,
+            "contract": "0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "STARK"
+        }
+    },
+    {
+        "coin": "LORDS",
+        "name": "Realms World",
+        "networkDetails": {
+            "coin": "LORDS",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 40,
+            "name": "Realms World",
+            "network": "Starknet(STARK)",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0x0124aeb495b947201f5fac96fd1138e326ad86195b98df6dec9009158a533b49",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "STARK"
+        }
+    }
+]

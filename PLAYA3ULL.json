@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "3ULL",
+        "name": "3ULL",
+        "networkDetails": {
+            "coin": "3ULL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 2,
+            "name": "3ULL",
+            "network": "PLAYA3ULL",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "500000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PLAYA3ULL"
+        }
+    }
+]

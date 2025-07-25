@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "RBNT",
+        "name": "Redbelly Network",
+        "networkDetails": {
+            "coin": "RBNT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 6,
+            "name": "Redbelly Network",
+            "network": "REDBELLY",
+            "withdrawEnable": true,
+            "withdrawFee": "2.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "REDBELLY"
+        }
+    }
+]

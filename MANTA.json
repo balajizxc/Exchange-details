@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "MANTA",
+        "name": "Manta Network",
+        "networkDetails": {
+            "coin": "MANTA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Manta Network",
+            "network": "MANTA",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "300000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x95CeF13441Be50d20cA4558CC0a27B601aC544E5",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MANTA"
+        }
+    },
+    {
+        "coin": "KMA",
+        "name": "KMA",
+        "networkDetails": {
+            "coin": "KMA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "KMA",
+            "network": "MANTA",
+            "withdrawEnable": true,
+            "withdrawFee": "4000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000000",
+            "withdrawMin": "10000",
+            "sameAddress": false,
+            "contract": "0x6745CF7A0aAca457F451a4b8c60c8504320F69d0",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MANTA"
+        }
+    },
+    {
+        "coin": "ASMATCH",
+        "name": "AsMatch",
+        "networkDetails": {
+            "coin": "ASMATCH",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "AsMatch",
+            "network": "MANTA",
+            "withdrawEnable": true,
+            "withdrawFee": "4",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "580000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0xCd5d6dE3fdBce1895F0Dac13A065673599ED6806",
+            "withdrawTips": "The token name of AsMatch (ASM) is ASMATCH in MEXC; The last digits of the token's contract address are 6806, please make sure they're correct before taking action.",
+            "depositTips": "The token name of AsMatch (ASM) is ASMATCH in MEXC; The last digits of the token's contract address are 6806, please make sure they're correct before taking action.",
+            "netWork": "MANTA"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BIZA",
+        "name": "BizAuto",
+        "networkDetails": {
+            "coin": "BIZA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 200,
+            "name": "BizAuto",
+            "network": "BIZA",
+            "withdrawEnable": true,
+            "withdrawFee": "1000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "250000000",
+            "withdrawMin": "2000",
+            "sameAddress": true,
+            "contract": "eosio.token",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BIZA"
+        }
+    }
+]

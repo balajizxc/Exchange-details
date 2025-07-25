@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "CFX",
+        "name": "CFX-BSC",
+        "networkDetails": {
+            "coin": "CFX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 500,
+            "name": "CONFLUX",
+            "network": "CFX",
+            "withdrawEnable": true,
+            "withdrawFee": "0.2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "0.4",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "",
+            "depositTips": "",
+            "netWork": "CFX"
+        }
+    },
+    {
+        "coin": "FC",
+        "name": "FansCoin",
+        "networkDetails": {
+            "coin": "FC",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 500,
+            "name": "FansCoin",
+            "network": "CFX",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "cfx:achc8nxj7r451c223m18w2dwjnmhkd6rxawrvkvsy2",
+            "withdrawTips": "",
+            "depositTips": "",
+            "netWork": "CFX"
+        }
+    },
+    {
+        "coin": "ZO",
+        "name": "ZeroOne",
+        "networkDetails": {
+            "coin": "ZO",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 500,
+            "name": "ZeroOne",
+            "network": "CFX",
+            "withdrawEnable": true,
+            "withdrawFee": "15",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000000",
+            "withdrawMin": "30",
+            "sameAddress": false,
+            "contract": "cfx:acbhzfeg0nc7g2538wkv57k6b2f8cx5ryuj0xecjnh",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CFX"
+        }
+    }
+]

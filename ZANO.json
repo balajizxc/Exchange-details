@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "FUSD",
+        "name": "FUSD",
+        "networkDetails": {
+            "coin": "FUSD",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 50,
+            "name": "FUSD",
+            "network": "ZANO",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "86143388bd056a8f0bab669f78f14873fac8e2dd8d57898cdb725a2d5e2e4f8f",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZANO"
+        }
+    },
+    {
+        "coin": "ZANO",
+        "name": "ZANO",
+        "networkDetails": {
+            "coin": "ZANO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 50,
+            "name": "ZANO",
+            "network": "ZANO",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000",
+            "withdrawMin": "0.5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZANO"
+        }
+    }
+]

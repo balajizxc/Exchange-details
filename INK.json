@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SHROOMY",
+        "name": "SHROOMY",
+        "networkDetails": {
+            "coin": "SHROOMY",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 1000,
+            "name": "SHROOMY",
+            "network": "INK",
+            "withdrawEnable": true,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "0x0c5E2D1C98cd265C751e02F8F3293bC5764F9111",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "INK"
+        }
+    }
+]

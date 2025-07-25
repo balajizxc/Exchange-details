@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "OZO",
+        "name": "Ozone Chain",
+        "networkDetails": {
+            "coin": "OZO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 120,
+            "name": "Ozone Chain",
+            "network": "OZO",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OZO"
+        }
+    }
+]

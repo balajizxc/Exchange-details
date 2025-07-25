@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "KALIS",
+        "name": "KALICHAIN",
+        "networkDetails": {
+            "coin": "KALIS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "KALICHAIN",
+            "network": "KALIS",
+            "withdrawEnable": true,
+            "withdrawFee": "1.7",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KALIS"
+        }
+    }
+]

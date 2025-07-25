@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "EWT",
+        "name": "Energy Web",
+        "networkDetails": {
+            "coin": "EWT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Energy Web",
+            "network": "Energy Web Chain(EWC)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.06",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "EWT"
+        }
+    }
+]

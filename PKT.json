@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PKTC",
+        "name": "PacketCrypt",
+        "networkDetails": {
+            "coin": "PKTC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 40,
+            "name": "PacketCrypt",
+            "network": "PKT",
+            "withdrawEnable": true,
+            "withdrawFee": "1000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "125000000",
+            "withdrawMin": "2000",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "Due to PKT's precision processing mechanism, the actual credited amounts may differ slightly from browser displays. Please refer to the actual credited amount for accuracy. MEXC does not support PKT mining transactions, please do not use MEXC wallet as a mining address.",
+            "netWork": "PKT"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "FRTS",
+        "name": "Fruits",
+        "networkDetails": {
+            "coin": "FRTS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 52,
+            "name": "Fruits",
+            "network": "FRTS",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "700000000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "FRTS"
+        }
+    }
+]

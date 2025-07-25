@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "APTM",
+        "name": "Apertum",
+        "networkDetails": {
+            "coin": "APTM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "Apertum",
+            "network": "APERTUM",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "APERTUM"
+        }
+    }
+]

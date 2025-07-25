@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "C4E",
+        "name": "C4E",
+        "networkDetails": {
+            "coin": "C4E",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "C4E",
+            "network": "C4E",
+            "withdrawEnable": true,
+            "withdrawFee": "1.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "3",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "C4E"
+        }
+    }
+]

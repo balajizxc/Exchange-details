@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "LAI",
+        "name": "LAYERAI",
+        "networkDetails": {
+            "coin": "LAI",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 300,
+            "name": "LAYERAI",
+            "network": "LAYERAI",
+            "withdrawEnable": false,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "0xb236fD98048b594345d0EC9a3de18dD0083F45CE",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "LAYERAI"
+        }
+    }
+]

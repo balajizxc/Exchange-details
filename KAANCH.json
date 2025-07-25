@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "KNCH",
+        "name": "KNCH",
+        "networkDetails": {
+            "coin": "KNCH",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 75,
+            "name": "KNCH",
+            "network": "KAANCH",
+            "withdrawEnable": false,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "0.05",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KAANCH"
+        }
+    }
+]

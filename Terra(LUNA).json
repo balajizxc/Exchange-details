@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "VKR",
+        "name": "Valkyrie Protocol",
+        "networkDetails": {
+            "coin": "VKR",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Valkyrie Protocol",
+            "network": "Terra(LUNA)",
+            "withdrawEnable": false,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "360000000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "terra1gy73st560m2j0esw5c5rjmr899hvtv4rhh4seeajt3clfhr4aupszjss4j",
+            "withdrawTips": null,
+            "depositTips": "You will not need to fill in the memo to deposit to this address. Please top up without any worry.",
+            "netWork": "LUNA2"
+        }
+    },
+    {
+        "coin": "LUNA",
+        "name": "Terra",
+        "networkDetails": {
+            "coin": "LUNA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Terra",
+            "network": "Terra(LUNA)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": "The token is currently the new LUNA of Terra 2.0. The old version of LUNA has been renamed to LUNC. Please confirm before proceeding.",
+            "depositTips": "You will not need to fill in the memo to deposit to this address. Please top up without any worry.The token is currently the new LUNA of Terra 2.0. The old version of LUNA has been renamed to LUNC. Please confirm before proceeding.",
+            "netWork": "LUNA2"
+        }
+    }
+]

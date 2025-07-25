@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DHP",
+        "name": "dHealth",
+        "networkDetails": {
+            "coin": "DHP",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "dHealth",
+            "network": "DHP",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "33000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DHP"
+        }
+    }
+]

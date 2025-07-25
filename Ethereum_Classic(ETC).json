@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "HEBE",
+        "name": "Hebe Wallet",
+        "networkDetails": {
+            "coin": "HEBE",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 300,
+            "name": "Hebe Wallet",
+            "network": "Ethereum Classic(ETC)",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "24000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x88d8c3dc6b5324f34e8cf229a93e197048671abd",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ETC"
+        }
+    },
+    {
+        "coin": "ETC",
+        "name": "Ethereum Classic",
+        "networkDetails": {
+            "coin": "ETC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 300,
+            "name": "Ethereum Classic",
+            "network": "Ethereum Classic(ETC)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "30000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ETC"
+        }
+    },
+    {
+        "coin": "ETCPOW",
+        "name": "ETCMC",
+        "networkDetails": {
+            "coin": "ETCPOW",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 300,
+            "name": "ETCMC",
+            "network": "Ethereum Classic(ETC)",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1250000",
+            "withdrawMin": "5",
+            "sameAddress": false,
+            "contract": "0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ETC"
+        }
+    }
+]

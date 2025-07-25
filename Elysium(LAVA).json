@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "RC",
+        "name": "Rebel Cars",
+        "networkDetails": {
+            "coin": "RC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Rebel Cars",
+            "network": "Elysium(LAVA)",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0x6b86a1374820a988dde55f9846eecbe06ab0a606",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "LAVA"
+        }
+    },
+    {
+        "coin": "ELY",
+        "name": "Elysium",
+        "networkDetails": {
+            "coin": "ELY",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Elysium",
+            "network": "Elysium(LAVA)",
+            "withdrawEnable": true,
+            "withdrawFee": "20",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "40",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "LAVA"
+        }
+    }
+]

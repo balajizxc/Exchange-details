@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DASH",
+        "name": "DASH",
+        "networkDetails": {
+            "coin": "DASH",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 50,
+            "name": "DASH",
+            "network": "DASH",
+            "withdrawEnable": true,
+            "withdrawFee": "0.002",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "DASH"
+        }
+    }
+]

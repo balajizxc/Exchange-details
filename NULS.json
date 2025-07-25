@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "NVT",
+        "name": "Nerve",
+        "networkDetails": {
+            "coin": "NVT",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Nerve",
+            "network": "NULS",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "9-1",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NULS"
+        }
+    },
+    {
+        "coin": "NULS",
+        "name": "NULS",
+        "networkDetails": {
+            "coin": "NULS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "NULS",
+            "network": "NULS",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NULS"
+        }
+    }
+]

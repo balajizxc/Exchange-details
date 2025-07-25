@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PLYR",
+        "name": "PLYR L1",
+        "networkDetails": {
+            "coin": "PLYR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "PLYR L1",
+            "network": "PLYR",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PLYR"
+        }
+    }
+]

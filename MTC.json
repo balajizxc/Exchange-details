@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MTCOLD2",
+        "name": "Metatime Coin",
+        "networkDetails": {
+            "coin": "MTCOLD2",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 24,
+            "name": "Metatime Coin",
+            "network": "MTC",
+            "withdrawEnable": false,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MTC"
+        }
+    }
+]

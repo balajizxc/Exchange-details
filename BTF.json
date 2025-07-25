@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BTF",
+        "name": "Bitfinity Network",
+        "networkDetails": {
+            "coin": "BTF",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Bitfinity Network",
+            "network": "BTF",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BTF"
+        }
+    }
+]

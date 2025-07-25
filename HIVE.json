@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "HIVE",
+        "name": "HIVE",
+        "networkDetails": {
+            "coin": "HIVE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "HIVE",
+            "network": "HIVE",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "HIVE"
+        }
+    }
+]

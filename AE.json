@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "AE",
+        "name": "Aeternity",
+        "networkDetails": {
+            "coin": "AE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 300,
+            "name": "Aeternity",
+            "network": "AE",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "AE"
+        }
+    }
+]

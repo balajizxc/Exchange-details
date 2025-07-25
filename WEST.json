@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "WEST",
+        "name": "WEST",
+        "networkDetails": {
+            "coin": "WEST",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "WEST",
+            "network": "WEST",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "9800000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "WEST"
+        }
+    }
+]

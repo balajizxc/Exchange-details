@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "SHIBOO",
+        "name": "SHIBOO",
+        "networkDetails": {
+            "coin": "SHIBOO",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "SHIBOO",
+            "network": "CSPR",
+            "withdrawEnable": true,
+            "withdrawFee": "136",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "300000000",
+            "withdrawMin": "300",
+            "sameAddress": true,
+            "contract": "4d7c5ece0a0dfeea697e6e79cbc9d75d589f2046dff701f944295f630825bd3d",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CSPR"
+        }
+    },
+    {
+        "coin": "CSPR",
+        "name": "CASPER",
+        "networkDetails": {
+            "coin": "CSPR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "CASPER",
+            "network": "CSPR",
+            "withdrawEnable": true,
+            "withdrawFee": "0.2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "7000000",
+            "withdrawMin": "3",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CSPR"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "VARA",
+        "name": "VARA",
+        "networkDetails": {
+            "coin": "VARA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "VARA",
+            "network": "VARA",
+            "withdrawEnable": true,
+            "withdrawFee": "30",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VARA"
+        }
+    }
+]

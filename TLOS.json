@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TELOS",
+        "name": "Teloscoin",
+        "networkDetails": {
+            "coin": "TELOS",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Teloscoin",
+            "network": "TLOS",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "750000",
+            "withdrawMin": "0",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "TLOS"
+        }
+    }
+]

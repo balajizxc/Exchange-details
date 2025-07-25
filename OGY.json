@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "OGY",
+        "name": "ORIGYN",
+        "networkDetails": {
+            "coin": "OGY",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 1,
+            "name": "ORIGYN",
+            "network": "OGY",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "156952965",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OGY2"
+        }
+    }
+]

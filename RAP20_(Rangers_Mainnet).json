@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "RPG",
+        "name": "Rangers Protocol",
+        "networkDetails": {
+            "coin": "RPG",
+            "depositDesc": "Deposit suspended upon project party's request",
+            "depositEnable": false,
+            "minConfirm": 35,
+            "name": "Rangers Protocol",
+            "network": "RAP20 (Rangers Mainnet)",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "RPG"
+        }
+    }
+]

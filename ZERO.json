@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ZEROOLD",
+        "name": "ZERO",
+        "networkDetails": {
+            "coin": "ZEROOLD",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "ZERO",
+            "network": "ZERO",
+            "withdrawEnable": false,
+            "withdrawFee": "100",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "200",
+            "sameAddress": false,
+            "contract": "93RC484oMK5T9H89rzT5qiAXKHGP9jscXfFfrihNbe57",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SOL"
+        }
+    }
+]

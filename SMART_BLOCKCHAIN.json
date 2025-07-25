@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "SMART",
+        "name": "Smart Blockchain",
+        "networkDetails": {
+            "coin": "SMART",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Smart Blockchain",
+            "network": "SMART BLOCKCHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "200",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "62500000",
+            "withdrawMin": "300",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SMART"
+        }
+    },
+    {
+        "coin": "BULLS",
+        "name": "BULLS",
+        "networkDetails": {
+            "coin": "BULLS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "BULLS",
+            "network": "SMART BLOCKCHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "0.001",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "500",
+            "withdrawMin": "0.01",
+            "sameAddress": false,
+            "contract": "sgoaR28U2uFjURPsCa29LoLcLv2Zmq28ij",
+            "withdrawTips": "The token name of BULL is BULLS in MEXC; The last digits of the token's contract address are 28ij, please make sure they're correct before taking action.",
+            "depositTips": "The token name of BULL is BULLS in MEXC; The last digits of the token's contract address are 28ij, please make sure they're correct before taking action.",
+            "netWork": "SMART"
+        }
+    },
+    {
+        "coin": "ULTIMA",
+        "name": "ULTIMA",
+        "networkDetails": {
+            "coin": "ULTIMA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "ULTIMA",
+            "network": "SMART BLOCKCHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "0.003",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "15",
+            "withdrawMin": "0.006",
+            "sameAddress": false,
+            "contract": "sWd6JcnEA3QJdh3zK1NHchyU2j4cEsiUdi",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SMART"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SKL",
+        "name": "SKL",
+        "networkDetails": {
+            "coin": "SKL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "SKL",
+            "network": "SKALE Europa",
+            "withdrawEnable": false,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "0xE0595a049d02b7674572b0d59cd4880Db60EDC50",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SKALE"
+        }
+    }
+]

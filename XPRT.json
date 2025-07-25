@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XPRT",
+        "name": "xprt",
+        "networkDetails": {
+            "coin": "XPRT",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "xprt",
+            "network": "XPRT",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000",
+            "withdrawMin": "0",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XPRT"
+        }
+    }
+]

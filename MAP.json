@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MAPO",
+        "name": "MAPO",
+        "networkDetails": {
+            "coin": "MAPO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 24,
+            "name": "MAPO",
+            "network": "MAP",
+            "withdrawEnable": true,
+            "withdrawFee": "7",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "14000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MAP"
+        }
+    }
+]

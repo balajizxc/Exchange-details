@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SUB",
+        "name": "SUB",
+        "networkDetails": {
+            "coin": "SUB",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "SUB",
+            "network": "SUB",
+            "withdrawEnable": true,
+            "withdrawFee": "80",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "150",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SUB"
+        }
+    }
+]

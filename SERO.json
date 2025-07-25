@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "SERO",
+        "name": "SERO",
+        "networkDetails": {
+            "coin": "SERO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "SERO",
+            "network": "SERO",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "800000",
+            "withdrawMin": "50",
+            "sameAddress": false,
+            "contract": "SERO",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SERO"
+        }
+    },
+    {
+        "coin": "HAPY",
+        "name": "HAPY Coin",
+        "networkDetails": {
+            "coin": "HAPY",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "HAPY Coin",
+            "network": "SERO",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "12000000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "HAPY",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SERO"
+        }
+    }
+]

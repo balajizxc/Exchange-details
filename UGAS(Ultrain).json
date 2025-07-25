@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "UGAS",
+        "name": "Ultrain",
+        "networkDetails": {
+            "coin": "UGAS",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Ultrain",
+            "network": "UGAS(Ultrain)",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "288000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "UGAS"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "WTFABCDE",
+        "name": "WTFABCDE",
+        "networkDetails": {
+            "coin": "WTFABCDE",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 2,
+            "name": "WTFABCDE",
+            "network": "CELO_TEST",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000",
+            "withdrawMin": "0",
+            "sameAddress": false,
+            "contract": "0xd35CCeEAD182dcee0F148EbaC9447DA2c4D449c4",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CELO_TEST"
+        }
+    }
+]

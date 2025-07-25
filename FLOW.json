@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "FLOW",
+        "name": "FLOW",
+        "networkDetails": {
+            "coin": "FLOW",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "FLOW",
+            "network": "FLOW",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "500000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "FLOW"
+        }
+    }
+]

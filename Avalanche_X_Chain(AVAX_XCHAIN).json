@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "AVAX",
+        "name": "Avalanche",
+        "networkDetails": {
+            "coin": "AVAX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 1,
+            "name": "Avalanche",
+            "network": "Avalanche X Chain(AVAX XCHAIN)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000",
+            "withdrawMin": "0.04",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "AVAX_XCHAIN"
+        }
+    }
+]

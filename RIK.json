@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "TBT",
+        "name": "TradeBull Token",
+        "networkDetails": {
+            "coin": "TBT",
+            "depositDesc": "Deposit suspended as project upgrade is in progress",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "TradeBull Token",
+            "network": "RIK",
+            "withdrawEnable": false,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "500000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0x101eD53f394cbe9DB01DB87d1E38206112097DC1",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NONE"
+        }
+    },
+    {
+        "coin": "RIKOLD",
+        "name": "RIKEZA",
+        "networkDetails": {
+            "coin": "RIKOLD",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "RIKEZA",
+            "network": "RIK",
+            "withdrawEnable": false,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "RIK"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DRK",
+        "name": "Draken",
+        "networkDetails": {
+            "coin": "DRK",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "Draken",
+            "network": "DRK",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "320000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DRK"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "OMAX",
+        "name": "OMAX",
+        "networkDetails": {
+            "coin": "OMAX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "OMAX",
+            "network": "OMAX",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "71428571.428571",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OMAX"
+        }
+    }
+]

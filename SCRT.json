@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SCRT",
+        "name": "SCRT",
+        "networkDetails": {
+            "coin": "SCRT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "SCRT",
+            "network": "SCRT",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "300000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SCRT"
+        }
+    }
+]

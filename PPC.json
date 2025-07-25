@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PPC",
+        "name": "Peercoin",
+        "networkDetails": {
+            "coin": "PPC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Peercoin",
+            "network": "PPC",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "500000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "",
+            "depositTips": "",
+            "netWork": "PPC"
+        }
+    }
+]

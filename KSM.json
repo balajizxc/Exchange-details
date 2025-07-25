@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "KSM",
+        "name": "Kusama",
+        "networkDetails": {
+            "coin": "KSM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 16,
+            "name": "Kusama",
+            "network": "KSM",
+            "withdrawEnable": true,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "30000",
+            "withdrawMin": "0.02",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KSM"
+        }
+    }
+]

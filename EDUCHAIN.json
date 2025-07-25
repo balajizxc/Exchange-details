@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BLEND",
+        "name": "BLEND",
+        "networkDetails": {
+            "coin": "BLEND",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "BLEND",
+            "network": "EDUCHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "40",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "15000000",
+            "withdrawMin": "80",
+            "sameAddress": false,
+            "contract": "0x526E8a66E357FFeaEeEc6d7Be1E5eA44a788dd1d",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "EDUCHAIN"
+        }
+    }
+]

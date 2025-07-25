@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CAM",
+        "name": "Camino Network",
+        "networkDetails": {
+            "coin": "CAM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Camino Network",
+            "network": "CAMINO",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CAMINO"
+        }
+    }
+]

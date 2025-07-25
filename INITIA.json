@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "INIT",
+        "name": "INIT",
+        "networkDetails": {
+            "coin": "INIT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "INIT",
+            "network": "INITIA",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "400000",
+            "withdrawMin": "8",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "INITIA"
+        }
+    }
+]

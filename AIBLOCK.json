@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "AIBCOIN",
+        "name": "AIBCOIN",
+        "networkDetails": {
+            "coin": "AIBCOIN",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 4,
+            "name": "AIBCOIN",
+            "network": "AIBLOCK",
+            "withdrawEnable": false,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "0.02",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "AIBLOCK"
+        }
+    }
+]

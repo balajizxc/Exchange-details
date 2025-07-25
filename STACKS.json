@@ -1,0 +1,156 @@
+[
+    {
+        "coin": "STX",
+        "name": "Stacks",
+        "networkDetails": {
+            "coin": "STX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 3,
+            "name": "Stacks",
+            "network": "STACKS",
+            "withdrawEnable": true,
+            "withdrawFee": "1.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "500000",
+            "withdrawMin": "2.5",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "STACKS"
+        }
+    },
+    {
+        "coin": "DIKO",
+        "name": "DIKO",
+        "networkDetails": {
+            "coin": "DIKO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 3,
+            "name": "DIKO",
+            "network": "STACKS",
+            "withdrawEnable": true,
+            "withdrawFee": "2.8",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "270000",
+            "withdrawMin": "5",
+            "sameAddress": true,
+            "contract": "SP2C2YFP12AJZB4MABJBAJ55XECVS7E4PMMZ89YZR.arkadiko-token::diko",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "STACKS"
+        }
+    },
+    {
+        "coin": "WELSH",
+        "name": "Welshcorgicoin",
+        "networkDetails": {
+            "coin": "WELSH",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 3,
+            "name": "Welshcorgicoin",
+            "network": "STACKS",
+            "withdrawEnable": true,
+            "withdrawFee": "30",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "57000000",
+            "withdrawMin": "60",
+            "sameAddress": true,
+            "contract": "SP3NE50GEXFG9SZGTT51P40X2CKYSZ5CC4ZTZ7A2G.welshcorgicoin-token::welshcorgicoin",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "STACKS"
+        }
+    },
+    {
+        "coin": "ALEXOLD",
+        "name": "ALEX",
+        "networkDetails": {
+            "coin": "ALEXOLD",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 3,
+            "name": "ALEX",
+            "network": "STACKS",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "20",
+            "sameAddress": true,
+            "contract": "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.age000-governance-token::alex",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "STACKS"
+        }
+    },
+    {
+        "coin": "LEO",
+        "name": "leo",
+        "networkDetails": {
+            "coin": "LEO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 3,
+            "name": "leo",
+            "network": "STACKS",
+            "withdrawEnable": true,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000000",
+            "withdrawMin": "80",
+            "sameAddress": true,
+            "contract": "SP1AY6K3PQV5MRT6R4S671NWW2FRVPKM0BR162CT6.leo-token::leo",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "STACKS"
+        }
+    },
+    {
+        "coin": "ODIN",
+        "name": "ODIN",
+        "networkDetails": {
+            "coin": "ODIN",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 3,
+            "name": "ODIN",
+            "network": "STACKS",
+            "withdrawEnable": true,
+            "withdrawFee": "25300",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2500000000",
+            "withdrawMin": "50000",
+            "sameAddress": true,
+            "contract": "SP2X2Z28NXZVJFCJPBR9Q3NBVYBK3GPX8PXA3R83C.odin-tkn::odin",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "STACKS"
+        }
+    },
+    {
+        "coin": "ALEX",
+        "name": "ALEX Lab",
+        "networkDetails": {
+            "coin": "ALEX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 3,
+            "name": "ALEX Lab",
+            "network": "STACKS",
+            "withdrawEnable": true,
+            "withdrawFee": "1.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "3",
+            "sameAddress": true,
+            "contract": "SP102V8P0F7JX67ARQ77WEA3D3CFB5XW39REDT0AM.token-alex::alex",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "STACKS"
+        }
+    }
+]

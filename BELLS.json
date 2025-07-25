@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BELLS",
+        "name": "Bellscoin",
+        "networkDetails": {
+            "coin": "BELLS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Bellscoin",
+            "network": "BELLS",
+            "withdrawEnable": true,
+            "withdrawFee": "0.05",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "125000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BELLS"
+        }
+    }
+]

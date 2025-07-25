@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TRTL",
+        "name": "TurtleCoin",
+        "networkDetails": {
+            "coin": "TRTL",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 200,
+            "name": "TurtleCoin",
+            "network": "TRTL",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "13075106519",
+            "withdrawMin": "10000000",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "TRTL"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "M",
+        "name": "MemeCore",
+        "networkDetails": {
+            "coin": "M",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "MemeCore",
+            "network": "MEMECORE",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MEMECORE"
+        }
+    }
+]

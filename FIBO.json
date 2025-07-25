@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "FIBO",
+        "name": "Fibonacci",
+        "networkDetails": {
+            "coin": "FIBO",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "Fibonacci",
+            "network": "FIBO",
+            "withdrawEnable": true,
+            "withdrawFee": "0.2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "FIBO"
+        }
+    }
+]

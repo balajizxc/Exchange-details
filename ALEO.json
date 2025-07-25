@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ALEO",
+        "name": "Aleo",
+        "networkDetails": {
+            "coin": "ALEO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Aleo",
+            "network": "ALEO",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "Please do not use the [PRIVATE] method to deposit ALEO, or it will be lost.",
+            "netWork": "ALEO"
+        }
+    }
+]

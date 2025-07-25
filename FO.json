@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "FO",
+        "name": "FIBOS",
+        "networkDetails": {
+            "coin": "FO",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "FIBOS",
+            "network": "FO",
+            "withdrawEnable": false,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000000",
+            "withdrawMin": "100",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "It is necessary to correctly fill in the address and [Memo/Tag] identifier on the withdrawal platform, otherwise the FO deposit will be lost.",
+            "netWork": "FO"
+        }
+    }
+]

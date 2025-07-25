@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CLORE",
+        "name": "Clore AI",
+        "networkDetails": {
+            "coin": "CLORE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 200,
+            "name": "Clore AI",
+            "network": "Clore.ai(CLORE)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CLORE"
+        }
+    }
+]

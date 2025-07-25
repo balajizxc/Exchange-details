@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NOW",
+        "name": "Nowchain",
+        "networkDetails": {
+            "coin": "NOW",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Nowchain",
+            "network": "NOWCHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "30",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NOWCHAIN"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CRO",
+        "name": "Crypto",
+        "networkDetails": {
+            "coin": "CRO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Crypto",
+            "network": "CRO",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3500000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "CRO"
+        }
+    }
+]

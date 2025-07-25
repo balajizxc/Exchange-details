@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NBS",
+        "name": "New BitShares",
+        "networkDetails": {
+            "coin": "NBS",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "New BitShares",
+            "network": "NBS",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "380000000",
+            "withdrawMin": "20",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NBS"
+        }
+    }
+]

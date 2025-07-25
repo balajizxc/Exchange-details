@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "AQLA",
+        "name": "AQLA",
+        "networkDetails": {
+            "coin": "AQLA",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "AQLA",
+            "network": "KUJI",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "factory/kujira1xe0awk5planmtsmjel5xtx2hzhqdw5p8z66yqd/uaqla",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KUJI"
+        }
+    }
+]

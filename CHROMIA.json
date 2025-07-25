@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CHR",
+        "name": "Chroma",
+        "networkDetails": {
+            "coin": "CHR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "CHR",
+            "network": "CHROMIA",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CHROMIA"
+        }
+    }
+]

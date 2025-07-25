@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CTXC",
+        "name": "Cortex",
+        "networkDetails": {
+            "coin": "CTXC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 3000,
+            "name": "Cortex",
+            "network": "CTXC",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1230000",
+            "withdrawMin": "7",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "",
+            "depositTips": "",
+            "netWork": "CTXC"
+        }
+    }
+]

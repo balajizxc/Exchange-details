@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "NAS",
+        "name": "Nebulas",
+        "networkDetails": {
+            "coin": "NAS",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 24,
+            "name": "Nebulas",
+            "network": "NAS",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "8000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NAS"
+        }
+    },
+    {
+        "coin": "NAX",
+        "name": "NAX",
+        "networkDetails": {
+            "coin": "NAX",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 24,
+            "name": "NAX",
+            "network": "NAS",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "n1etmdwczuAUCnMMvpGasfi8kwUbb2ddvRJ",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NAS"
+        }
+    }
+]

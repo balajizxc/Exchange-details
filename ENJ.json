@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ENJ",
+        "name": "Enjin",
+        "networkDetails": {
+            "coin": "ENJ",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Enjin",
+            "network": "ENJ",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "900000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ENJ"
+        }
+    }
+]

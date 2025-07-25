@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MEER",
+        "name": "Qitmeer Network",
+        "networkDetails": {
+            "coin": "MEER",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 35,
+            "name": "Qitmeer Network",
+            "network": "MEER",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "288018.433179",
+            "withdrawMin": "11.520736",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MEER"
+        }
+    }
+]

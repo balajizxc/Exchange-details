@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "MERL",
+        "name": "Merlin Chain",
+        "networkDetails": {
+            "coin": "MERL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 1000,
+            "name": "Merlin Chain",
+            "network": "MERLIN",
+            "withdrawEnable": true,
+            "withdrawFee": "8.7",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "500000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "0x5c46bFF4B38dc1EAE09C5BAc65872a1D8bc87378",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MERLIN"
+        }
+    },
+    {
+        "coin": "LULU",
+        "name": "LuluOasis",
+        "networkDetails": {
+            "coin": "LULU",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 1000,
+            "name": "LuluOasis",
+            "network": "MERLIN",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "250000000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x1c2fD0c05FFfCE485C9F3e6fEc0C64d22da40008",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MERLIN"
+        }
+    },
+    {
+        "coin": "MAGE",
+        "name": "Mage",
+        "networkDetails": {
+            "coin": "MAGE",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 1000,
+            "name": "Mage",
+            "network": "MERLIN",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "556000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x825e2cfBb71a92e09Ef73D9e96d15cE2e0f63E9F",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MERLIN"
+        }
+    }
+]

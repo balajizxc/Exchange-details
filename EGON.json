@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "EGON",
+        "name": "EgonCoin",
+        "networkDetails": {
+            "coin": "EGON",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "EgonCoin",
+            "network": "EGON",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2500000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "EGON"
+        }
+    }
+]

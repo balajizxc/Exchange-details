@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ANDR",
+        "name": "Andromeda",
+        "networkDetails": {
+            "coin": "ANDR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Andromeda",
+            "network": "ANDR",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ANDR"
+        }
+    }
+]

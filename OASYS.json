@@ -1,0 +1,134 @@
+[
+    {
+        "coin": "Z",
+        "name": "PLANZ",
+        "networkDetails": {
+            "coin": "Z",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "PLANZ",
+            "network": "OASYS",
+            "withdrawEnable": true,
+            "withdrawFee": "4",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "0xC683DA627fF9fD56740C72A703528861c33d3B3a",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OASYS"
+        }
+    },
+    {
+        "coin": "SGC",
+        "name": "SGC",
+        "networkDetails": {
+            "coin": "SGC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "SGC",
+            "network": "OASYS",
+            "withdrawEnable": false,
+            "withdrawFee": "190",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000000",
+            "withdrawMin": "500",
+            "sameAddress": false,
+            "contract": "0x5a2941b1B328ADDe8193Cb8b0100787D7cbA2F9a",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OASYS"
+        }
+    },
+    {
+        "coin": "BPC",
+        "name": "Brave Power Crystal",
+        "networkDetails": {
+            "coin": "BPC",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "Brave Power Crystal",
+            "network": "OASYS",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "40",
+            "sameAddress": false,
+            "contract": "0x9a340a0de81b23ecd37ba9c4845dff5850a7e7a4",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OASYS"
+        }
+    },
+    {
+        "coin": "MSM",
+        "name": "CoinMusme",
+        "networkDetails": {
+            "coin": "MSM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "CoinMusme",
+            "network": "OASYS",
+            "withdrawEnable": true,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "200",
+            "sameAddress": false,
+            "contract": "0xd11E0F63B04868567c297A3119e491707DB19E4e",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OASYS"
+        }
+    },
+    {
+        "coin": "OAS",
+        "name": "Oasys Token",
+        "networkDetails": {
+            "coin": "OAS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Oasys Token",
+            "network": "OASYS",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OASYS"
+        }
+    },
+    {
+        "coin": "TCGC",
+        "name": "TCG Verse",
+        "networkDetails": {
+            "coin": "TCGC",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "TCG Verse",
+            "network": "OASYS",
+            "withdrawEnable": true,
+            "withdrawFee": "14.285714",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2857142.857142",
+            "withdrawMin": "28.571428",
+            "sameAddress": false,
+            "contract": "0xdDB07cc0f2F9fB7899DbA5a21964f3C6D2740e44",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OASYS"
+        }
+    }
+]

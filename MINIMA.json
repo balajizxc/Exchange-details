@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MINIMA",
+        "name": "MINIMA",
+        "networkDetails": {
+            "coin": "MINIMA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 10,
+            "name": "MINIMA",
+            "network": "MINIMA",
+            "withdrawEnable": true,
+            "withdrawFee": "15",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "50000",
+            "withdrawMin": "30",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MINIMA"
+        }
+    }
+]

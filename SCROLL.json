@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "SCR",
+        "name": "Scroll",
+        "networkDetails": {
+            "coin": "SCR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Scroll",
+            "network": "SCROLL",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "0.5",
+            "sameAddress": false,
+            "contract": "0xd29687c813D741E2F938F4aC377128810E217b1b",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SCROLL"
+        }
+    },
+    {
+        "coin": "LAP",
+        "name": "LAP",
+        "networkDetails": {
+            "coin": "LAP",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "LAP",
+            "network": "SCROLL",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x8207CF61083fA9DFCe837fA5FD8f5d15F607292f",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SCROLL"
+        }
+    },
+    {
+        "coin": "SKYDROME",
+        "name": "Skydrome",
+        "networkDetails": {
+            "coin": "SKYDROME",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "Skydrome",
+            "network": "SCROLL",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x95a52EC1d60e74CD3Eb002fE54A2c74b185A4C16",
+            "withdrawTips": "The token name of Skydrome(SKY) is SKYDROME in MEXC; The last digits of the token's contract address are 4C16, please make sure they're correct before taking action.",
+            "depositTips": "The token name of Skydrome(SKY) is SKYDROME in MEXC; The last digits of the token's contract address are 4C16, please make sure they're correct before taking action.",
+            "netWork": "SCROLL"
+        }
+    }
+]

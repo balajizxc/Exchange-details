@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DNX",
+        "name": "Dynex",
+        "networkDetails": {
+            "coin": "DNX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Dynex",
+            "network": "Dynex(DNX)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "30000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "Note: Please do not bind this address to any mining pools as the deposit address! This address doesn\u2018t accept any deposits from mining pools!",
+            "netWork": "DNX"
+        }
+    }
+]

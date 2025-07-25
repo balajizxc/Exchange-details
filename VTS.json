@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "VTS",
+        "name": "Veritise",
+        "networkDetails": {
+            "coin": "VTS",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 35,
+            "name": "Veritise",
+            "network": "VTS",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VTS"
+        }
+    }
+]

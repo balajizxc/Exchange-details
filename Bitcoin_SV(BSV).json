@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BSV",
+        "name": "BitcoinSV",
+        "networkDetails": {
+            "coin": "BSV",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 200,
+            "name": "BitcoinSV",
+            "network": "Bitcoin SV(BSV)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.001",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000",
+            "withdrawMin": "0.05",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BSV"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NETZ",
+        "name": "MainnetZ",
+        "networkDetails": {
+            "coin": "NETZ",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "MainnetZ",
+            "network": "NETZ",
+            "withdrawEnable": false,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NETZ"
+        }
+    }
+]

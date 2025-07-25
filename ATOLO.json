@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ATOLO",
+        "name": "RIZON",
+        "networkDetails": {
+            "coin": "ATOLO",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "RIZON",
+            "network": "ATOLO",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "37000000",
+            "withdrawMin": "4",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ATOLO"
+        }
+    }
+]

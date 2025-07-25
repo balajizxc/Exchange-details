@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ANLOG",
+        "name": "ANLOG",
+        "networkDetails": {
+            "coin": "ANLOG",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "ANLOG",
+            "network": "ANLOG",
+            "withdrawEnable": true,
+            "withdrawFee": "35",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "30000000",
+            "withdrawMin": "80",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ANLOG"
+        }
+    }
+]

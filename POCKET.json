@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "POKT",
+        "name": "POKT-POCKET",
+        "networkDetails": {
+            "coin": "POKT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 4,
+            "name": "POKT-POCKET",
+            "network": "POCKET",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "POCKET"
+        }
+    }
+]

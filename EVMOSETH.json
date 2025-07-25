@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "EVMOS",
+        "name": "Evmos",
+        "networkDetails": {
+            "coin": "EVMOS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Evmos",
+            "network": "EVMOSETH",
+            "withdrawEnable": true,
+            "withdrawFee": "20",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "EVMOSETH"
+        }
+    }
+]

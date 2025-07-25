@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MDU",
+        "name": "MDUKEY",
+        "networkDetails": {
+            "coin": "MDU",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 80,
+            "name": "MDUKEY",
+            "network": "MDU",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MDU"
+        }
+    }
+]

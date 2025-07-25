@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TLOS",
+        "name": "TLOS",
+        "networkDetails": {
+            "coin": "TLOS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 120,
+            "name": "Telos",
+            "network": "TELOS",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1600000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "eosio.token",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "TLOS"
+        }
+    }
+]

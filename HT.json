@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "WITCH",
+        "name": "Witch Token",
+        "networkDetails": {
+            "coin": "WITCH",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "Witch Token",
+            "network": "HT",
+            "withdrawEnable": false,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0xf71a7d20c6fc34a3bf362780aee0fc9ee3ece5fe",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "HT"
+        }
+    },
+    {
+        "coin": "BOO1OLD",
+        "name": "Booster",
+        "networkDetails": {
+            "coin": "BOO1OLD",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "Booster",
+            "network": "HT",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0xff96dccf2763d512b6038dc60b7e96d1a9142507",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "HT"
+        }
+    }
+]

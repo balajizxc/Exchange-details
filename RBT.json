@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "RBT",
+        "name": "Rubix",
+        "networkDetails": {
+            "coin": "RBT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 1,
+            "name": "Rubix",
+            "network": "RBT",
+            "withdrawEnable": false,
+            "withdrawFee": "0.002",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000",
+            "withdrawMin": "0.025",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "RBT"
+        }
+    }
+]

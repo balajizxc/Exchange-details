@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MPC",
+        "name": "Partisia Blockchain",
+        "networkDetails": {
+            "coin": "MPC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 10,
+            "name": "Partisia Blockchain",
+            "network": "MPC",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "560000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MPC"
+        }
+    }
+]

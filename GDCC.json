@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "GDCC",
+        "name": "GDCC",
+        "networkDetails": {
+            "coin": "GDCC",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "GDCC",
+            "network": "GDCC",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "33333.333333",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "GDCC"
+        }
+    }
+]

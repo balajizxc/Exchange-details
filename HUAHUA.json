@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "HUAHUA",
+        "name": "Chihuahua",
+        "networkDetails": {
+            "coin": "HUAHUA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Chihuahua",
+            "network": "HUAHUA",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "HUAHUA"
+        }
+    }
+]

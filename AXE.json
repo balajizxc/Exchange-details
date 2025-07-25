@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "AXE",
+        "name": "AXE",
+        "networkDetails": {
+            "coin": "AXE",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 900,
+            "name": "AXE",
+            "network": "AXE",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000",
+            "withdrawMin": "5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "AXE"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "CFN",
+        "name": "Cockfight Network",
+        "networkDetails": {
+            "coin": "CFN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Cockfight Network",
+            "network": "GMMT",
+            "withdrawEnable": true,
+            "withdrawFee": "0.07",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "125000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "0x734BF3a059eE840A910E02e477049EF9C1a644aB",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "GMMT"
+        }
+    },
+    {
+        "coin": "GMMT",
+        "name": "Giant Mammoth",
+        "networkDetails": {
+            "coin": "GMMT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Giant Mammoth",
+            "network": "GMMT",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "65000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "GMMT"
+        }
+    }
+]

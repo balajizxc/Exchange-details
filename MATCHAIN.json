@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "MAT",
+        "name": "Matchain",
+        "networkDetails": {
+            "coin": "MAT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 300,
+            "name": "Matchain",
+            "network": "MATCHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x44a83a012B926853DFc1BBE2ec5BEf37126067e8",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MATCHAIN"
+        }
+    },
+    {
+        "coin": "BAC",
+        "name": "CDARI",
+        "networkDetails": {
+            "coin": "BAC",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 300,
+            "name": "CDARI",
+            "network": "MATCHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "0.2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40000",
+            "withdrawMin": "0.5",
+            "sameAddress": false,
+            "contract": "0xb49ed45d594aB849C46e01eba11C794d955A2EaD",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MATCHAIN"
+        }
+    }
+]

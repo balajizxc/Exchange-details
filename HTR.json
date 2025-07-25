@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "HTR",
+        "name": "HTR",
+        "networkDetails": {
+            "coin": "HTR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "HTR",
+            "network": "HTR",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "HTR"
+        }
+    }
+]

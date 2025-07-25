@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "YAS",
+        "name": "YAS Network",
+        "networkDetails": {
+            "coin": "YAS",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "YAS Network",
+            "network": "YAS",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "50",
+            "sameAddress": true,
+            "contract": "eosio.token",
+            "withdrawTips": "Mainnet swap of YAS has completed, so withdraw YAS only to mainnet YAS address, otherwise it will result in asset loss.",
+            "depositTips": "Mainnet swap of YAS has completed, so send only mainnet YAS to the address, otherwise it will result in asset loss.",
+            "netWork": "YAS"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "VDAO",
+        "name": "VITE",
+        "networkDetails": {
+            "coin": "VDAO",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 150,
+            "name": "VITE",
+            "network": "VITE",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1250000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "tti_cc901f2d7a2cae72f9c79aee",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VITE"
+        }
+    },
+    {
+        "coin": "VITE",
+        "name": "ViteToken",
+        "networkDetails": {
+            "coin": "VITE",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 150,
+            "name": "ViteToken",
+            "network": "VITE",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "12000000",
+            "withdrawMin": "20",
+            "sameAddress": true,
+            "contract": "tti_5649544520544f4b454e6e40",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VITE"
+        }
+    }
+]

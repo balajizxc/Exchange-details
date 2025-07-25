@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PLS",
+        "name": "PulseChain",
+        "networkDetails": {
+            "coin": "PLS",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "PulseChain",
+            "network": "PLS",
+            "withdrawEnable": true,
+            "withdrawFee": "1500",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000000",
+            "withdrawMin": "2000",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PLS"
+        }
+    }
+]

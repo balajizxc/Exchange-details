@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XP",
+        "name": "Xphere",
+        "networkDetails": {
+            "coin": "XP",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Xphere",
+            "network": "XPHERE",
+            "withdrawEnable": true,
+            "withdrawFee": "20",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "50",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XPHERE"
+        }
+    }
+]

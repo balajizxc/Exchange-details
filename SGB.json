@@ -1,0 +1,90 @@
+[
+    {
+        "coin": "SGB",
+        "name": "Songbird",
+        "networkDetails": {
+            "coin": "SGB",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 100,
+            "name": "Songbird",
+            "network": "SGB",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "35000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SGB"
+        }
+    },
+    {
+        "coin": "SFIN",
+        "name": "SongbirdFinanceToken",
+        "networkDetails": {
+            "coin": "SFIN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 100,
+            "name": "SongbirdFinanceToken",
+            "network": "SGB",
+            "withdrawEnable": true,
+            "withdrawFee": "0.0001",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "150",
+            "withdrawMin": "0.001",
+            "sameAddress": false,
+            "contract": "0x0D94e59332732D18CF3a3D457A8886A2AE29eA1B",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SGB"
+        }
+    },
+    {
+        "coin": "EXFI",
+        "name": "Flare Finance",
+        "networkDetails": {
+            "coin": "EXFI",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "Flare Finance",
+            "network": "SGB",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "460000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "0xC348F894d0E939FE72c467156E6d7DcbD6f16e21",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SGB"
+        }
+    },
+    {
+        "coin": "CAND",
+        "name": "Canary Dollar",
+        "networkDetails": {
+            "coin": "CAND",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "Canary Dollar",
+            "network": "SGB",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "300000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x70Ad7172EF0b131A1428D0c1F66457EB041f2176",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SGB"
+        }
+    }
+]

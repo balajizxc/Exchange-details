@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DAR",
+        "name": "Mines of Dalarnia",
+        "networkDetails": {
+            "coin": "DAR",
+            "depositDesc": "Deposit suspended as project upgrade is in progress",
+            "depositEnable": false,
+            "minConfirm": 61,
+            "name": "Mines of Dalarnia",
+            "network": "bsc",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "848241",
+            "withdrawMin": "848240",
+            "sameAddress": false,
+            "contract": "0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NONE"
+        }
+    }
+]

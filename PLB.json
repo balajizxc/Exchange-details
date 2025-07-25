@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PLB",
+        "name": "Paladeum",
+        "networkDetails": {
+            "coin": "PLB",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 4,
+            "name": "Paladeum",
+            "network": "PLB",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "105263.157894",
+            "withdrawMin": "1.1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PLB"
+        }
+    }
+]

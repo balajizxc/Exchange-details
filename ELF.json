@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ELF",
+        "name": "ELF",
+        "networkDetails": {
+            "coin": "ELF",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 150,
+            "name": "ELF",
+            "network": "ELF",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ELF"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DEB",
+        "name": "DEB",
+        "networkDetails": {
+            "coin": "DEB",
+            "depositDesc": "Deposit suspended as project upgrade is in progress",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "DEB",
+            "network": "DEB",
+            "withdrawEnable": false,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "30000000",
+            "withdrawMin": "4",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DEB"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "COREUM",
+        "name": "COREUM",
+        "networkDetails": {
+            "coin": "COREUM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "COREUM",
+            "network": "COREUM",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "0.2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "COREUM"
+        }
+    },
+    {
+        "coin": "SARA",
+        "name": "SARA",
+        "networkDetails": {
+            "coin": "SARA",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "SARA",
+            "network": "COREUM",
+            "withdrawEnable": true,
+            "withdrawFee": "80",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40000000",
+            "withdrawMin": "100",
+            "sameAddress": true,
+            "contract": "usara-core1r9gc0rnxnzpq33u82f44aufgdwvyxv4wyepyck98m9v2pxua6naqr8h03z",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "COREUM"
+        }
+    }
+]

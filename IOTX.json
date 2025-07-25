@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "IOTX",
+        "name": "IoTeX Network",
+        "networkDetails": {
+            "coin": "IOTX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "IoTeX Network",
+            "network": "IOTX",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "30000000",
+            "withdrawMin": "5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "",
+            "depositTips": "",
+            "netWork": "IOTX"
+        }
+    }
+]

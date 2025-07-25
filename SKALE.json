@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "CMPS",
+        "name": "Havens Compass",
+        "networkDetails": {
+            "coin": "CMPS",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "Havens Compass",
+            "network": "SKALE",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x31E0B85Eff93fc3cb5423cd3E23868F5B18fF0bB",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SKALE"
+        }
+    },
+    {
+        "coin": "MEEFIE",
+        "name": "MeeFie",
+        "networkDetails": {
+            "coin": "MEEFIE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "MeeFie",
+            "network": "SKALE",
+            "withdrawEnable": true,
+            "withdrawFee": "200",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000000",
+            "withdrawMin": "500",
+            "sameAddress": false,
+            "contract": "0x0cC139bA646E90828962159b9Af7CEC42dCfad1e",
+            "withdrawTips": "The token name of MeeFie(MFT) is MEEFIE in MEXC; The last digits of the token's contract address are Cfad1e, please make sure they're correct before taking action.",
+            "depositTips": "The token name of MeeFie(MFT) is MEEFIE in MEXC; The last digits of the token's contract address are Cfad1e, please make sure they're correct before taking action.",
+            "netWork": "SKALE"
+        }
+    }
+]

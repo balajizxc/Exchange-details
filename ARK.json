@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ARK",
+        "name": "ARK",
+        "networkDetails": {
+            "coin": "ARK",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 51,
+            "name": "ARK",
+            "network": "ARK",
+            "withdrawEnable": true,
+            "withdrawFee": "0.2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "830000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ARK"
+        }
+    }
+]

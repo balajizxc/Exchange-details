@@ -1,0 +1,112 @@
+[
+    {
+        "coin": "CGX",
+        "name": "Forkast",
+        "networkDetails": {
+            "coin": "CGX",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 40,
+            "name": "Forkast",
+            "network": "RONIN",
+            "withdrawEnable": true,
+            "withdrawFee": "40",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "0x656fe582b4c6dc95c598ea54dc820eb36152e2f7",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "RONIN"
+        }
+    },
+    {
+        "coin": "KOKU",
+        "name": "Koku The Shikoku",
+        "networkDetails": {
+            "coin": "KOKU",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 40,
+            "name": "Koku The Shikoku",
+            "network": "RONIN",
+            "withdrawEnable": true,
+            "withdrawFee": "25",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "25000000",
+            "withdrawMin": "50",
+            "sameAddress": false,
+            "contract": "0x361d8623dc1d91e04ebc148687719aace282249a",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "RONIN"
+        }
+    },
+    {
+        "coin": "PIXEL",
+        "name": "PIXEL",
+        "networkDetails": {
+            "coin": "PIXEL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 40,
+            "name": "PIXEL",
+            "network": "RONIN",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "400000",
+            "withdrawMin": "4",
+            "sameAddress": false,
+            "contract": "0x7eae20d11ef8c779433eb24503def900b9d28ad7",
+            "withdrawTips": null,
+            "depositTips": "The address you currently choose is an RONIN address on Ethereum chain. Please do not use other chains for deposits.",
+            "netWork": "RONIN"
+        }
+    },
+    {
+        "coin": "PFVS",
+        "name": "Puffverse",
+        "networkDetails": {
+            "coin": "PFVS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 40,
+            "name": "Puffverse",
+            "network": "RONIN",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2500000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "0xb4562fdefd5ed58f7705ce9386d54ee9b53831d1",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "RONIN"
+        }
+    },
+    {
+        "coin": "RON",
+        "name": "RONIN",
+        "networkDetails": {
+            "coin": "RON",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 40,
+            "name": "RONIN",
+            "network": "RONIN",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "RONIN"
+        }
+    }
+]

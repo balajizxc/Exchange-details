@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ARTHERA",
+        "name": "ARTHERA",
+        "networkDetails": {
+            "coin": "ARTHERA",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 80,
+            "name": "ARTHERA",
+            "network": "ARTHERA",
+            "withdrawEnable": false,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "Please do not send wrapped $ARTHERA to the deposit address to avoid asset loss.",
+            "netWork": "ARTHERA"
+        }
+    }
+]

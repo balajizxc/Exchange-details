@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BCH",
+        "name": "Bitcoin Cash Node",
+        "networkDetails": {
+            "coin": "BCH",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 16,
+            "name": "Bitcoin Cash Node",
+            "network": "Bitcoin Cash(BCH)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.001",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000",
+            "withdrawMin": "0.02",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BCH"
+        }
+    }
+]

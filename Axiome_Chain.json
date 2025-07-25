@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "AXM",
+        "name": "Axiome",
+        "networkDetails": {
+            "coin": "AXM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Axiome",
+            "network": "Axiome Chain",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "300000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "AXM"
+        }
+    }
+]

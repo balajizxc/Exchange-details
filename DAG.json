@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DAG",
+        "name": "Constellation",
+        "networkDetails": {
+            "coin": "DAG",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 2,
+            "name": "Constellation",
+            "network": "DAG",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "6000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DAG"
+        }
+    }
+]

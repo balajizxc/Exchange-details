@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DCD",
+        "name": "DecideAI",
+        "networkDetails": {
+            "coin": "DCD",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 1,
+            "name": "DecideAI",
+            "network": "DCD",
+            "withdrawEnable": true,
+            "withdrawFee": "30",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "14000000",
+            "withdrawMin": "60",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DCD"
+        }
+    }
+]

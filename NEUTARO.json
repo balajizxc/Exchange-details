@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NTMPI",
+        "name": "Timpi",
+        "networkDetails": {
+            "coin": "NTMPI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "Timpi",
+            "network": "NEUTARO",
+            "withdrawEnable": true,
+            "withdrawFee": "15",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "30",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NEUTARO"
+        }
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "coin": "HOLDSTATION",
+        "name": "Holdstation",
+        "networkDetails": {
+            "coin": "HOLDSTATION",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Holdstation",
+            "network": "BERACHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000",
+            "withdrawMin": "0.5",
+            "sameAddress": false,
+            "contract": "0xFF0a636Dfc44Bb0129b631cDd38D21B613290c98",
+            "withdrawTips": "The token name of HOLD is HOLDSTATION in MEXC; The last digits of the token's contract address are 290c98, please make sure they're correct before taking action.",
+            "depositTips": "The token name of HOLD is HOLDSTATION in MEXC; The last digits of the token's contract address are 290c98, please make sure they're correct before taking action.",
+            "netWork": "BERACHAIN"
+        }
+    },
+    {
+        "coin": "BERAFI",
+        "name": "BeraFi",
+        "networkDetails": {
+            "coin": "BERAFI",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "BeraFi",
+            "network": "BERACHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "260",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000000",
+            "withdrawMin": "600",
+            "sameAddress": false,
+            "contract": "0x36e9fE653E673FDA3857dBe5afBC884Af8A316A2",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BERACHAIN"
+        }
+    },
+    {
+        "coin": "BM",
+        "name": "BM",
+        "networkDetails": {
+            "coin": "BM",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "BM",
+            "network": "BERACHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "0xb749584F9fC418Cf905d54f462fdbFdC7462011b",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BERACHAIN"
+        }
+    },
+    {
+        "coin": "BERA",
+        "name": "BERA",
+        "networkDetails": {
+            "coin": "BERA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "BERA",
+            "network": "BERACHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BERACHAIN"
+        }
+    },
+    {
+        "coin": "OOGA",
+        "name": "Ooga",
+        "networkDetails": {
+            "coin": "OOGA",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Ooga",
+            "network": "BERACHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "5",
+            "sameAddress": false,
+            "contract": "0x009af46Df68DB0E76BFe9EA35663f6Ed17877956",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BERACHAIN"
+        }
+    },
+    {
+        "coin": "DOLO",
+        "name": "DOLO",
+        "networkDetails": {
+            "coin": "DOLO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "DOLO",
+            "network": "BERACHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BERACHAIN"
+        }
+    },
+    {
+        "coin": "WIZZ",
+        "name": "Wizzwoods",
+        "networkDetails": {
+            "coin": "WIZZ",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Wizzwoods",
+            "network": "BERACHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "0x01C8A5ccAD23A4D3764eF71c403862160Aa2913a",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BERACHAIN"
+        }
+    },
+    {
+        "coin": "TRAX",
+        "name": "BeraTrax",
+        "networkDetails": {
+            "coin": "TRAX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "BeraTrax",
+            "network": "BERACHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0xeaB9814BD2bf57F284368Bcbe9EB5A8394032ca8",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BERACHAIN"
+        }
+    },
+    {
+        "coin": "HENLO",
+        "name": "Henlo",
+        "networkDetails": {
+            "coin": "HENLO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Henlo",
+            "network": "BERACHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "1000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000000",
+            "withdrawMin": "2000",
+            "sameAddress": false,
+            "contract": "0xb2F776e9c1C926C4b2e54182Fac058dA9Af0B6A5",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BERACHAIN"
+        }
+    },
+    {
+        "coin": "AIBERA",
+        "name": "HoneyFun AI",
+        "networkDetails": {
+            "coin": "AIBERA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "HoneyFun AI",
+            "network": "BERACHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0xCc6A16bcFda7D0ebE168F69Ef7b946e96A90E67F",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BERACHAIN"
+        }
+    }
+]

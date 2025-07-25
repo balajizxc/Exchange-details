@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XEC",
+        "name": "XEC",
+        "networkDetails": {
+            "coin": "XEC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 40,
+            "name": "XEC",
+            "network": "XEC",
+            "withdrawEnable": true,
+            "withdrawFee": "2000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "8800000000",
+            "withdrawMin": "4000",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BCHA"
+        }
+    }
+]

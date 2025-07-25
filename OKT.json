@@ -1,0 +1,134 @@
+[
+    {
+        "coin": "CELT",
+        "name": "Celestial",
+        "networkDetails": {
+            "coin": "CELT",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 35,
+            "name": "Celestial",
+            "network": "OKT",
+            "withdrawEnable": false,
+            "withdrawFee": "10000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "625000000",
+            "withdrawMin": "20000",
+            "sameAddress": false,
+            "contract": "0x5ab622494ab7c5e81911558c9552dbd517f403fb",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OKT"
+        }
+    },
+    {
+        "coin": "CHE",
+        "name": "CherrySwap",
+        "networkDetails": {
+            "coin": "CHE",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 35,
+            "name": "CherrySwap",
+            "network": "OKT",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "11000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x8179d97eb6488860d816e3ecafe694a4153f216c",
+            "withdrawTips": null,
+            "depositTips": "Wallet synchronization for the OKT chain is slow due to the particularity of the chain and thus, reflection of top-up in account may be delayed. Please wait patiently after deposit.",
+            "netWork": "OKT"
+        }
+    },
+    {
+        "coin": "JF",
+        "name": "Jswap.Finance",
+        "networkDetails": {
+            "coin": "JF",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 35,
+            "name": "Jswap.Finance",
+            "network": "OKT",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "70000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0x5fac926bf1e638944bb16fb5b787b5ba4bc85b0a",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OKT"
+        }
+    },
+    {
+        "coin": "USDT",
+        "name": "USDT",
+        "networkDetails": {
+            "coin": "USDT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 35,
+            "name": "Tether",
+            "network": "OKT",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OKT"
+        }
+    },
+    {
+        "coin": "OKB",
+        "name": "OKB",
+        "networkDetails": {
+            "coin": "OKB",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 35,
+            "name": "OKB",
+            "network": "OKT",
+            "withdrawEnable": false,
+            "withdrawFee": "0.03",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OKT"
+        }
+    },
+    {
+        "coin": "OKT",
+        "name": "OKExChain",
+        "networkDetails": {
+            "coin": "OKT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 35,
+            "name": "OKExChain",
+            "network": "OKT",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "15000",
+            "withdrawMin": "0.4",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OKT"
+        }
+    }
+]

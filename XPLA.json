@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "IUP",
+        "name": "iUP",
+        "networkDetails": {
+            "coin": "IUP",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "iUP",
+            "network": "XPLA",
+            "withdrawEnable": true,
+            "withdrawFee": "4",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "xpla10804823gxas3d9g8knrutvzkkz92m2ctvsafnan8zw6cqa6sd47qfdg9k8",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XPLA"
+        }
+    },
+    {
+        "coin": "XPLA",
+        "name": "XPLA",
+        "networkDetails": {
+            "coin": "XPLA",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "XPLA",
+            "network": "XPLA",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XPLA"
+        }
+    }
+]

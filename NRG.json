@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NRG",
+        "name": "Energi",
+        "networkDetails": {
+            "coin": "NRG",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 5000,
+            "name": "Energi",
+            "network": "NRG",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "As requested by project team, 5,000 confirmations are required for NRG deposits to be credited out of security concerns. Each deposit may take 3 days(depending on actual circumstances)to be credited, please make arrangements accordingly.",
+            "netWork": "NRG"
+        }
+    }
+]

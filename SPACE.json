@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SPACE",
+        "name": "MicroVisionChain",
+        "networkDetails": {
+            "coin": "SPACE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 18,
+            "name": "MicroVisionChain",
+            "network": "SPACE",
+            "withdrawEnable": true,
+            "withdrawFee": "0.03",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "0.3",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SPACE"
+        }
+    }
+]

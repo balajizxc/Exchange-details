@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ISLM",
+        "name": "Islamic Coin",
+        "networkDetails": {
+            "coin": "ISLM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Islamic Coin",
+            "network": "ISLMEVM",
+            "withdrawEnable": true,
+            "withdrawFee": "3",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ISLMEVM"
+        }
+    }
+]

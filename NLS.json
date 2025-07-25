@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NLS",
+        "name": "Nolus Protocol",
+        "networkDetails": {
+            "coin": "NLS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Nolus Protocol",
+            "network": "NLS",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NLS"
+        }
+    }
+]

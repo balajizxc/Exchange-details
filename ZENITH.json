@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ZENITH",
+        "name": "Zenith Coin",
+        "networkDetails": {
+            "coin": "ZENITH",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "Zenith Coin",
+            "network": "ZENITH",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "16000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZENITH"
+        }
+    }
+]

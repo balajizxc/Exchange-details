@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "RUJI",
+        "name": "RUJI",
+        "networkDetails": {
+            "coin": "RUJI",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "RUJI",
+            "network": "RUNE",
+            "withdrawEnable": false,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "x/ruji",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "RUNE"
+        }
+    },
+    {
+        "coin": "RUNE",
+        "name": "THORChain",
+        "networkDetails": {
+            "coin": "RUNE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "THORChain",
+            "network": "RUNE",
+            "withdrawEnable": true,
+            "withdrawFee": "0.3",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "66000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "RUNE"
+        }
+    }
+]

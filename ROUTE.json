@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ROUTE",
+        "name": "ROUTE",
+        "networkDetails": {
+            "coin": "ROUTE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "ROUTE",
+            "network": "ROUTE",
+            "withdrawEnable": true,
+            "withdrawFee": "4",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ROUTE"
+        }
+    }
+]

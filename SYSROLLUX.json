@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "SYS",
+        "name": "Syscoin Rollux",
+        "networkDetails": {
+            "coin": "SYS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 25000,
+            "name": "Syscoin Rollux",
+            "network": "SYSROLLUX",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SYSROLLUX"
+        }
+    },
+    {
+        "coin": "SUPERDAPP",
+        "name": "SuperDapp",
+        "networkDetails": {
+            "coin": "SUPERDAPP",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 25000,
+            "name": "SuperDapp",
+            "network": "SYSROLLUX",
+            "withdrawEnable": true,
+            "withdrawFee": "3",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
+            "withdrawTips": "The token name of SuperDapp (SUPR) is SUPERDAPP in MEXC; The last digits of the token's contract address are F63798, please make sure they're correct before taking action.",
+            "depositTips": "The token name of SuperDapp (SUPR) is SUPERDAPP in MEXC; The last digits of the token's contract address are F63798, please make sure they're correct before taking action.",
+            "netWork": "SYSROLLUX"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PMEER",
+        "name": "QITMEER",
+        "networkDetails": {
+            "coin": "PMEER",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 10,
+            "name": "QITMEER",
+            "network": "PMEER",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PMEER"
+        }
+    }
+]

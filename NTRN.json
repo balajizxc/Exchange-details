@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NTRN",
+        "name": "Neutron",
+        "networkDetails": {
+            "coin": "NTRN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Neutron",
+            "network": "NTRN",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NTRN"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "KOINON",
+        "name": "KOINON",
+        "networkDetails": {
+            "coin": "KOINON",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "KOINON",
+            "network": "KOINON",
+            "withdrawEnable": false,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "33435850",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KOINON"
+        }
+    }
+]

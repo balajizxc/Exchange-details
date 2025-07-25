@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PCX",
+        "name": "ChainX",
+        "networkDetails": {
+            "coin": "PCX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "ChainX",
+            "network": "PCX",
+            "withdrawEnable": true,
+            "withdrawFee": "0.001",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40000000",
+            "withdrawMin": "0.02",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PCX"
+        }
+    }
+]

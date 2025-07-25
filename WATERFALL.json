@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "WATER",
+        "name": "WATER",
+        "networkDetails": {
+            "coin": "WATER",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 1,
+            "name": "WATER",
+            "network": "WATERFALL",
+            "withdrawEnable": true,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "WATERFALL"
+        }
+    }
+]

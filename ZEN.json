@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ZEN",
+        "name": "Horizen",
+        "networkDetails": {
+            "coin": "ZEN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 100,
+            "name": "Horizen",
+            "network": "ZEN",
+            "withdrawEnable": true,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "120000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZEN"
+        }
+    }
+]

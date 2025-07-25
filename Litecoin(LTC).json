@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "LTC",
+        "name": "Litecoin",
+        "networkDetails": {
+            "coin": "LTC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 10,
+            "name": "Litecoin",
+            "network": "Litecoin(LTC)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.0001",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000",
+            "withdrawMin": "0.05",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "LTC"
+        }
+    }
+]

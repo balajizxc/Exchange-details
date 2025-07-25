@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "SOGNI",
+        "name": "Sogni AI",
+        "networkDetails": {
+            "coin": "SOGNI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Sogni AI",
+            "network": "ETHERLINK",
+            "withdrawEnable": false,
+            "withdrawFee": "80",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "55000000",
+            "withdrawMin": "200",
+            "sameAddress": false,
+            "contract": "0x2767Fc1048cd0ae4fd952eeF09853301c9DC7173",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ETHERLINK"
+        }
+    },
+    {
+        "coin": "CNDY",
+        "name": "Sugarverse",
+        "networkDetails": {
+            "coin": "CNDY",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Sugarverse",
+            "network": "ETHERLINK",
+            "withdrawEnable": true,
+            "withdrawFee": "45",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "50000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "0x6b43732a9AE9F8654d496c0A075Aa4Aa43057A0B",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ETHERLINK"
+        }
+    }
+]

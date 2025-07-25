@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DOGI",
+        "name": "DOGI",
+        "networkDetails": {
+            "coin": "DOGI",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "DOGI",
+            "network": "DRC20",
+            "withdrawEnable": false,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "dogi",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DRC20"
+        }
+    }
+]

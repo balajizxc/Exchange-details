@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "KDA",
+        "name": "Kadena",
+        "networkDetails": {
+            "coin": "KDA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Kadena",
+            "network": "KDA",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "300000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KDA"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MOOI",
+        "name": "MOOI",
+        "networkDetails": {
+            "coin": "MOOI",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 35,
+            "name": "MOOI",
+            "network": "MOOI",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "360000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MOOI"
+        }
+    }
+]

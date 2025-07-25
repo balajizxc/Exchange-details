@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "ARTL",
+        "name": "ARTL",
+        "networkDetails": {
+            "coin": "ARTL",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "ARTL",
+            "network": "AOK",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "570000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "ARTL",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "AOK"
+        }
+    },
+    {
+        "coin": "AOK",
+        "name": "AOK",
+        "networkDetails": {
+            "coin": "AOK",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "AOK",
+            "network": "AOK",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "AOK"
+        }
+    }
+]

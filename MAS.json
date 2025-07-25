@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MAS",
+        "name": "Massa",
+        "networkDetails": {
+            "coin": "MAS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 8,
+            "name": "Massa",
+            "network": "MAS",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MAS"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SDN",
+        "name": "Shiden",
+        "networkDetails": {
+            "coin": "SDN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 25,
+            "name": "Shiden",
+            "network": "SDN",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "600000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "The token currently only supports the mainnet of sr25519 network, other types of deposits and withdrawals will not be credited.",
+            "depositTips": "This token only supports the sr25519 mainnet currently. Other types of deposits and withdrawals will not be credited.",
+            "netWork": "SDN"
+        }
+    }
+]

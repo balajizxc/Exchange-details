@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XDAI",
+        "name": "XDAI",
+        "networkDetails": {
+            "coin": "XDAI",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "XDAI",
+            "network": "XDAI",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "150000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XDAI"
+        }
+    }
+]

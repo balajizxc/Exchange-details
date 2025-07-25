@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "CPAY",
+        "name": "CPAY",
+        "networkDetails": {
+            "coin": "CPAY",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "CPAY",
+            "network": "CENNZ",
+            "withdrawEnable": true,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "545000000",
+            "withdrawMin": "75",
+            "sameAddress": false,
+            "contract": "2",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CENNZ"
+        }
+    },
+    {
+        "coin": "CENNZ",
+        "name": "Centrality",
+        "networkDetails": {
+            "coin": "CENNZ",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 50,
+            "name": "Centrality",
+            "network": "CENNZ",
+            "withdrawEnable": true,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "14000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "1",
+            "withdrawTips": "",
+            "depositTips": "",
+            "netWork": "CENNZ"
+        }
+    }
+]

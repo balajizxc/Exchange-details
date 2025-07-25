@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SC",
+        "name": "Siacoin",
+        "networkDetails": {
+            "coin": "SC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 25,
+            "name": "Siacoin",
+            "network": "SC",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "22000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SC"
+        }
+    }
+]

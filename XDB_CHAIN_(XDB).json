@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CBPAY",
+        "name": "CoinbarPay",
+        "networkDetails": {
+            "coin": "CBPAY",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "CoinbarPay",
+            "network": "XDB CHAIN (XDB)",
+            "withdrawEnable": true,
+            "withdrawFee": "1000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "445000000",
+            "withdrawMin": "2000",
+            "sameAddress": true,
+            "contract": "GD7PT6VAXH227WBYR5KN3OYKGSNXVETMYZUP3R62DFX3BBC7GGOBDFJ2@CBPAY",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XDB"
+        }
+    }
+]

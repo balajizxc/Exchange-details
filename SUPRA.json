@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SUPRA",
+        "name": "Supra",
+        "networkDetails": {
+            "coin": "SUPRA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Supra",
+            "network": "SUPRA",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40000000",
+            "withdrawMin": "50",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SUPRA"
+        }
+    }
+]

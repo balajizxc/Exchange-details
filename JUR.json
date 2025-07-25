@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "JUR",
+        "name": "JUR",
+        "networkDetails": {
+            "coin": "JUR",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "JUR",
+            "network": "JUR",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "36650174",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "JUR"
+        }
+    }
+]

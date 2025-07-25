@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "METAL",
+        "name": "Metal Blockchain",
+        "networkDetails": {
+            "coin": "METAL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 330,
+            "name": "Metal Blockchain",
+            "network": "PROTON",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "xtokens",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PROTO"
+        }
+    },
+    {
+        "coin": "LOAN",
+        "name": "Proton Loan",
+        "networkDetails": {
+            "coin": "LOAN",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 330,
+            "name": "Proton Loan",
+            "network": "PROTON",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "9000000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "loan.token",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PROTO"
+        }
+    }
+]

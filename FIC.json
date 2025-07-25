@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "FIC",
+        "name": "FileCash",
+        "networkDetails": {
+            "coin": "FIC",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "FileCash",
+            "network": "FIC",
+            "withdrawEnable": false,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000000",
+            "withdrawMin": "5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "FIC"
+        }
+    }
+]

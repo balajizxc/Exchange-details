@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "MX",
+        "name": "MX",
+        "networkDetails": {
+            "coin": "MX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 720,
+            "name": "MX",
+            "network": "MORPH",
+            "withdrawEnable": true,
+            "withdrawFee": "0.08",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "70000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "0x0BEeF4B01281D85492713a015d51fEc5b6D14687",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MORPH"
+        }
+    },
+    {
+        "coin": "ETH",
+        "name": "ETH",
+        "networkDetails": {
+            "coin": "ETH",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 720,
+            "name": "ETH",
+            "network": "MORPH",
+            "withdrawEnable": true,
+            "withdrawFee": "0.00008",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "76.923076923076923076923076923076",
+            "withdrawMin": "0.0001",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MORPH"
+        }
+    },
+    {
+        "coin": "MAI",
+        "name": "MuxyAI",
+        "networkDetails": {
+            "coin": "MAI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 720,
+            "name": "MuxyAI",
+            "network": "MORPH",
+            "withdrawEnable": true,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "0xE4635E9Cd1f719c37523a80c0FB0b95A445a788a",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MORPH"
+        }
+    }
+]

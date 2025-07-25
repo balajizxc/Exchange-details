@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MAN",
+        "name": "Matrix AI Network",
+        "networkDetails": {
+            "coin": "MAN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Matrix AI Network",
+            "network": "MAN",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4600000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MAN"
+        }
+    }
+]

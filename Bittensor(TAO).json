@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TAO",
+        "name": "Bittensor",
+        "networkDetails": {
+            "coin": "TAO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Bittensor",
+            "network": "Bittensor(TAO)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.005",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000",
+            "withdrawMin": "0.03",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "The token name of Bittensor (TAO) is TAO in MEXC; please make sure they're correct before taking action.",
+            "depositTips": "The token name of Bittensor (TAO) is TAO in MEXC; please make sure they're correct before taking action.",
+            "netWork": "TAO"
+        }
+    }
+]

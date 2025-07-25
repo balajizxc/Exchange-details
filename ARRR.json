@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ARRR",
+        "name": "Pirate Chain",
+        "networkDetails": {
+            "coin": "ARRR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 2,
+            "name": "Pirate Chain",
+            "network": "ARRR",
+            "withdrawEnable": true,
+            "withdrawFee": "2.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ARRR"
+        }
+    }
+]

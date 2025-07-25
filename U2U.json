@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "U2U",
+        "name": "U2U Network",
+        "networkDetails": {
+            "coin": "U2U",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 120,
+            "name": "U2U Network",
+            "network": "U2U",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "12500000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "U2U"
+        }
+    }
+]

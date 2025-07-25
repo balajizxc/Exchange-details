@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "VIC",
+        "name": "Viction",
+        "networkDetails": {
+            "coin": "VIC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Viction",
+            "network": "VIC",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "TOMO"
+        }
+    }
+]

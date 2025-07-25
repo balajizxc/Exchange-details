@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BANANO",
+        "name": "Banano",
+        "networkDetails": {
+            "coin": "BANANO",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "Banano",
+            "network": "BAN",
+            "withdrawEnable": true,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BAN"
+        }
+    }
+]

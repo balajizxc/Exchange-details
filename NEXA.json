@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NEXA",
+        "name": "NEXA",
+        "networkDetails": {
+            "coin": "NEXA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 200,
+            "name": "NEXA",
+            "network": "NEXA",
+            "withdrawEnable": true,
+            "withdrawFee": "10000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "66000000000",
+            "withdrawMin": "13000",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NEXA"
+        }
+    }
+]

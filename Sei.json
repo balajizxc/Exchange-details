@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "SEI",
+        "name": "SEIEVM",
+        "networkDetails": {
+            "coin": "SEI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 300,
+            "name": "SEI",
+            "network": "Sei",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1250000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SEI"
+        }
+    },
+    {
+        "coin": "SEIYAN",
+        "name": "SEIYAN",
+        "networkDetails": {
+            "coin": "SEIYAN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 300,
+            "name": "SEIYAN",
+            "network": "Sei",
+            "withdrawEnable": true,
+            "withdrawFee": "33.333333",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "6666666.666666",
+            "withdrawMin": "66.666666",
+            "sameAddress": true,
+            "contract": "sei1hrndqntlvtmx2kepr0zsfgr7nzjptcc72cr4ppk4yav58vvy7v3s4er8ed",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SEI"
+        }
+    },
+    {
+        "coin": "MILLI",
+        "name": "MILLI",
+        "networkDetails": {
+            "coin": "MILLI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 300,
+            "name": "MILLI",
+            "network": "Sei",
+            "withdrawEnable": true,
+            "withdrawFee": "50000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "12500000000",
+            "withdrawMin": "100000",
+            "sameAddress": false,
+            "contract": "sei170949pwl4h36neazkwmdgtrh6nuenh66462n34839e23e8he3pqsnm5r2v",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SEI"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TEER",
+        "name": "Integritee Network",
+        "networkDetails": {
+            "coin": "TEER",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "Integritee Network",
+            "network": "TEER",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "150000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "TEER"
+        }
+    }
+]

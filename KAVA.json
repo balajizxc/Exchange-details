@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "KAVA",
+        "name": "Kava Labs",
+        "networkDetails": {
+            "coin": "KAVA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Kava Labs",
+            "network": "KAVA",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "300000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KAVA"
+        }
+    },
+    {
+        "coin": "HARD",
+        "name": "HARD Protocol",
+        "networkDetails": {
+            "coin": "HARD",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "HARD Protocol",
+            "network": "KAVA",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1400000",
+            "withdrawMin": "20",
+            "sameAddress": true,
+            "contract": "hard",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KAVA"
+        }
+    }
+]

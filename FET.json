@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MOBX",
+        "name": "MOBIX",
+        "networkDetails": {
+            "coin": "MOBX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 50,
+            "name": "MOBIX",
+            "network": "FET",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "nanomobx",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "FET"
+        }
+    }
+]

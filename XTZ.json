@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "XTZ",
+        "name": "Tezos",
+        "networkDetails": {
+            "coin": "XTZ",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 6,
+            "name": "Tezos",
+            "network": "XTZ",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "260000",
+            "withdrawMin": "6",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XTZ"
+        }
+    },
+    {
+        "coin": "INSTA",
+        "name": "Instaraise",
+        "networkDetails": {
+            "coin": "INSTA",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 6,
+            "name": "Instaraise",
+            "network": "XTZ",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "150000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "KT19y6R8x53uDKiM46ahgguS6Tjqhdj2rSzZ:0",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XTZ"
+        }
+    }
+]

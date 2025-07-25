@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XPX",
+        "name": "ProximaX",
+        "networkDetails": {
+            "coin": "XPX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "ProximaX",
+            "network": "XPX",
+            "withdrawEnable": true,
+            "withdrawFee": "100",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000000",
+            "withdrawMin": "10000",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": "",
+            "depositTips": null,
+            "netWork": "XPX"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SOV",
+        "name": "Sovryn",
+        "networkDetails": {
+            "coin": "SOV",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 6,
+            "name": "Sovryn",
+            "network": "RSK",
+            "withdrawEnable": true,
+            "withdrawFee": "0.3",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "120000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0xEfC78FC7D48B64958315949279bA181C2114abbD",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "RBTC"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "KLS",
+        "name": "Karlsen",
+        "networkDetails": {
+            "coin": "KLS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 2000,
+            "name": "Karlsen",
+            "network": "KLS",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "1000",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KLS"
+        }
+    }
+]

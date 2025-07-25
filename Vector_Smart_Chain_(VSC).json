@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "VSG",
+        "name": "VSG",
+        "networkDetails": {
+            "coin": "VSG",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "VSG",
+            "network": "Vector Smart Chain (VSC)",
+            "withdrawEnable": true,
+            "withdrawFee": "7500",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000000",
+            "withdrawMin": "10000",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VSG"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "FTN",
+        "name": "Fasttoken",
+        "networkDetails": {
+            "coin": "FTN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Fasttoken",
+            "network": "BAHAMUT",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "250000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "FTN"
+        }
+    }
+]

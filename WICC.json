@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "WGRT",
+        "name": "WGRT",
+        "networkDetails": {
+            "coin": "WGRT",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 8,
+            "name": "WGRT",
+            "network": "WICC",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "50000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "WGRT",
+            "withdrawTips": "Please do not withdraw to the address where you need to fill in the MEMO now, otherwise the assets may be lost.",
+            "depositTips": null,
+            "netWork": "WICC"
+        }
+    },
+    {
+        "coin": "WICC",
+        "name": "WaykiChain",
+        "networkDetails": {
+            "coin": "WICC",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 8,
+            "name": "WaykiChain",
+            "network": "WICC",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "WICC"
+        }
+    }
+]

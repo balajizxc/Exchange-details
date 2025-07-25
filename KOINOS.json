@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "KOIN",
+        "name": "Koinos",
+        "networkDetails": {
+            "coin": "KOIN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 100,
+            "name": "Koinos",
+            "network": "KOINOS",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "280000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "19GYjDBVXU7keLbYvMLazsGQn3GTWHjHkK",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KOINOS"
+        }
+    }
+]

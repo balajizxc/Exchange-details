@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XZC",
+        "name": "ZCoin",
+        "networkDetails": {
+            "coin": "XZC",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "ZCoin",
+            "network": "XZC",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XZC"
+        }
+    }
+]

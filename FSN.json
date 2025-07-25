@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "CHNG",
+        "name": "Chainge",
+        "networkDetails": {
+            "coin": "CHNG",
+            "depositDesc": "Deposit suspended as project upgrade is in progress",
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "Chainge",
+            "network": "FSN",
+            "withdrawEnable": false,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "50",
+            "sameAddress": false,
+            "contract": "0x05573124c64c69d85687152b2942bcb0a3b26d99",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NONE"
+        }
+    },
+    {
+        "coin": "FSN",
+        "name": "Fusion",
+        "networkDetails": {
+            "coin": "FSN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 100,
+            "name": "Fusion",
+            "network": "FSN",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "700000",
+            "withdrawMin": "5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "",
+            "depositTips": "Do not transfer or deposit through timelock to timelock. The platform will not be able to process it.",
+            "netWork": "FSN"
+        }
+    }
+]

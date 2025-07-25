@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "INT",
+        "name": "INT Chain",
+        "networkDetails": {
+            "coin": "INT",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "INT Chain",
+            "network": "INT",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "16000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "INT"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "AMB",
+        "name": "Ascendia",
+        "networkDetails": {
+            "coin": "AMB",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Ascendia",
+            "network": "AMBROSUS",
+            "withdrawEnable": true,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "120000000",
+            "withdrawMin": "120",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "",
+            "depositTips": "",
+            "netWork": "AMBROSIAS"
+        }
+    }
+]

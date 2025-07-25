@@ -1,0 +1,222 @@
+[
+    {
+        "coin": "TES",
+        "name": "Titan",
+        "networkDetails": {
+            "coin": "TES",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 720,
+            "name": "Titan",
+            "network": "BLAST",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2600000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0x87E154E86Fb691AB8A27116e93Ed8d54e2b8C18C",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BLAST"
+        }
+    },
+    {
+        "coin": "PETOSHI",
+        "name": "Petoshi",
+        "networkDetails": {
+            "coin": "PETOSHI",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 720,
+            "name": "Petoshi",
+            "network": "BLAST",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "0x15bD262ede6E8aA04b2361a1Df697adF1Cf40e75",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BLAST"
+        }
+    },
+    {
+        "coin": "TENEX",
+        "name": "TENEX.FINANCE",
+        "networkDetails": {
+            "coin": "TENEX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 720,
+            "name": "TENEX.FINANCE",
+            "network": "BLAST",
+            "withdrawEnable": true,
+            "withdrawFee": "1.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "5",
+            "sameAddress": false,
+            "contract": "0xC4B7846887648B4bef80db245411B0323Edd2a66",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BLAST"
+        }
+    },
+    {
+        "coin": "BLADEOLD",
+        "name": "Bladeswap",
+        "networkDetails": {
+            "coin": "BLADEOLD",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 720,
+            "name": "Bladeswap",
+            "network": "BLAST",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0xD1FedD031b92f50a50c05E2C45aF1aDb4CEa82f4",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BLAST"
+        }
+    },
+    {
+        "coin": "BLAST",
+        "name": "Blast",
+        "networkDetails": {
+            "coin": "BLAST",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 720,
+            "name": "Blast",
+            "network": "BLAST",
+            "withdrawEnable": true,
+            "withdrawFee": "100",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "200",
+            "sameAddress": false,
+            "contract": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BLAST"
+        }
+    },
+    {
+        "coin": "EARLY",
+        "name": "EarlyFans",
+        "networkDetails": {
+            "coin": "EARLY",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 720,
+            "name": "EarlyFans",
+            "network": "BLAST",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0x7135B32e9903BdB4e19a8b1D22fC2038964B8451",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BLAST"
+        }
+    },
+    {
+        "coin": "CYBRO",
+        "name": "CYBRO",
+        "networkDetails": {
+            "coin": "CYBRO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 720,
+            "name": "CYBRO",
+            "network": "BLAST",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "700000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0x963eec23618BbC8e1766661d5f263f18094Ae4d5",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BLAST"
+        }
+    },
+    {
+        "coin": "BLASTUP",
+        "name": "BlastUP",
+        "networkDetails": {
+            "coin": "BLASTUP",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 720,
+            "name": "BlastUP",
+            "network": "BLAST",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0x59c159e5a4F4d1C86F7aBDC94B7907B7473477F6",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BLAST"
+        }
+    },
+    {
+        "coin": "NPTX",
+        "name": "NeptuneX",
+        "networkDetails": {
+            "coin": "NPTX",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 720,
+            "name": "NeptuneX",
+            "network": "BLAST",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0x75483179a38d21F3608E71bbEdE5EC1314F0067D",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BLAST"
+        }
+    },
+    {
+        "coin": "OFF",
+        "name": "BlastOff",
+        "networkDetails": {
+            "coin": "OFF",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 720,
+            "name": "BlastOff",
+            "network": "BLAST",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "0.5",
+            "sameAddress": false,
+            "contract": "0xD55eDfc79c0d14084260D16f38BdA75e28AbFb6A",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BLAST"
+        }
+    }
+]

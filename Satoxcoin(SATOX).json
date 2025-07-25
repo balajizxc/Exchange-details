@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SATOX",
+        "name": "Satoxcoin",
+        "networkDetails": {
+            "coin": "SATOX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 500,
+            "name": "Satoxcoin",
+            "network": "Satoxcoin(SATOX)",
+            "withdrawEnable": true,
+            "withdrawFee": "20",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40000000",
+            "withdrawMin": "40",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SATOX"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SRDS",
+        "name": "Sardis Network",
+        "networkDetails": {
+            "coin": "SRDS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Sardis Network",
+            "network": "SRDS",
+            "withdrawEnable": true,
+            "withdrawFee": "0.2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SRDS"
+        }
+    }
+]

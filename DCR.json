@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DCR",
+        "name": "Decred",
+        "networkDetails": {
+            "coin": "DCR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "Decred",
+            "network": "DCR",
+            "withdrawEnable": true,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000",
+            "withdrawMin": "0.3",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DCR"
+        }
+    }
+]

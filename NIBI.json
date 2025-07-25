@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NIBI",
+        "name": "Nibiru Chain",
+        "networkDetails": {
+            "coin": "NIBI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Nibiru Chain",
+            "network": "NIBI",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NIBI"
+        }
+    }
+]

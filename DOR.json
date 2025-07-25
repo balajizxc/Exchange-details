@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DOR",
+        "name": "Dor Technologies",
+        "networkDetails": {
+            "coin": "DOR",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 16,
+            "name": "Dor Technologies",
+            "network": "DOR",
+            "withdrawEnable": false,
+            "withdrawFee": "4",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "8000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DOR"
+        }
+    }
+]

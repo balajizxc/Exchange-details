@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "REI",
+        "name": "REI Network",
+        "networkDetails": {
+            "coin": "REI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 40,
+            "name": "REI Network",
+            "network": "REI",
+            "withdrawEnable": true,
+            "withdrawFee": "14",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "9000000",
+            "withdrawMin": "45",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "REI"
+        }
+    }
+]

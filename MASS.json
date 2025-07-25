@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MASS",
+        "name": "MASS",
+        "networkDetails": {
+            "coin": "MASS",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 10,
+            "name": "MASS",
+            "network": "MASS",
+            "withdrawEnable": false,
+            "withdrawFee": "0.4",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000000",
+            "withdrawMin": "5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MASS"
+        }
+    }
+]

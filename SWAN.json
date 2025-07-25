@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SWAN",
+        "name": "Swan Chain",
+        "networkDetails": {
+            "coin": "SWAN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 1000,
+            "name": "Swan Chain",
+            "network": "SWAN",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "700000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0xBb4eC1b56cB624863298740Fd264ef2f910d5564",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SWAN"
+        }
+    }
+]

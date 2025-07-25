@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DNAOLD",
+        "name": "MetaverseDualChain",
+        "networkDetails": {
+            "coin": "DNAOLD",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "MetaverseDualChain",
+            "network": "DNA",
+            "withdrawEnable": false,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "400000000",
+            "withdrawMin": "0.1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": "",
+            "depositTips": "",
+            "netWork": "DNA"
+        }
+    }
+]

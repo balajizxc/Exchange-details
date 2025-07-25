@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CVNT",
+        "name": "ContentValueNetwork",
+        "networkDetails": {
+            "coin": "CVNT",
+            "depositDesc": "Deposit suspended as project upgrade is in progress",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "ContentValueNetwork",
+            "network": "CVNT",
+            "withdrawEnable": false,
+            "withdrawFee": "0.3",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CVNT"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BRIDGE",
+        "name": "Hyperbridge",
+        "networkDetails": {
+            "coin": "BRIDGE",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 10,
+            "name": "Hyperbridge",
+            "network": "HYPERBRIDGE",
+            "withdrawEnable": false,
+            "withdrawFee": "0.06",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "HYPERBRIDGE"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "IRIS",
+        "name": "IRISnet",
+        "networkDetails": {
+            "coin": "IRIS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "IRISnet",
+            "network": "IRIS",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "15000000",
+            "withdrawMin": "170",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "IRIS"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ZKL",
+        "name": "zkLink",
+        "networkDetails": {
+            "coin": "ZKL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "zkLink",
+            "network": "ZKLINK",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "5",
+            "sameAddress": false,
+            "contract": "0xc967dabf591b1f4b86cfc74996ead065867af19e",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZKLINK"
+        }
+    }
+]

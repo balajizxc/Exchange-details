@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "CPHOLD",
+        "name": "Cypherium",
+        "networkDetails": {
+            "coin": "CPHOLD",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 8,
+            "name": "Cypherium",
+            "network": "CPH",
+            "withdrawEnable": false,
+            "withdrawFee": "100",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "200",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CPH"
+        }
+    },
+    {
+        "coin": "CPH",
+        "name": "Cypherium",
+        "networkDetails": {
+            "coin": "CPH",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Cypherium",
+            "network": "CPH",
+            "withdrawEnable": false,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CPH2"
+        }
+    }
+]

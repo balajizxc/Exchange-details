@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SHIDO",
+        "name": "SHIDO",
+        "networkDetails": {
+            "coin": "SHIDO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "SHIDO",
+            "network": "SHIDO",
+            "withdrawEnable": true,
+            "withdrawFee": "350",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "335000000",
+            "withdrawMin": "800",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SHIDO"
+        }
+    }
+]

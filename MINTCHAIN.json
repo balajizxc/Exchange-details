@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MINT",
+        "name": "MINT",
+        "networkDetails": {
+            "coin": "MINT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "MINT",
+            "network": "MINTCHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0x8511138208529fe1b9a37b863c7eee3fe234b7ab",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MINTCHAIN"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SFL",
+        "name": "SFL",
+        "networkDetails": {
+            "coin": "SFL",
+            "depositDesc": "Deposit suspended upon project party's request",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "SFL",
+            "network": "TAYCAN",
+            "withdrawEnable": false,
+            "withdrawFee": "20",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "50",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SFLEVM"
+        }
+    }
+]

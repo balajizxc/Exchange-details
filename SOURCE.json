@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SOURCE",
+        "name": "SOURCE",
+        "networkDetails": {
+            "coin": "SOURCE",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "SOURCE",
+            "network": "SOURCE",
+            "withdrawEnable": true,
+            "withdrawFee": "3",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "6000000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SOURCE"
+        }
+    }
+]

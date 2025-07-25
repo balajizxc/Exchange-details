@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "MOON",
+        "name": "CryptoCurrency Moons",
+        "networkDetails": {
+            "coin": "MOON",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "CryptoCurrency Moons",
+            "network": "ARBNOVA",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2700000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ARBNOVA"
+        }
+    },
+    {
+        "coin": "BRICK",
+        "name": "FortNiteBR Bricks",
+        "networkDetails": {
+            "coin": "BRICK",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "FortNiteBR Bricks",
+            "network": "ARBNOVA",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "571428.571428",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0x6DcB98f460457fe4952e12779Ba852F82eCC62C1",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ARBNOVA"
+        }
+    }
+]

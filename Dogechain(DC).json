@@ -1,0 +1,156 @@
+[
+    {
+        "coin": "DINU",
+        "name": "DOGE INU",
+        "networkDetails": {
+            "coin": "DINU",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "DOGE INU",
+            "network": "Dogechain(DC)",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "25000000000000",
+            "withdrawMin": "50000000",
+            "sameAddress": false,
+            "contract": "0x8a764cF73438dE795c98707B07034e577Af54825",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DOGECHAIN"
+        }
+    },
+    {
+        "coin": "DCXEN",
+        "name": "XEN Crypto",
+        "networkDetails": {
+            "coin": "DCXEN",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "XEN Crypto",
+            "network": "Dogechain(DC)",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "28000000000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x948eed4490833D526688fD1E5Ba0b9B35CD2c32e",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DOGECHAIN"
+        }
+    },
+    {
+        "coin": "DC",
+        "name": "Dogechain",
+        "networkDetails": {
+            "coin": "DC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Dogechain",
+            "network": "Dogechain(DC)",
+            "withdrawEnable": true,
+            "withdrawFee": "15",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000000",
+            "withdrawMin": "30",
+            "sameAddress": false,
+            "contract": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DOGECHAIN"
+        }
+    },
+    {
+        "coin": "WDOGE",
+        "name": "WDOGE",
+        "networkDetails": {
+            "coin": "WDOGE",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "WDOGE",
+            "network": "Dogechain(DC)",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DOGECHAIN"
+        }
+    },
+    {
+        "coin": "YODE",
+        "name": "YodeSwap",
+        "networkDetails": {
+            "coin": "YODE",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "YodeSwap",
+            "network": "Dogechain(DC)",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DOGECHAIN"
+        }
+    },
+    {
+        "coin": "OMNOM",
+        "name": "Doge Eat Doge",
+        "networkDetails": {
+            "coin": "OMNOM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Doge Eat Doge",
+            "network": "Dogechain(DC)",
+            "withdrawEnable": true,
+            "withdrawFee": "3300000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "130000000000000",
+            "withdrawMin": "6000000",
+            "sameAddress": false,
+            "contract": "0xe3fcA919883950c5cD468156392a6477Ff5d18de",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DOGECHAIN"
+        }
+    },
+    {
+        "coin": "GRIMACE",
+        "name": "Grimace Coin",
+        "networkDetails": {
+            "coin": "GRIMACE",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "Grimace Coin",
+            "network": "Dogechain(DC)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.125",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "140000",
+            "withdrawMin": "0.25",
+            "sameAddress": false,
+            "contract": "0x2f90907fD1DC1B7a484b6f31Ddf012328c2baB28",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DOGECHAIN"
+        }
+    }
+]

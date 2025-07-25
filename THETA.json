@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "POGS",
+        "name": "POG",
+        "networkDetails": {
+            "coin": "POGS",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "POG",
+            "network": "THETA",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x71dc74256d1acb42a216cc5c3c097b8da71026b0",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "THETA"
+        }
+    },
+    {
+        "coin": "TFUEL",
+        "name": "TFUEL",
+        "networkDetails": {
+            "coin": "TFUEL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "TFUEL",
+            "network": "THETA",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "THETA"
+        }
+    }
+]

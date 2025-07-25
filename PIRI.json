@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PIRI",
+        "name": "PIRI",
+        "networkDetails": {
+            "coin": "PIRI",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "PIRI",
+            "network": "PIRI",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "Due to the smart contract mechanism, the maximum amount of each withdrawal is 1,000,000 tokens. Please confirm before proceeding.",
+            "depositTips": null,
+            "netWork": "PIRI"
+        }
+    }
+]

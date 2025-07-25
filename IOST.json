@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "DONOLD",
+        "name": "DON",
+        "networkDetails": {
+            "coin": "DONOLD",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 36,
+            "name": "DON",
+            "network": "IOST",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "token.iost#don",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "IOST"
+        }
+    },
+    {
+        "coin": "IOST",
+        "name": "IOSToken",
+        "networkDetails": {
+            "coin": "IOST",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 36,
+            "name": "IOSToken",
+            "network": "IOST",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "40",
+            "sameAddress": true,
+            "contract": "token.iost#iost",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "IOST"
+        }
+    }
+]

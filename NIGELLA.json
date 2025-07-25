@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "NIGELLA",
+        "name": "Nigella Chain",
+        "networkDetails": {
+            "coin": "NIGELLA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Nigella Chain",
+            "network": "NIGELLA",
+            "withdrawEnable": true,
+            "withdrawFee": "0.025",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NIGELLA"
+        }
+    },
+    {
+        "coin": "NDC",
+        "name": "Nigella Diamond Club",
+        "networkDetails": {
+            "coin": "NDC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Nigella Diamond Club",
+            "network": "NIGELLA",
+            "withdrawEnable": true,
+            "withdrawFee": "0.3",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x18D9d3D909820C3967474a484076a60A40fa48a4",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NIGELLA"
+        }
+    }
+]

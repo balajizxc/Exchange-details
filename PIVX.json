@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PIVX",
+        "name": "PIVX",
+        "networkDetails": {
+            "coin": "PIVX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 50,
+            "name": "PIVX",
+            "network": "PIVX",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "800000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PIVX"
+        }
+    }
+]

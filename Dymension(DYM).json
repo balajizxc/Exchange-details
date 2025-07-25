@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "DYM",
+        "name": "dym-dymevm",
+        "networkDetails": {
+            "coin": "DYM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 50,
+            "name": "dym-dymevm",
+            "network": "Dymension(DYM)",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "300000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "",
+            "netWork": "DYMEVM"
+        }
+    },
+    {
+        "coin": "NIM1",
+        "name": "Nim Network",
+        "networkDetails": {
+            "coin": "NIM1",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "Nim Network",
+            "network": "Dymension(DYM)",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0x2c1c25e8dba2ee22f726e24b35f567d993ca7d13",
+            "withdrawTips": "The token name of Nim Network(NIM) is NIM1 in MEXC; The last digits of the token's contract address are 7d13, please make sure they're correct before taking action.",
+            "depositTips": "The token name of Nim Network(NIM) is NIM1 in MEXC; The last digits of the token's contract address are 7d13, please make sure they're correct before taking action.",
+            "netWork": "DYMEVM"
+        }
+    }
+]

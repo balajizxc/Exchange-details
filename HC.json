@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "HC",
+        "name": "Hshare",
+        "networkDetails": {
+            "coin": "HC",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "Hshare",
+            "network": "HC",
+            "withdrawEnable": false,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2500000",
+            "withdrawMin": "5",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "HC"
+        }
+    }
+]

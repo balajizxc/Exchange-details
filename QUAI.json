@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "QUAI",
+        "name": "QUAI",
+        "networkDetails": {
+            "coin": "QUAI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "QUAI",
+            "network": "QUAI",
+            "withdrawEnable": true,
+            "withdrawFee": "4",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "QUAI"
+        }
+    }
+]

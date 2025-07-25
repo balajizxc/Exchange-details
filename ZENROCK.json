@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ROCK",
+        "name": "ROCK",
+        "networkDetails": {
+            "coin": "ROCK",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "ROCK",
+            "network": "ZENROCK",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "20",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ZENROCK"
+        }
+    }
+]

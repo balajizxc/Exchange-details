@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "JUNE",
+        "name": "Juneo Supernet",
+        "networkDetails": {
+            "coin": "JUNE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Juneo Supernet",
+            "network": "June Chain",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "JUNEO"
+        }
+    }
+]

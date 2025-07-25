@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "FLR",
+        "name": "Flare",
+        "networkDetails": {
+            "coin": "FLR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Flare",
+            "network": "FLARE",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "FLARE"
+        }
+    },
+    {
+        "coin": "JOULE",
+        "name": "Kinetic",
+        "networkDetails": {
+            "coin": "JOULE",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "Kinetic",
+            "network": "FLARE",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "60",
+            "sameAddress": false,
+            "contract": "0xE6505f92583103AF7ed9974DEC451A7Af4e3A3bE",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "FLARE"
+        }
+    }
+]

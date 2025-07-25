@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "FAVOR",
+        "name": "Favor",
+        "networkDetails": {
+            "coin": "FAVOR",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 100,
+            "name": "Favor",
+            "network": "KLAY",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "6000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0xe79efff8a61567d932be2a8c33057f7b2a8bc43b",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NONE"
+        }
+    }
+]

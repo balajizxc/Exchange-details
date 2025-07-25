@@ -1,0 +1,90 @@
+[
+    {
+        "coin": "NEXOLD",
+        "name": "NeonExchange",
+        "networkDetails": {
+            "coin": "NEXOLD",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 4,
+            "name": "NeonExchange",
+            "network": "NEO",
+            "withdrawEnable": false,
+            "withdrawFee": "100",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "200",
+            "sameAddress": false,
+            "contract": "0x3a4acd3647086e7c44398aac0349802e6a171129",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NEO"
+        }
+    },
+    {
+        "coin": "MCC1",
+        "name": "Magic Cube",
+        "networkDetails": {
+            "coin": "MCC1",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "Magic Cube",
+            "network": "NEO",
+            "withdrawEnable": false,
+            "withdrawFee": "500",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "50000000",
+            "withdrawMin": "1000",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NONE"
+        }
+    },
+    {
+        "coin": "GASNEO",
+        "name": "GAS",
+        "networkDetails": {
+            "coin": "GASNEO",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 4,
+            "name": "GAS",
+            "network": "NEO",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "150000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NEO"
+        }
+    },
+    {
+        "coin": "SWTH",
+        "name": "Switcheo",
+        "networkDetails": {
+            "coin": "SWTH",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 4,
+            "name": "Switcheo",
+            "network": "NEO",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "30000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x3e09e602eeeb401a2fec8e8ea137d59aae54a139",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NEO"
+        }
+    }
+]

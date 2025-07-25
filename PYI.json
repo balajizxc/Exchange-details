@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PYI",
+        "name": "Pyrin",
+        "networkDetails": {
+            "coin": "PYI",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 1200,
+            "name": "Pyrin",
+            "network": "PYI",
+            "withdrawEnable": false,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PYI"
+        }
+    }
+]

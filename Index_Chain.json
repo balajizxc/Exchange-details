@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "IDXOLD",
+        "name": "IDX",
+        "networkDetails": {
+            "coin": "IDXOLD",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 20,
+            "name": "IDX",
+            "network": "Index Chain",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "IDX"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "FURYOLD",
+        "name": "Fanfury",
+        "networkDetails": {
+            "coin": "FURYOLD",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Fanfury",
+            "network": "JUNO",
+            "withdrawEnable": false,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "20",
+            "sameAddress": true,
+            "contract": "juno1cltgm8v842gu54srmejewghnd6uqa26lzkpa635wzra9m9xuudkqa2gtcz",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "JUNO"
+        }
+    },
+    {
+        "coin": "JUNO",
+        "name": "JUNO",
+        "networkDetails": {
+            "coin": "JUNO",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "JUNO",
+            "network": "JUNO",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "170000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "JUNO"
+        }
+    }
+]

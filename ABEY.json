@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ABEY",
+        "name": "ABEY",
+        "networkDetails": {
+            "coin": "ABEY",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "ABEY",
+            "network": "ABEY",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "4",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ABEY"
+        }
+    }
+]

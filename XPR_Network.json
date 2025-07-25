@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XPR",
+        "name": "XPR Network",
+        "networkDetails": {
+            "coin": "XPR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 330,
+            "name": "XPR Network",
+            "network": "XPR Network",
+            "withdrawEnable": true,
+            "withdrawFee": "200",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "140000000",
+            "withdrawMin": "500",
+            "sameAddress": true,
+            "contract": "eosio.token",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PROTO"
+        }
+    }
+]

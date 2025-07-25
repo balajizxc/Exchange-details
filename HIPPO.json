@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "HP",
+        "name": "HP",
+        "networkDetails": {
+            "coin": "HP",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "HP",
+            "network": "HIPPO",
+            "withdrawEnable": true,
+            "withdrawFee": "15",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "40",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "HIPPO"
+        }
+    }
+]

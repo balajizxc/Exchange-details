@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "COTI",
+        "name": "COTI",
+        "networkDetails": {
+            "coin": "COTI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "COTI",
+            "network": "COTI",
+            "withdrawEnable": true,
+            "withdrawFee": "0.0002",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "0.0005",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "COTI"
+        }
+    }
+]

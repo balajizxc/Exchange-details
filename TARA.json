@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TARA",
+        "name": "Taraxa Coin",
+        "networkDetails": {
+            "coin": "TARA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Taraxa Coin",
+            "network": "TARA",
+            "withdrawEnable": true,
+            "withdrawFee": "100",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "15000000",
+            "withdrawMin": "200",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "The token has been upgraded to the mainnet TARA token. Please confirm before proceeding.",
+            "depositTips": "The token has been upgraded to the mainnet TARA token. Please confirm before proceeding.",
+            "netWork": "TARA"
+        }
+    }
+]

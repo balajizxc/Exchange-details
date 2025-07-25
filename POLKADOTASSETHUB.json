@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "DED",
+        "name": "DED",
+        "networkDetails": {
+            "coin": "DED",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 40,
+            "name": "DED",
+            "network": "POLKADOTASSETHUB",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "300000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "30",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DOTASSETHUB"
+        }
+    },
+    {
+        "coin": "USDT",
+        "name": "USDT",
+        "networkDetails": {
+            "coin": "USDT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 40,
+            "name": "USDT",
+            "network": "POLKADOTASSETHUB",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "1984",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DOTASSETHUB"
+        }
+    },
+    {
+        "coin": "USDC",
+        "name": "USDC",
+        "networkDetails": {
+            "coin": "USDC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 40,
+            "name": "USDC",
+            "network": "POLKADOTASSETHUB",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "1337",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DOTASSETHUB"
+        }
+    }
+]

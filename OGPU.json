@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "OGPU",
+        "name": "OGPU",
+        "networkDetails": {
+            "coin": "OGPU",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 400,
+            "name": "OGPU",
+            "network": "OGPU",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "OGPU"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "QUBIC",
+        "name": "Qubic",
+        "networkDetails": {
+            "coin": "QUBIC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 10,
+            "name": "Qubic",
+            "network": "QUBIC",
+            "withdrawEnable": true,
+            "withdrawFee": "100000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000000000",
+            "withdrawMin": "200000",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "QUBIC"
+        }
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "coin": "SEI",
+        "name": "SEIEVM",
+        "networkDetails": {
+            "coin": "SEI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 300,
+            "name": "SEIEVM",
+            "network": "SEIEVM",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "555555",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SEIEVM"
+        }
+    },
+    {
+        "coin": "DT",
+        "name": "Drift Zone",
+        "networkDetails": {
+            "coin": "DT",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 300,
+            "name": "Drift Zone",
+            "network": "SEIEVM",
+            "withdrawEnable": true,
+            "withdrawFee": "200",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000000",
+            "withdrawMin": "400",
+            "sameAddress": false,
+            "contract": "0x432463e0D195C1a6e20FD780aE4ED6D33e694C7f",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SEIEVM"
+        }
+    },
+    {
+        "coin": "FISHW",
+        "name": "FishWar",
+        "networkDetails": {
+            "coin": "FISHW",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 300,
+            "name": "FishWar",
+            "network": "SEIEVM",
+            "withdrawEnable": true,
+            "withdrawFee": "300",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "150000000",
+            "withdrawMin": "800",
+            "sameAddress": false,
+            "contract": "0x805679729Df385815C57c24B20f4161BD34B655f",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SEIEVM"
+        }
+    },
+    {
+        "coin": "JLY",
+        "name": "Jellyverse",
+        "networkDetails": {
+            "coin": "JLY",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 300,
+            "name": "Jellyverse",
+            "network": "SEIEVM",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0xDD7d5e4Ea2125d43C16eEd8f1FFeFffa2F4b4aF6",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SEIEVM"
+        }
+    },
+    {
+        "coin": "YAKA",
+        "name": "Yaka Finance",
+        "networkDetails": {
+            "coin": "YAKA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 300,
+            "name": "Yaka Finance",
+            "network": "SEIEVM",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0x51121BCAE92E302f19D06C193C95E1f7b81a444b",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SEIEVM"
+        }
+    }
+]

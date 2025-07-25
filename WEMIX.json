@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "WEMIX",
+        "name": "WEMIX",
+        "networkDetails": {
+            "coin": "WEMIX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "WEMIX",
+            "network": "WEMIX",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "550000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "WEMIX"
+        }
+    }
+]

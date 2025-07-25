@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "AB",
+        "name": "Newton",
+        "networkDetails": {
+            "coin": "AB",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Newton",
+            "network": "AB",
+            "withdrawEnable": true,
+            "withdrawFee": "20",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "25",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NEW"
+        }
+    }
+]

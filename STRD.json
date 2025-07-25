@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "STRD",
+        "name": "Stride",
+        "networkDetails": {
+            "coin": "STRD",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Stride",
+            "network": "STRD",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "5",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "STRD"
+        }
+    }
+]

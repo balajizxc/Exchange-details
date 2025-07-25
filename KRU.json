@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "KRU",
+        "name": "Kingaru",
+        "networkDetails": {
+            "coin": "KRU",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 80,
+            "name": "Kingaru",
+            "network": "KRU",
+            "withdrawEnable": false,
+            "withdrawFee": "12",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KRU"
+        }
+    }
+]

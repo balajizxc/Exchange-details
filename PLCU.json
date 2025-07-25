@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PLCU",
+        "name": "PLCU",
+        "networkDetails": {
+            "coin": "PLCU",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 5,
+            "name": "PLCU",
+            "network": "PLCU",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10",
+            "withdrawMin": "0.02",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "This token is a new version of PLCU, the old version has been renamed to PLCUC. Please confirm before proceeding.",
+            "depositTips": "This token is a new version of PLCU, the old version has been renamed to PLCUC. Please confirm before proceeding.",
+            "netWork": "PLCU2"
+        }
+    }
+]

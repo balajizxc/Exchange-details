@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "FTP",
+        "name": "Fountain Protocol",
+        "networkDetails": {
+            "coin": "FTP",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Fountain Protocol",
+            "network": "EMERALD",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "300000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0xd1dF9CE4b6159441D18BD6887dbd7320a8D52a05",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "EMERALD"
+        }
+    },
+    {
+        "coin": "YUZU",
+        "name": "YuzuSwap",
+        "networkDetails": {
+            "coin": "YUZU",
+            "depositDesc": "Deposit suspended due to on-chain maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "YuzuSwap",
+            "network": "EMERALD",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0xf02b3e437304892105992512539f769423a515cb",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "EMERALD"
+        }
+    }
+]

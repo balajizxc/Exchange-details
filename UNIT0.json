@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "UNIT0",
+        "name": "UNIT0-UNIT0",
+        "networkDetails": {
+            "coin": "UNIT0",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 10,
+            "name": "UNIT0-UNIT0",
+            "network": "UNIT0",
+            "withdrawEnable": false,
+            "withdrawFee": "0.01",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "0.02",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "UNIT0"
+        }
+    }
+]

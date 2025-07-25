@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "FIL",
+        "name": "Filecoin",
+        "networkDetails": {
+            "coin": "FIL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 900,
+            "name": "Filecoin",
+            "network": "FIL",
+            "withdrawEnable": true,
+            "withdrawFee": "0.05",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "60000",
+            "withdrawMin": "0.12",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "FIL does not support the deposit method of contract transfer, please confirm before proceeding.",
+            "netWork": "FIL"
+        }
+    }
+]

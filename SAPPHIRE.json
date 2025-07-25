@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ROSE",
+        "name": "ROSE",
+        "networkDetails": {
+            "coin": "ROSE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 24,
+            "name": "ROSE",
+            "network": "SAPPHIRE",
+            "withdrawEnable": true,
+            "withdrawFee": "3",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SAPPHIRE"
+        }
+    }
+]

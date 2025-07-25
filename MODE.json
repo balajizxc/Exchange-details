@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "KIM",
+        "name": "Kim Exchange",
+        "networkDetails": {
+            "coin": "KIM",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 450,
+            "name": "Kim Exchange",
+            "network": "MODE",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x6863fb62Ed27A9DdF458105B507C15b5d741d62e",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MODE"
+        }
+    },
+    {
+        "coin": "MODE",
+        "name": "Mode Network",
+        "networkDetails": {
+            "coin": "MODE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 450,
+            "name": "Mode Network",
+            "network": "MODE",
+            "withdrawEnable": true,
+            "withdrawFee": "15",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "30",
+            "sameAddress": false,
+            "contract": "0xDfc7C877a950e49D2610114102175A06C2e3167a",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MODE"
+        }
+    }
+]

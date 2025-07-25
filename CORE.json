@@ -1,0 +1,134 @@
+[
+    {
+        "coin": "CRX",
+        "name": "CORExNetwork",
+        "networkDetails": {
+            "coin": "CRX",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "CORExNetwork",
+            "network": "CORE",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "0x907F3cb137A3EabeA6248E1fa4A3Db4d19c43Cb4",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CORE"
+        }
+    },
+    {
+        "coin": "SHDW",
+        "name": "Shadowswap Finance",
+        "networkDetails": {
+            "coin": "SHDW",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Shadowswap Finance",
+            "network": "CORE",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "40000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0xddBa66C1eBA873e26Ac0215Ca44892a07d83aDF5",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CORE"
+        }
+    },
+    {
+        "coin": "COME",
+        "name": "Call of Memes",
+        "networkDetails": {
+            "coin": "COME",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Call of Memes",
+            "network": "CORE",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "50000000000000",
+            "withdrawMin": "300000000",
+            "sameAddress": false,
+            "contract": "0xb4a452e975c006619559e30069804f873475f111",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CORE"
+        }
+    },
+    {
+        "coin": "CORE",
+        "name": "Core DAO",
+        "networkDetails": {
+            "coin": "CORE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Core DAO",
+            "network": "CORE",
+            "withdrawEnable": true,
+            "withdrawFee": "0.05",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CORE"
+        }
+    },
+    {
+        "coin": "BOWOLD",
+        "name": "ArcherSwap Token",
+        "networkDetails": {
+            "coin": "BOWOLD",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "ArcherSwap Token",
+            "network": "CORE",
+            "withdrawEnable": false,
+            "withdrawFee": "0.2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "70000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x1a639e150d2210a4be4a5f0857a9151b241e7ae4",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CORE"
+        }
+    },
+    {
+        "coin": "OEX",
+        "name": "OpenEX Network",
+        "networkDetails": {
+            "coin": "OEX",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "OpenEX Network",
+            "network": "CORE",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0xFd843e2eB0E5F7e652fB864477D57510a469b332",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CORE"
+        }
+    }
+]

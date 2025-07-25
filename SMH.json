@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SMH",
+        "name": "SMH",
+        "networkDetails": {
+            "coin": "SMH",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 4,
+            "name": "SMH",
+            "network": "SMH",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SMH"
+        }
+    }
+]

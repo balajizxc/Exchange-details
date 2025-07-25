@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "RXD",
+        "name": "Radiant",
+        "networkDetails": {
+            "coin": "RXD",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Radiant",
+            "network": "Radiant",
+            "withdrawEnable": true,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "RXD"
+        }
+    }
+]

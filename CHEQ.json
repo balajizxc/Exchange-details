@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CHEQ",
+        "name": "Cheqd",
+        "networkDetails": {
+            "coin": "CHEQ",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 40,
+            "name": "Cheqd",
+            "network": "CHEQ",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2600000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CHEQ"
+        }
+    }
+]

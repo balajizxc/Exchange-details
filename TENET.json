@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TENET",
+        "name": "TENET",
+        "networkDetails": {
+            "coin": "TENET",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "TENET",
+            "network": "TENET",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "TENET"
+        }
+    }
+]

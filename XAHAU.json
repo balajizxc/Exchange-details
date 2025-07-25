@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "EVR",
+        "name": "EVR",
+        "networkDetails": {
+            "coin": "EVR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "EVR",
+            "network": "XAHAU",
+            "withdrawEnable": true,
+            "withdrawFee": "4",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "rEvernodee8dJLaFsujS6q1EiXvZYmHXr8",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XAHAU"
+        }
+    }
+]

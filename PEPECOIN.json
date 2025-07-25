@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PEP",
+        "name": "PEP",
+        "networkDetails": {
+            "coin": "PEP",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "PEP",
+            "network": "PEPECOIN",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "21000000",
+            "withdrawMin": "2000",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PEPECOIN"
+        }
+    }
+]

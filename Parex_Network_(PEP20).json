@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PRX",
+        "name": "PRX",
+        "networkDetails": {
+            "coin": "PRX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "PRX",
+            "network": "Parex Network (PEP20)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.7",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PAREX"
+        }
+    }
+]

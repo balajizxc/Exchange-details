@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MINA",
+        "name": "Mina Protocol",
+        "networkDetails": {
+            "coin": "MINA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 18,
+            "name": "Mina Protocol",
+            "network": "MINA",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "430000",
+            "withdrawMin": "2",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": "Due to Mina's network characteristics, 1 Mina is consumed to purchase a blockchain storage space when activating an account. This fee will be deducted during the first transaction. It is not a fee charged by the platform.",
+            "netWork": "MINA"
+        }
+    }
+]

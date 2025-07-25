@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BTC",
+        "name": "BTC-BSC",
+        "networkDetails": {
+            "coin": "BTC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 3,
+            "name": "Bitcoin",
+            "network": "Bitcoin(BTC)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.00003",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100",
+            "withdrawMin": "0.0001",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "",
+            "depositTips": null,
+            "netWork": "BTC"
+        }
+    }
+]

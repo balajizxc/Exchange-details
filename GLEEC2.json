@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "GLEEC",
+        "name": "GLEEC-GLEEC2",
+        "networkDetails": {
+            "coin": "GLEEC",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 3,
+            "name": "GLEEC-GLEEC2",
+            "network": "GLEEC2",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "GLEEC2"
+        }
+    }
+]

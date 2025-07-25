@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "VEX",
+        "name": "Vexanium",
+        "networkDetails": {
+            "coin": "VEX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 35,
+            "name": "Vexanium",
+            "network": "Vexanium(VEX)",
+            "withdrawEnable": true,
+            "withdrawFee": "100",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "400",
+            "sameAddress": true,
+            "contract": "vex.token",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VEX"
+        }
+    }
+]

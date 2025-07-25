@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "COSS",
+        "name": "COSS",
+        "networkDetails": {
+            "coin": "COSS",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "COSS",
+            "network": "COSS",
+            "withdrawEnable": false,
+            "withdrawFee": "2000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "4000000000",
+            "withdrawMin": "4000",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "COSS"
+        }
+    }
+]

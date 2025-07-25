@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DIONE",
+        "name": "DIONE",
+        "networkDetails": {
+            "coin": "DIONE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "DIONE",
+            "network": "DIONE",
+            "withdrawEnable": true,
+            "withdrawFee": "60",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "25000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DIONE"
+        }
+    }
+]

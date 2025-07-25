@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SAP",
+        "name": "SAP",
+        "networkDetails": {
+            "coin": "SAP",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "SAP",
+            "network": "POLYGONZKEVM",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0x8207CF61083fA9DFCe837fA5FD8f5d15F607292f",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "POLYGONZKEVM"
+        }
+    }
+]

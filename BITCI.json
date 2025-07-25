@@ -1,0 +1,134 @@
+[
+    {
+        "coin": "BFT",
+        "name": "Brazil National Fan",
+        "networkDetails": {
+            "coin": "BFT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Brazil National Fan",
+            "network": "BITCI",
+            "withdrawEnable": true,
+            "withdrawFee": "3",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0x4270A3D1a61FC6b86Ea9E19730E529ACEe592c3B",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BITCI"
+        }
+    },
+    {
+        "coin": "BITCI",
+        "name": "Bitcicoin",
+        "networkDetails": {
+            "coin": "BITCI",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Bitcicoin",
+            "network": "BITCI",
+            "withdrawEnable": true,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "74000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BITCI"
+        }
+    },
+    {
+        "coin": "FPFT",
+        "name": "PeruvianNational Fan",
+        "networkDetails": {
+            "coin": "FPFT",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "PeruvianNational Fan",
+            "network": "BITCI",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "11000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0xED8186908Cb406c6f72F8bDd70Dc67AE02Fb3DbD",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BITCI"
+        }
+    },
+    {
+        "coin": "KRIPTO",
+        "name": "KriptoKoin",
+        "networkDetails": {
+            "coin": "KRIPTO",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "KriptoKoin",
+            "network": "BITCI",
+            "withdrawEnable": true,
+            "withdrawFee": "140",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "266666666.666666",
+            "withdrawMin": "200",
+            "sameAddress": false,
+            "contract": "0xcb2263b182131DbB9824Bf406c8F8AcB65B54808",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BITCI"
+        }
+    },
+    {
+        "coin": "SNFT",
+        "name": "Spain National Fan",
+        "networkDetails": {
+            "coin": "SNFT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Spain National Fan",
+            "network": "BITCI",
+            "withdrawEnable": true,
+            "withdrawFee": "7",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3700000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "0x3e6F1be54FEb9CC37dBfC31A894a8810357C3F9C",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BITCI"
+        }
+    },
+    {
+        "coin": "GLFT",
+        "name": "Global Fan Token",
+        "networkDetails": {
+            "coin": "GLFT",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Global Fan Token",
+            "network": "BITCI",
+            "withdrawEnable": true,
+            "withdrawFee": "4000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "800000000",
+            "withdrawMin": "8000",
+            "sameAddress": false,
+            "contract": "0x74Fc789F81B1489e309eA38C0e3aECff60688c60",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BITCI"
+        }
+    }
+]

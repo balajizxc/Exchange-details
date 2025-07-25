@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "VC",
+        "name": "VinuChain",
+        "networkDetails": {
+            "coin": "VC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "VinuChain",
+            "network": "VC",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VC"
+        }
+    }
+]

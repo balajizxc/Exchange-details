@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "REBUS",
+        "name": "REBUSEVM",
+        "networkDetails": {
+            "coin": "REBUS",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 40,
+            "name": "REBUSEVM",
+            "network": "REBUSEVM",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "REBUSEVM"
+        }
+    }
+]

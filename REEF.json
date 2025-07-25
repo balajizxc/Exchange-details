@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "REEF",
+        "name": "REEF",
+        "networkDetails": {
+            "coin": "REEF",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 20,
+            "name": "REEF",
+            "network": "REEF",
+            "withdrawEnable": true,
+            "withdrawFee": "10",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "166666666.666666666666666666666666666666",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "REEF"
+        }
+    }
+]

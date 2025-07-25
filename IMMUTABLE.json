@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "TGT",
+        "name": "TOKYO GAMES TOKEN",
+        "networkDetails": {
+            "coin": "TGT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 300,
+            "name": "TOKYO GAMES TOKEN",
+            "network": "IMMUTABLE",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "0x0FA1d8Ffa9B414ABF0F47183e088bddC32e084F3",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "IMMUTABLE"
+        }
+    }
+]

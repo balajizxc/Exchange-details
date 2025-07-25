@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "VENOM",
+        "name": "VENOM",
+        "networkDetails": {
+            "coin": "VENOM",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "VENOM",
+            "network": "VENOM",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "340000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VENOM"
+        }
+    }
+]

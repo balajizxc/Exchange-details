@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "SWELL",
+        "name": "SWELL",
+        "networkDetails": {
+            "coin": "SWELL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "SWELL",
+            "network": "SWELL",
+            "withdrawEnable": true,
+            "withdrawFee": "100",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "200",
+            "sameAddress": false,
+            "contract": "0x2826D136F5630adA89C1678b64A61620Aab77Aea",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SWELL"
+        }
+    }
+]

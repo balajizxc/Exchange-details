@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "VTRO",
+        "name": "Vitruveo DEX",
+        "networkDetails": {
+            "coin": "VTRO",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 40,
+            "name": "Vitruveo DEX",
+            "network": "VTRU",
+            "withdrawEnable": false,
+            "withdrawFee": "1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "0xDECAF2f187Cb837a42D26FA364349Abc3e80Aa5D",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VTRU"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "AVAIL",
+        "name": "AVAIL",
+        "networkDetails": {
+            "coin": "AVAIL",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 5,
+            "name": "AVAIL",
+            "network": "AVAIL",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "AVAIL"
+        }
+    }
+]

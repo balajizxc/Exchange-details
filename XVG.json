@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XVG",
+        "name": "Verge",
+        "networkDetails": {
+            "coin": "XVG",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 180,
+            "name": "Verge",
+            "network": "XVG",
+            "withdrawEnable": true,
+            "withdrawFee": "30",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "73000000",
+            "withdrawMin": "600",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XVG"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ROOT",
+        "name": "The Root Network",
+        "networkDetails": {
+            "coin": "ROOT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 80,
+            "name": "The Root Network",
+            "network": "The Root Network",
+            "withdrawEnable": true,
+            "withdrawFee": "5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "ROOT",
+            "withdrawTips": null,
+            "depositTips": "Please do not use the [futurepass.futureverse.app] method to deposit ROOT, or it will be lost.",
+            "netWork": "ROOT"
+        }
+    }
+]

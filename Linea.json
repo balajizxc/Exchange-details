@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ETH",
+        "name": "ETH",
+        "networkDetails": {
+            "coin": "ETH",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 10,
+            "name": "ETH-LINEA",
+            "network": "Linea",
+            "withdrawEnable": true,
+            "withdrawFee": "0.00003",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000",
+            "withdrawMin": "0.0008",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "LINEA"
+        }
+    }
+]

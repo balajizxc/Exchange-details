@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CKB",
+        "name": "CKB",
+        "networkDetails": {
+            "coin": "CKB",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "CKB",
+            "network": "CKB",
+            "withdrawEnable": true,
+            "withdrawFee": "200",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000000",
+            "withdrawMin": "500",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NERVOS"
+        }
+    }
+]

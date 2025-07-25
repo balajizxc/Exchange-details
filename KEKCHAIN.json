@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "KEKOLD",
+        "name": "KEKCHAIN",
+        "networkDetails": {
+            "coin": "KEKOLD",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "KEKCHAIN",
+            "network": "KEKCHAIN",
+            "withdrawEnable": false,
+            "withdrawFee": "700",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2400000000",
+            "withdrawMin": "1500",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "KEKCHAIN"
+        }
+    }
+]

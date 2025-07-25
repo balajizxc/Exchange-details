@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NAC",
+        "name": "NAC",
+        "networkDetails": {
+            "coin": "NAC",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "NAC",
+            "network": "NAC",
+            "withdrawEnable": true,
+            "withdrawFee": "1.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000",
+            "withdrawMin": "3",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NAC"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NCN",
+        "name": "NeurochainAI",
+        "networkDetails": {
+            "coin": "NCN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "NeurochainAI",
+            "network": "NCN",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NCN"
+        }
+    }
+]

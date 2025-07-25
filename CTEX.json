@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "CTEX",
+        "name": "Crypto Tex",
+        "networkDetails": {
+            "coin": "CTEX",
+            "depositDesc": "Deposit suspended as project upgrade is in progress",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "Crypto Tex",
+            "network": "CTEX",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "CTEX"
+        }
+    }
+]

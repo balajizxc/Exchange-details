@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "IRON",
+        "name": "Iron Fish",
+        "networkDetails": {
+            "coin": "IRON",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 100,
+            "name": "Iron Fish",
+            "network": "IRON",
+            "withdrawEnable": true,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000",
+            "withdrawMin": "1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "IRON"
+        }
+    }
+]

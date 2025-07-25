@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XMR",
+        "name": "Monero",
+        "networkDetails": {
+            "coin": "XMR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Monero",
+            "network": "Monero(XMR)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.00145",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "90",
+            "withdrawMin": "0.01",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XMR"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "XFI",
+        "name": "XFI",
+        "networkDetails": {
+            "coin": "XFI",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 35,
+            "name": "XFI",
+            "network": "CrossFi",
+            "withdrawEnable": true,
+            "withdrawFee": "2",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "500000",
+            "withdrawMin": "4",
+            "sameAddress": false,
+            "contract": "xfi",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "XFI"
+        }
+    }
+]

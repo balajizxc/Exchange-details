@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "BTY",
+        "name": "Bityuan",
+        "networkDetails": {
+            "coin": "BTY",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 60,
+            "name": "Bityuan",
+            "network": "BTY",
+            "withdrawEnable": true,
+            "withdrawFee": "7",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "3000000",
+            "withdrawMin": "20",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "BTY"
+        }
+    }
+]

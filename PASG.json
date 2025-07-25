@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PASG",
+        "name": "PASG",
+        "networkDetails": {
+            "coin": "PASG",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 30,
+            "name": "PASG",
+            "network": "PASG",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "10",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PASG"
+        }
+    }
+]

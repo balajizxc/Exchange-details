@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "EGC",
+        "name": "Egoras Credit",
+        "networkDetails": {
+            "coin": "EGC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 40,
+            "name": "Egoras Credit",
+            "network": "EGOCHAIN",
+            "withdrawEnable": true,
+            "withdrawFee": "0.125",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "25000",
+            "withdrawMin": "0.25",
+            "sameAddress": false,
+            "contract": "0x16eB0dd82942F6e42b9B21f7EE15DDC735831Db9",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "EGAX"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MGO",
+        "name": "MGO",
+        "networkDetails": {
+            "coin": "MGO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "MGO",
+            "network": "MANGO",
+            "withdrawEnable": true,
+            "withdrawFee": "15",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "40",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MANGO"
+        }
+    }
+]

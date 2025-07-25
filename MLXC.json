@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "MLXC",
+        "name": "MLXC",
+        "networkDetails": {
+            "coin": "MLXC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "MLXC",
+            "network": "MLXC",
+            "withdrawEnable": true,
+            "withdrawFee": "7000",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "14000000000",
+            "withdrawMin": "10000",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "MLXC"
+        }
+    }
+]

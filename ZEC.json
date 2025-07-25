@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ZEC",
+        "name": "Zcash",
+        "networkDetails": {
+            "coin": "ZEC",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 150,
+            "name": "Zcash",
+            "network": "ZEC",
+            "withdrawEnable": true,
+            "withdrawFee": "0.005",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "30000",
+            "withdrawMin": "0.015",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "",
+            "depositTips": "",
+            "netWork": "ZEC"
+        }
+    }
+]

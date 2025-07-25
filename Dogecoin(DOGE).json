@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "DOGE",
+        "name": "Dogecoin",
+        "networkDetails": {
+            "coin": "DOGE",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "DOGE",
+            "network": "Dogecoin(DOGE)",
+            "withdrawEnable": true,
+            "withdrawFee": "2.92",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200000",
+            "withdrawMin": "120",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "DOGE"
+        }
+    }
+]

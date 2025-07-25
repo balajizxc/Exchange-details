@@ -1,0 +1,90 @@
+[
+    {
+        "coin": "HZNDEX",
+        "name": "HorizonDEX",
+        "networkDetails": {
+            "coin": "HZNDEX",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 10,
+            "name": "HorizonDEX",
+            "network": "LINEA",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "20000000",
+            "withdrawMin": "120",
+            "sameAddress": false,
+            "contract": "0x0B1A02A7309dFbfAD1Cd4adC096582C87e8A3Ac1",
+            "withdrawTips": "The token name of HorizonDEX(HZN) is HZNDEX in MEXC; The last digits of the token's contract address are 3Ac1, please make sure they're correct before taking action.",
+            "depositTips": "The token name of HorizonDEX(HZN) is HZNDEX in MEXC; The last digits of the token's contract address are 3Ac1, please make sure they're correct before taking action.",
+            "netWork": "LINEA"
+        }
+    },
+    {
+        "coin": "CLIP",
+        "name": "Clip Finance",
+        "networkDetails": {
+            "coin": "CLIP",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 10,
+            "name": "Clip Finance",
+            "network": "LINEA",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "125000000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x4Ea77a86d6E70FfE8Bb947FC86D68a7F086f198a",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "LINEA"
+        }
+    },
+    {
+        "coin": "LYNX",
+        "name": "Lynex",
+        "networkDetails": {
+            "coin": "LYNX",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 10,
+            "name": "Lynex",
+            "network": "LINEA",
+            "withdrawEnable": true,
+            "withdrawFee": "3",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "LINEA"
+        }
+    },
+    {
+        "coin": "ZERO",
+        "name": "ZeroLend",
+        "networkDetails": {
+            "coin": "ZERO",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 10,
+            "name": "ZeroLend",
+            "network": "LINEA",
+            "withdrawEnable": true,
+            "withdrawFee": "70",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "300000000",
+            "withdrawMin": "140",
+            "sameAddress": false,
+            "contract": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "LINEA"
+        }
+    }
+]

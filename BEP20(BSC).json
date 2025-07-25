@@ -1,0 +1,68 @@
+[
+    {
+        "coin": "DYP",
+        "name": "Dypius",
+        "networkDetails": {
+            "coin": "DYP",
+            "depositDesc": "Deposit suspended as project upgrade is in progress",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "Dypius",
+            "network": "BEP20(BSC)",
+            "withdrawEnable": false,
+            "withdrawFee": "6",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1400000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NONE"
+        }
+    },
+    {
+        "coin": "SENSO",
+        "name": "SENSO-BSC",
+        "networkDetails": {
+            "coin": "SENSO",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "SENSO-BSC",
+            "network": "BEP20(BSC)",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "150000",
+            "withdrawMin": "8",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NONE"
+        }
+    },
+    {
+        "coin": "TONCOIN",
+        "name": "Toncoin",
+        "networkDetails": {
+            "coin": "TONCOIN",
+            "depositDesc": null,
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "Toncoin",
+            "network": "BEP20(BSC)",
+            "withdrawEnable": false,
+            "withdrawFee": "0.43",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "430000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NONE"
+        }
+    }
+]

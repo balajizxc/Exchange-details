@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ICP",
+        "name": "Internet Computer",
+        "networkDetails": {
+            "coin": "ICP",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 12,
+            "name": "Internet Computer",
+            "network": "Internet Computer(ICP)",
+            "withdrawEnable": true,
+            "withdrawFee": "0.0003",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1000000",
+            "withdrawMin": "0.0006",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ICP"
+        }
+    }
+]

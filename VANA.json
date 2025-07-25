@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "VANA",
+        "name": "VANA",
+        "networkDetails": {
+            "coin": "VANA",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 60,
+            "name": "VANA",
+            "network": "VANA",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "15000",
+            "withdrawMin": "0.2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "VANA"
+        }
+    }
+]

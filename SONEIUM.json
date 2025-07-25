@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "GHT",
+        "name": "Governance Health",
+        "networkDetails": {
+            "coin": "GHT",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 120,
+            "name": "Governance Health",
+            "network": "SONEIUM",
+            "withdrawEnable": true,
+            "withdrawFee": "25",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "0xcb46843Fe775EEC8499ccf18fb48B915A3Dae207",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "SONEIUM"
+        }
+    }
+]

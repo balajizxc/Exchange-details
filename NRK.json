@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "NRK",
+        "name": "Nordek",
+        "networkDetails": {
+            "coin": "NRK",
+            "depositDesc": "Deposit suspended upon project party's request",
+            "depositEnable": false,
+            "minConfirm": 12,
+            "name": "Nordek",
+            "network": "NRK",
+            "withdrawEnable": false,
+            "withdrawFee": "0.1",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "500000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "NRK"
+        }
+    }
+]

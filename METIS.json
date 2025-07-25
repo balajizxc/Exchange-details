@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "NETT",
+        "name": "Netswap Token",
+        "networkDetails": {
+            "coin": "NETT",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 50,
+            "name": "Netswap Token",
+            "network": "METIS",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "1500000",
+            "withdrawMin": "1",
+            "sameAddress": false,
+            "contract": "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "METIS"
+        }
+    },
+    {
+        "coin": "METIS",
+        "name": "MetisDAO",
+        "networkDetails": {
+            "coin": "METIS",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 50,
+            "name": "MetisDAO",
+            "network": "METIS",
+            "withdrawEnable": true,
+            "withdrawFee": "0.006",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "10000",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "METIS"
+        }
+    }
+]

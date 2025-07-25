@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "LN",
+        "name": "LINK",
+        "networkDetails": {
+            "coin": "LN",
+            "depositDesc": "Deposit suspended due to wallet maintenance",
+            "depositEnable": false,
+            "minConfirm": 35,
+            "name": "LINK",
+            "network": "LINE",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000",
+            "withdrawMin": "0.1",
+            "sameAddress": true,
+            "contract": "",
+            "withdrawTips": "MEXC ONLY supports LINK(LN) on Finschia chain. Please DO NOT transfer LINK(LN) to Daphne chain(DOSI Wallet, LINE BITMAX Wallet). Wrong transfers will result in asset loss which is non-retrievable.",
+            "depositTips": "MEXC ONLY supports LINK(LN) on Finschia chain. Please DO NOT transfer LINK(LN) from Daphne chain(DOSI Wallet, LINE BITMAX Wallet). Wrong transfers will result in asset loss which is non-retrievable.",
+            "netWork": "LINE"
+        }
+    }
+]

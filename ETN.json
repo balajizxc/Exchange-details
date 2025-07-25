@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ETN",
+        "name": "Electroneum",
+        "networkDetails": {
+            "coin": "ETN",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "Electroneum",
+            "network": "ETN",
+            "withdrawEnable": true,
+            "withdrawFee": "50",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "100000000",
+            "withdrawMin": "100",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ETN"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "PLCUC",
+        "name": "PLCUC",
+        "networkDetails": {
+            "coin": "PLCUC",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 8,
+            "name": "PLCUC",
+            "network": "PLCUC",
+            "withdrawEnable": false,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200",
+            "withdrawMin": "0.1",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "PLCU"
+        }
+    }
+]

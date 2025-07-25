@@ -1,0 +1,46 @@
+[
+    {
+        "coin": "ZZ",
+        "name": "ZZ",
+        "networkDetails": {
+            "coin": "ZZ",
+            "depositDesc": "Deposit is prohibited (forced deposit may result in asset loss)",
+            "depositEnable": false,
+            "minConfirm": 4,
+            "name": "ZZ",
+            "network": "zkSync Lite",
+            "withdrawEnable": true,
+            "withdrawFee": "0",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "520000",
+            "withdrawMin": "10",
+            "sameAddress": false,
+            "contract": "0xc91a71a1ffa3d8b22ba615ba1b9c01b2bbbf55ad",
+            "withdrawTips": "The token is currently zkSync Lite 1.0, Please confirm before proceeding.",
+            "depositTips": "The token is currently zkSync Lite 1.0, Please confirm before proceeding.ZkSync Lite token deposit on-chain will take 12 hours for verification due to asset safety concern and special feature of zkSync Era chain, Please confirm before proceeding.",
+            "netWork": "ZKSYNC"
+        }
+    },
+    {
+        "coin": "ETH",
+        "name": "ETH",
+        "networkDetails": {
+            "coin": "ETH",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 4,
+            "name": "ETH",
+            "network": "zkSync Lite",
+            "withdrawEnable": true,
+            "withdrawFee": "0.0003",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "200",
+            "withdrawMin": "0.0005",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": "The token is currently zkSync Lite 1.0, Please confirm before proceeding.",
+            "depositTips": "The token is currently zkSync Lite 1.0, Please confirm before proceeding.",
+            "netWork": "ZKSYNC"
+        }
+    }
+]

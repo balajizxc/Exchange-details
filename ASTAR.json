@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "ASTR",
+        "name": "Astar",
+        "networkDetails": {
+            "coin": "ASTR",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 30,
+            "name": "ASTAR",
+            "network": "ASTAR",
+            "withdrawEnable": true,
+            "withdrawFee": "7",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "5000000",
+            "withdrawMin": "15",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "ASTAR"
+        }
+    }
+]

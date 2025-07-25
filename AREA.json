@@ -1,0 +1,24 @@
+[
+    {
+        "coin": "AREA",
+        "name": "Areon Network",
+        "networkDetails": {
+            "coin": "AREA",
+            "depositDesc": null,
+            "depositEnable": true,
+            "minConfirm": 40,
+            "name": "Areon Network",
+            "network": "AREA",
+            "withdrawEnable": true,
+            "withdrawFee": "0.5",
+            "withdrawIntegerMultiple": null,
+            "withdrawMax": "2000000",
+            "withdrawMin": "2",
+            "sameAddress": false,
+            "contract": "",
+            "withdrawTips": null,
+            "depositTips": null,
+            "netWork": "AREA"
+        }
+    }
+]
